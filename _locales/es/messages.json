@@ -1,0 +1,1922 @@
+{
+  "extensionName": {
+    "message": "TabX - Gestor de pestañas fácil",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Transforma tu nueva pestaña en un panel productivo. Añade notas, establece recordatorios y sincroniza entre dispositivos.",
+    "description": "A description of the extension"
+  },
+  "buttonLabel": {
+    "message": "Añadir sitio/imagen",
+    "description": "Label for adding custom url site"
+  },
+  "limitReached": {
+    "message": "Límite alcanzado",
+    "description": "Label for limit reached"
+  },
+  "limitReachedSubtitle": {
+    "message": "Has alcanzado el máximo de sitios guardados en el plan gratuito.",
+    "description": "Label for limit reached subtitle"
+  },
+  "AddCustomUrl": {
+    "message": "Añadir una URL personalizada",
+    "description": "Label for adding custom url"
+  },
+  "AddCustomUrlSubtitle": {
+    "message": "También puedes usar file:/// para enlazar archivos locales",
+    "description": "Label for adding custom url subtitle"
+  },
+  "titleIsRequired": {
+    "message": "El título es obligatorio",
+    "description": "Label for title is required"
+  },
+  "urlIsRequired": {
+    "message": "La URL es obligatoria",
+    "description": "Label for url is required"
+  },
+  "orAddPredefined": {
+    "message": "O añade un acceso directo .new predefinido al grupo:",
+    "description": "Label for or add a predefined shortcut"
+  },
+  "saveAsNewGroup": {
+    "message": "Guardar como nuevo grupo",
+    "description": "Label for save as new group"
+  },
+  "closeWindow": {
+    "message": "Cerrar ventana",
+    "description": "Label for close window"
+  },
+  "removeDuplicates": {
+    "message": "Eliminar duplicados",
+    "description": "Label for remove duplicates"
+  },
+  "pinSidebar": {
+    "message": "Fijar barra lateral",
+    "description": "Label for pin sidebar"
+  },
+  "unpinSidebar": {
+    "message": "Desfijar barra lateral",
+    "description": "Label for unpin sidebar"
+  },
+  "gridView": {
+    "message": "Vista en cuadrícula",
+    "description": "Label for grid view"
+  },
+  "newWindow": {
+    "message": "Nueva ventana",
+    "description": "Label for new window"
+  },
+  "deleteNote": {
+    "message": "Eliminar nota",
+    "description": "Label for delete note"
+  },
+  "deteleToDo": {
+    "message": "Eliminar tarea",
+    "description": "Label for detele to-do"
+  },
+  "editReminder": {
+    "message": "Editar recordatorio",
+    "description": "Label for edit reminder"
+  },
+  "setReminder": {
+    "message": "Establecer recordatorio",
+    "description": "Label for set reminder"
+  },
+  "copyContent": {
+    "message": "Copiar contenido",
+    "description": "Label for copy content"
+  },
+  "textCopied": {
+    "message": "Texto copiado",
+    "description": "Label for text copied"
+  },
+  "textCopiedSubtitle": {
+    "message": "La nota ha sido copiada al portapapeles",
+    "description": "Label for text copied subtitle"
+  },
+  "couldNotCopy": {
+    "message": "No se pudo copiar al portapapeles. Por favor, inténtalo de nuevo.",
+    "description": "Label for could not copy"
+  },
+  "addEmoji": {
+    "message": "Añadir emoji",
+    "description": "Label for add emoji"
+  },
+  "setColor": {
+    "message": "Establecer color",
+    "description": "Label for set color"
+  },
+  "setAsNote": {
+    "message": "Establecer como nota",
+    "description": "Label for set as note"
+  },
+  "setAsToDo": {
+    "message": "Establecer como tarea",
+    "description": "Label for set as to-do"
+  },
+  "saved": {
+    "message": "Guardado",
+    "description": "Label for saved"
+  },
+  "tabSavedSuccess": {
+    "message": "Pestaña guardada correctamente",
+    "description": "Label for tab saved successfully"
+  },
+  "errorFetchingWorkspace": {
+    "message": "Error al obtener el espacio de trabajo",
+    "description": "Label for error fetching workspace"
+  },
+  "errorSavingTab": {
+    "message": "Error al guardar la pestaña",
+    "description": "Label for error saving tab"
+  },
+  "userNotSignedIn": {
+    "message": "Usuario no conectado",
+    "description": "Label for user not signed in"
+  },
+  "errorFetchingData": {
+    "message": "Error al obtener datos",
+    "description": "Label for error fetching data"
+  },
+  "noteSavedSuccess": {
+    "message": "Nota guardada correctamente",
+    "description": "Label for note saved successfully"
+  },
+  "imageSavedSuccess": {
+    "message": "Imagen guardada correctamente",
+    "description": "Label for image saved successfully"
+  },
+  "errorSavingImage": {
+    "message": "Error al guardar la imagen",
+    "description": "Label for error saving image"
+  },
+  "errorSavingNote": {
+    "message": "Error al guardar la nota",
+    "description": "Label for error saving note"
+  },
+  "remindersAndWorkspacesUpdatedSuccess": {
+    "message": "Recordatorios y espacios de trabajo actualizados correctamente",
+    "description": "Label for reminders and workspaces updated successfully"
+  },
+  "errorUpdatingRemindersAndWorkspaces": {
+    "message": "Error al actualizar recordatorios y espacios de trabajo",
+    "description": "Label for error updating reminders and workspaces"
+  },
+  "editTitle": {
+    "message": "Editar título",
+    "description": "Label for edit title"
+  },
+  "editSymbol": {
+    "message": "Editar símbolo",
+    "description": "Label for edit symbol"
+  },
+  "expand": {
+    "message": "Expandir",
+    "description": "Label for expand"
+  },
+  "collapse": {
+    "message": "Contraer",
+    "description": "Label for collapse"
+  },
+  "openAsGroup": {
+    "message": "Abrir como grupo",
+    "description": "Label for open as group"
+  },
+  "dropToRemove1ItemFromStack": {
+    "message": "Suelta para eliminar 1 elemento de la pila",
+    "description": "Label for drop to remove 1 item from stack"
+  },
+  "clickToPerformActionsOnAllTabs": {
+    "message": "Haz clic aquí para realizar acciones en todas las pestañas",
+    "description": "Label for click to perform actions on all tabs"
+  },
+  "saveAllTabsIntoNewGroup": {
+    "message": "Guardar todo en nuevo grupo",
+    "description": "Label for save all into new group"
+  },
+  "saveAllIntoExistingGroup": {
+    "message": "Guardar todo en grupo existente",
+    "description": "Label for save all into existing group"
+  },
+  "closeAllTabs": {
+    "message": "Cerrar todas las pestañas",
+    "description": "Label for close all tabs"
+  },
+  "groupsAreSortedIntoEditableCategories": {
+    "message": "Los grupos se ordenan en categorías editables, que luego se ordenan en espacios de trabajo.",
+    "description": "Label for groups are sorted into editable categories"
+  },
+  "use": {
+    "message": "Usar",
+    "description": "Use"
+  },
+  "toQuicklyJumpBetweenCategories": {
+    "message": "etc para saltar rápidamente entre categorías y",
+    "description": "etc to quickly jump between categories and"
+  },
+  "seeAllWorkspaces": {
+    "message": "ver todos los espacios de trabajo.",
+    "description": "see all workspaces."
+  },
+  "inTheTopRightCorner": {
+    "message": "En la esquina superior derecha, encontrarás:",
+    "description": "In the top-right corner, you'll find:"
+  },
+  "search": {
+    "message": "Buscar",
+    "description": "Search"
+  },
+  "actionMenu": {
+    "message": "Menú de acciones",
+    "description": "Action menu"
+  },
+  "remindersOverview": {
+    "message": "Resumen de recordatorios",
+    "description": "Reminders overview"
+  },
+  "share": {
+    "message": "Compartir",
+    "description": "Share"
+  },
+  "userDetails": {
+    "message": "Detalles del usuario",
+    "description": "User details"
+  },
+  "done": {
+    "message": "Hecho",
+    "description": "Done"
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "Cancel"
+  },
+  "delete": {
+    "message": "Eliminar",
+    "description": "Delete"
+  },
+  "thatSIt": {
+    "message": "¡Eso es todo!",
+    "description": "That's it!"
+  },
+  "findMoreTipsInOurGuide": {
+    "message": "Encuentra más consejos en nuestra guía, incluyendo cómo guardar fragmentos de texto de sitios web, crear/compartir espacios de trabajo, selección múltiple, atajos y más en:",
+    "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+  },
+  "windowMenu": {
+    "message": "Menú de ventana",
+    "description": "Window menu"
+  },
+  "next": {
+    "message": "Siguiente",
+    "description": "Next"
+  },
+  "showMeAround": {
+    "message": "Muéstrame el recorrido",
+    "description": "Show me around"
+  },
+  "welcomeToTabX": {
+    "message": "Bienvenido a TabX",
+    "description": "Welcome to TabX"
+  },
+  "TabXHelpsYouManageTabs": {
+    "message": "TabX te ayuda a gestionar pestañas, añadir notas y establecer recordatorios, todo dentro de vistas Kanban fáciles de usar.",
+    "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+  },
+  "beforeWeBeginOurAppTourWeStartWith": {
+    "message": "Antes de comenzar nuestro recorrido por la aplicación, empezamos con las preferencias de modo claro/oscuro (también se puede cambiar más tarde en la configuración).",
+    "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+  },
+  "inTheLeftSidebar": {
+    "message": "En la barra lateral izquierda se muestran todas tus pestañas abiertas en la ventana actual. Aquí puedes gestionar tus pestañas y grupos de pestañas con facilidad.",
+    "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+  },
+  "inTheTopLeftCorner": {
+    "message": "En la esquina superior izquierda, encontrarás el menú de espacios de trabajo, que te permite crear nuevos espacios de trabajo, gestionar los existentes y acceder a la configuración.",
+    "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+  },
+  "step": {
+    "message": "Paso",
+    "description": "Step"
+  },
+  "skipTour": {
+    "message": "Saltar recorrido",
+    "description": "Skip tour"
+  },
+  "toCreateYourFirstGroup": {
+    "message": "Para crear tu primer grupo, puedes arrastrar y soltar una o más pestañas en la zona de destino mostrada.",
+    "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+  },
+  "youCanThenDragMoreTabsIntoTheGroup": {
+    "message": "Luego puedes arrastrar más pestañas al grupo o crear otro. También puedes usar ",
+    "description": "You can then drag more tabs into the group or create another."
+  },
+  "toCreateNewGroups": {
+    "message": "para crear nuevos grupos.",
+    "description": "to create new groups."
+  },
+  "getStarted": {
+    "message": "¡Empezar!",
+    "description": "Get started!"
+  },
+  "showWorkspaces": {
+    "message": "Mostrar espacios de trabajo",
+    "description": "Show workspaces"
+  },
+  "general": {
+    "message": "General",
+    "description": "General"
+  },
+  "appearance": {
+    "message": "Apariencia",
+    "description": "Appearance"
+  },
+  "data": {
+    "message": "Datos",
+    "description": "Data"
+  },
+  "openLinksInNewTab": {
+    "message": "Abrir enlaces en nueva pestaña",
+    "description": "Open links in new tab"
+  },
+  "jumpToOpenedTab": {
+    "message": "Saltar/enfocar pestaña abierta",
+    "description": "Jump/focus opened tab"
+  },
+  "keyboardShortcuts": {
+    "message": "Atajos de teclado",
+    "description": "Keyboard shortcuts"
+  },
+  "changeDefaultKeyBindings": {
+    "message": "Cambiar atajos de teclado predeterminados",
+    "description": "Change default key-bindings"
+  },
+  "guideAndHelp": {
+    "message": "Guía y Ayuda",
+    "description": "Guide & Help"
+  },
+  "guideAndHelpSubtitle": {
+    "message": "Encuentra respuestas a preguntas comunes, aprende a usar la extensión y obtén soporte en:",
+    "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+  },
+  "retakeTour": {
+    "message": "Repetir recorrido",
+    "description": "Retake tour"
+  },
+  "seeTheExtensionWalkthrough": {
+    "message": "Ver el recorrido por la extensión (6 pasos)",
+    "description": "See the extension walkthrough"
+  },
+  "showSiteUrl": {
+    "message": "Mostrar URL del sitio",
+    "description": "Show site URL"
+  },
+  "showSiteUrlDetails": {
+    "message": "Alternar la visualización de URL de los sitios",
+    "description": "Toggle sites URL being shown"
+  },
+  "showWorkspaceEmoji": {
+    "message": "Mostrar emoji del espacio de trabajo",
+    "description": "Show workspace emoji"
+  },
+      "showWorkspaceEmojiDetails": {
+      "message": "Mostrar el emoji del espacio de trabajo actual junto a las categorías",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "Ocultar símbolo del grupo",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "Ocultar el emoji/símbolo en los grupos",
+      "description": "Hide the emoji/symbol on groups"
+    },
+  "showTrashDropZone": {
+    "message": "Mostrar zona de papelera",
+    "description": "Show trash drop-zone"
+  },
+  "showTrashDropZoneDetails": {
+    "message": "Suelta elementos en el área roja para eliminarlos",
+    "description": "Drop items off into the red area to delete them"
+  },
+  "trashDropZonePosition": {
+    "message": "Posición de la zona de papelera",
+    "description": "Trash drop-zone position"
+  },
+  "trashDropZonePositionDetails": {
+    "message": "Elegir ubicación de papelera",
+    "description": "Select trash drop-zone location"
+  },
+  "showMinMaxButton": {
+    "message": "Mostrar botón min/max",
+    "description": "Show min/max button"
+  },
+  "showMinMaxButtonDetails": {
+    "message": "Mostrar botón de minimizar/maximizar para grupos fuera del menú",
+    "description": "Show min/max button for groups outside menu"
+  },
+  "exportData": {
+    "message": "Exportar datos",
+    "description": "Export data"
+  },
+  "exportDataDetails": {
+    "message": "Exportar espacio de trabajo actual",
+    "description": "Export current workspace"
+  },
+  "importData": {
+    "message": "Importar datos",
+    "description": "Import data"
+  },
+  "importDataDetails": {
+    "message": "Importar espacio de trabajo desde un archivo",
+    "description": "Import workspace from a file"
+  },
+  "openNewTab": {
+    "message": "Abrir Nueva Pestaña para inicializar...",
+    "description": "Open New Tab to initialize..."
+  },
+  "noSitesInside": {
+    "message": "No hay sitios dentro",
+    "description": "No sites inside"
+  },
+  "openAll": {
+    "message": "Abrir todo",
+    "description": "Open all"
+  },
+  "sites": {
+    "message": "sitios",
+    "description": "sites"
+  },
+  "site": {
+    "message": "sitio",
+    "description": "site"
+  },
+  "updateGroup": {
+    "message": "Actualizar grupo",
+    "description": "Update group"
+  },
+  "closeGroup": {
+    "message": "Cerrar grupo",
+    "description": "Close group"
+  },
+  "groupCreated": {
+    "message": "Grupo creado",
+    "description": "Group created"
+  },
+  "wasAddedAsAGroup": {
+    "message": "fue añadido como grupo",
+    "description": "was added as a group"
+  },
+  "maxGroupsReached": {
+    "message": "Máximo de grupos alcanzado",
+    "description": "Max groups reached"
+  },
+  "createNewCategory": {
+    "message": "Crea una nueva categoría para crear más grupos",
+    "description": "Create a new category to create more groups"
+  },
+  "permissionDenied": {
+    "message": "Permiso denegado",
+    "description": "Permission was denied"
+  },
+  "noAccessToTopsites": {
+    "message": "Sin acceso a sitios más visitados",
+    "description": "No access to topsites"
+  },
+  "noAccessToBookmarks": {
+    "message": "Sin acceso a marcadores",
+    "description": "No access to bookmarks"
+  },
+  "addImportedSites": {
+    "message": "Añadir/importar sitios",
+    "description": "Add/import sites"
+  },
+  "yourMostVisitedSites": {
+    "message": "Tus sitios más visitados",
+    "description": "Your most visited sites"
+  },
+  "yourBookmarks": {
+    "message": "Tus marcadores",
+    "description": "Your bookmarks"
+  },
+  "needsOneTimePermission": {
+    "message": "Necesita un permiso único",
+    "description": "Needs a one-time permission"
+  },
+  "grantAccess": {
+    "message": "Conceder acceso",
+    "description": "Grant access"
+  },
+  "noBookmarksFound": {
+    "message": "No se encontraron marcadores",
+    "description": "No bookmarks found"
+  },
+  "workspaceFull": {
+    "message": "Espacio de trabajo lleno",
+    "description": "Workspace full"
+  },
+  "maximum8CategoriesPerWorkspace": {
+    "message": "Máximo 8 categorías por espacio de trabajo",
+    "description": "Maximum 8 categories per workspace"
+  },
+  "editCategories": {
+    "message": "Editar categorías",
+    "description": "Edit categories"
+  },
+  "maximumOf8CategoriesReached": {
+    "message": "Máximo de 8 categorías alcanzado",
+    "description": "Maximum of 8 categories reached"
+  },
+  "newCategory": {
+    "message": "Nueva categoría",
+    "description": "New category"
+  },
+  "areYouSureYouWantToDeleteThisCategory": {
+    "message": "¿Estás seguro de que quieres eliminar esta categoría?",
+    "description": "Are you sure you want to delete this category?"
+  },
+  "allContainingGroupsAndSavedItemsWillBeDeleted": {
+    "message": "Todos los grupos contenidos y elementos guardados serán eliminados",
+    "description": "All containing groups and saved items will be deleted"
+  },
+  "noMatch": {
+    "message": "Sin coincidencias",
+    "description": "No match"
+  },
+  "noTabsHereNeat": {
+    "message": "¡No hay pestañas aquí, genial!",
+    "description": "No tabs here, neat!"
+  },
+  "clearInput": {
+    "message": "Limpiar entrada",
+    "description": "Clear input"
+  },
+  "toNavigate": {
+    "message": "para navegar",
+    "description": "to navigate"
+  },
+  "addAsGroup": {
+    "message": "Añadir como grupo a la categoría actual",
+    "description": "Add as group to current category"
+  },
+  "edit": {
+    "message": "Editar",
+    "description": "Edit"
+  },
+  "restore": {
+    "message": "Restaurar",
+    "description": "Restore"
+  },
+  "deletePermanently": {
+    "message": "Eliminar permanentemente",
+    "description": "Delete permanently"
+  },
+  "editName": {
+    "message": "Editar nombre",
+    "description": "Edit name"
+  },
+  "reminderDue": {
+    "message": "recordatorio pendiente",
+    "description": "reminder due"
+  },
+  "remindersDue": {
+    "message": "recordatorios pendientes",
+    "description": "reminders due"
+  },
+  "selectedItems": {
+    "message": "Elementos seleccionados",
+    "description": "Selected items"
+  },
+  "stack": {
+    "message": "Apilar",
+    "description": "Stack"
+  },
+  "unstack": {
+    "message": "Desapilar",
+    "description": "Unstack"
+  },
+  "item": {
+    "message": "elemento",
+    "description": "item"
+  },
+  "items": {
+    "message": "elementos",
+    "description": "items"
+  },
+  "toDo": {
+    "message": "tarea",
+    "description": "to-do"
+  },
+  "note": {
+    "message": "nota",
+    "description": "note"
+  },
+  "deleteItems": {
+    "message": "Eliminar elementos",
+    "description": "Delete items"
+  },
+  "openPricingPage": {
+    "message": "Abrir página de precios",
+    "description": "Open pricing page"
+  },
+  "proPlanOnly": {
+    "message": "Solo plan Pro",
+    "description": "Pro plan only"
+  },
+  "upload": {
+    "message": "Subir",
+    "description": "Upload"
+  },
+  "clickToEdit": {
+    "message": "Clic para editar",
+    "description": "Click to edit"
+  },
+  "resetToDefault": {
+    "message": "Restablecer a predeterminado",
+    "description": "Reset to default"
+  },
+  "typeShortcut": {
+    "message": "Escribir atajo",
+    "description": "Type shortcut"
+  },
+  "refetch": {
+    "message": "Recargar",
+    "description": "Refetch"
+  },
+  "newWorkspace": {
+    "message": "Nuevo espacio de trabajo",
+    "description": "New workspace"
+  },
+  "upgradeToCollaborate": {
+    "message": "Actualiza para colaborar",
+    "description": "Upgrade to collaborate"
+  },
+  "inviteAcceptedSuccessfully": {
+    "message": "Invitación aceptada correctamente",
+    "description": "Invite accepted successfully"
+  },
+  "inviteDeclined": {
+    "message": "Invitación rechazada",
+    "description": "Invite declined"
+  },
+  "somethingWentWrong": {
+    "message": "Algo salió mal",
+    "description": "Something went wrong"
+  },
+  "pleaseTryAgain": {
+    "message": "Por favor, inténtalo de nuevo",
+    "description": "Please try again"
+  },
+  "invitedBy": {
+    "message": "Invitado por:",
+    "description": "Invited by"
+  },
+  "addUser": {
+    "message": "Añadir usuario",
+    "description": "Add user"
+  },
+  "addAndShareWorkspaceWith": {
+    "message": "Añadir y compartir espacio de trabajo con:",
+    "description": "Add and share workspace with"
+  },
+  "invite": {
+    "message": "Invitar",
+    "description": "Invite"
+  },
+  "yourTeam": {
+    "message": "Tu equipo:",
+    "description": "Your team:"
+  },
+  "emptyAddMembers": {
+    "message": "Vacío. Añadir miembros en",
+    "description": "Empty. Add members at"
+  },
+  "please": {
+    "message": "Por favor",
+    "description": "Please"
+  },
+  "upgradeYourPlan": {
+    "message": "actualiza tu plan",
+    "description": "Upgrade your plan"
+  },
+  "toUseTheRealtimeShareFeature": {
+    "message": "para usar la función de compartir en tiempo real",
+    "description": "to use the realtime share feature"
+  },
+  "add": {
+    "message": "Añadir",
+    "description": "Add"
+  },
+  "workspaceShared": {
+    "message": "Espacio de trabajo compartido",
+    "description": "Workspace shared"
+  },
+  "workspaceUnshared": {
+    "message": "Espacio de trabajo no compartido",
+    "description": "Workspace unshared"
+  },
+  "nowAccessibleViaPublicLink": {
+    "message": "Ahora accesible mediante enlace público",
+    "description": "Now accessible via public link"
+  },
+  "publicLinkRemoved": {
+    "message": "Enlace público eliminado",
+    "description": "Public link removed"
+  },
+  "shareAsReadOnlyPublicLink": {
+    "message": "Compartir como enlace público de solo lectura",
+    "description": "Share as read-only public link"
+  },
+  "saveToNewGroup": {
+    "message": "Guardar en nuevo grupo",
+    "description": "Save to new group"
+  },
+  "saveToGroup": {
+    "message": "Guardar en grupo",
+    "description": "Save to group"
+  },
+  "toggleDarkmode": {
+    "message": "Alternar modo oscuro",
+    "description": "Toggle darkmode"
+  },
+  "turnIntoNote": {
+    "message": "Convertir en nota",
+    "description": "Turn into note"
+  },
+  "turnIntoToDo": {
+    "message": "Convertir en tarea",
+    "description": "Turn into To-do"
+  },
+  "closeColorPicker": {
+    "message": "Cerrar selector de color",
+    "description": "Close color-picker"
+  },
+  "changeColor": {
+    "message": "Cambiar color",
+    "description": "Change color"
+  },
+  "pinTab": {
+    "message": "Fijar pestaña",
+    "description": "Pin tab"
+  },
+  "unpinTab": {
+    "message": "Desfijar pestaña",
+    "description": "Unpin tab"
+  },
+  "save": {
+    "message": "Guardar",
+    "description": "Save"
+  },
+  "update": {
+    "message": "Actualizar",
+    "description": "Update"
+  },
+  "deleteItem": {
+    "message": "Eliminar elemento",
+    "description": "Delete item"
+  },
+  "deleteItemFromStack": {
+    "message": "Eliminar elemento de la pila",
+    "description": "Delete item from stack"
+  },
+  "savedIn": {
+    "message": "Guardado en:",
+    "description": "Saved in:"
+  },
+  "changesNotSaved": {
+    "message": "Cambios no guardados",
+    "description": "Changes not saved"
+  },
+  "deleteFrom": {
+    "message": "Eliminar de",
+    "description": "Delete from"
+  },
+  "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+    "message": "¿Estás seguro de que quieres eliminar este sitio guardado y nota?",
+    "description": "Are you sure you want to delete this saved site and note?"
+  },
+  "result": {
+    "message": "Resultado",
+    "description": "Result"
+  },
+  "notAvailableInWebVersion": {
+    "message": "No disponible en versión web",
+    "description": "Not available in web version"
+  },
+  "pleaseAddBrowserExtension": {
+    "message": "Por favor, añade la extensión del navegador para acceder",
+    "description": "Please add the browser extension to access"
+  },
+  "goTo": {
+    "message": "Ir a",
+    "description": "Go to"
+  },
+  "openSite": {
+    "message": "Abrir sitio",
+    "description": "Open site"
+  },
+  "goToWorkspace": {
+    "message": "Ir al Espacio de trabajo",
+    "description": "Go to Workspace"
+  },
+  "reschedule": {
+    "message": "Reprogramar",
+    "description": "Reschedule"
+  },
+  "dataImportedSuccessfully": {
+    "message": "Datos importados correctamente",
+    "description": "Data imported successfully"
+  },
+  "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+    "message": "Se ha creado un nuevo espacio de trabajo con los datos importados",
+    "description": "A new workspace has been created with the imported data"
+  },
+  "errorImportingData": {
+    "message": "Error al importar datos",
+    "description": "Error importing data"
+  },
+  "newWorkspaceCreated": {
+    "message": "Nuevo espacio de trabajo creado",
+    "description": "New workspace created"
+  },
+  "workspaceLimitReached": {
+    "message": "Límite de espacio de trabajo alcanzado",
+    "description": "Workspace limit reached"
+  },
+  "upgradeToProPlanForMoreWorkspaces": {
+    "message": "Como usuario gratuito, estás limitado a 1 espacio de trabajo. Actualiza al Plan Pro para más espacios de trabajo.",
+    "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+  },
+  "somethingWentWrongWhileCreatingWorkspace": {
+    "message": "Algo salió mal al crear el espacio de trabajo, por favor inténtalo de nuevo",
+    "description": "Something went wrong while creating workspace, please try again"
+  },
+  "loginFailed": {
+    "message": "Error de inicio de sesión",
+    "description": "Login failed"
+  },
+  "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+    "message": "Por favor, permite el permiso de identidad para iniciar sesión con Google",
+    "description": "Please allow the identity permission to sign in with Google"
+  },
+  "accountUpgradedSuccessfully": {
+    "message": "Cuenta actualizada correctamente",
+    "description": "Account upgraded successfully"
+  },
+  "youCanNowSyncYourDataAcrossDevices": {
+    "message": "Ahora puedes sincronizar tus datos entre dispositivos",
+    "description": "You can now sync your data across devices"
+  },
+  "cannotRemoveWorkspace": {
+    "message": "No se puede eliminar el espacio de trabajo",
+    "description": "Cannot remove workspace"
+  },
+  "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+    "message": "Necesitas tener al menos un espacio de trabajo donde seas propietario, crea un nuevo espacio de trabajo primero para eliminar el actual",
+    "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+  },
+  "workspaceRemoved": {
+    "message": "Espacio de trabajo eliminado",
+    "description": "Workspace removed"
+  },
+  "removedSuccessfully": {
+    "message": "eliminado correctamente",
+    "description": "removed successfully"
+  },
+  "workspaceRemovalFailed": {
+    "message": "Workspace removal failed",
+    "description": "Workspace removal failed"
+  },
+  "groupMovedSuccessfully": {
+    "message": "Grupo movido exitosamente",
+    "description": "Group moved successfully"
+  },
+  "groupMovedInto": {
+    "message": "movido a",
+    "description": "moved into"
+  },
+  "groupMoveFailed": {
+    "message": "Error al mover el grupo",
+    "description": "Group move failed"
+  },
+  "tabsMovedSuccessfully": {
+    "message": "Pestañas movidas exitosamente",
+    "description": "Tabs moved successfully"
+  },
+  "tabMovedSuccessfully": {
+    "message": "Pestaña movida exitosamente",
+    "description": "Tab moved successfully"
+  },
+  "tabMoveFailedPleaseTryAgain": {
+    "message": "Error al mover la pestaña, por favor inténtalo de nuevo",
+    "description": "Tab move failed, please try again"
+  },
+  "couldNotFetchWorkspaceData": {
+    "message": "No se pudieron obtener los datos del espacio de trabajo",
+    "description": "Could not fetch workspace data"
+  },
+  "errorUpdatingGroupWidth": {
+    "message": "Error al actualizar el ancho del grupo",
+    "description": "Error updating group width"
+  },
+  "errorUpdatingMetaImagePin": {
+    "message": "Error al actualizar el pin de la imagen meta",
+    "description": "Error updating meta image pin"
+  },
+  "saveDone": {
+    "message": "Guardado completado",
+    "description": "Save done"
+  },
+  "allActiveTabsSavedAndClosedInto": {
+    "message": "Todas las pestañas activas guardadas y cerradas en",
+    "description": "All active tabs saved and closed into"
+  },
+  "groupSavedInto": {
+    "message": "Grupo guardado en",
+    "description": "Group saved into"
+  },
+  "tabsSavedInto": {
+    "message": "Pestañas guardadas en",
+    "description": "Tabs saved into"
+  },
+  "categoryMovedSuccessfully": {
+    "message": "Categoría movida exitosamente",
+    "description": "Category moved successfully"
+  },
+  "stackUnstacked": {
+    "message": "Pila desapilada",
+    "description": "Stack unstacked"
+  },
+  "sitesSplitIntoIndividualItems": {
+    "message": "Sitios divididos en elementos individuales",
+    "description": "Sites split into individual items"
+  },
+  "stackCreated": {
+    "message": "Pila creada",
+    "description": "Stack created"
+  },
+  "sitesMergedIntoOneStackedItem": {
+    "message": "Sitios combinados en un elemento apilado",
+    "description": "Sites merged into one stacked item"
+  },
+  "errorUpdatingDatabaseOnStackAction": {
+    "message": "Error al actualizar la base de datos en la acción de apilamiento",
+    "description": "Error updating database on stack action"
+  },
+  "noteTurnedIntoSite": {
+    "message": "Nota convertida en sitio",
+    "description": "Note turned into site"
+  },
+  "theNoteHasBeenTurnedIntoASite": {
+    "message": "La nota ha sido convertida en un sitio",
+    "description": "The note has been turned into a site"
+  },
+  "groupUpdated": {
+    "message": "Grupo actualizado",
+    "description": "Group updated"
+  },
+  "sitesInGroupSyncedWithOpenTabGroup": {
+    "message": "Sitios en el grupo sincronizados con el grupo de pestañas abiertas",
+    "description": "Sites in group synced with the open tab group"
+  },
+  "errorSyncingSitesInGroup": {
+    "message": "Error al sincronizar sitios en el grupo",
+    "description": "Error syncing sites in group"
+  },
+  "itemSorted": {
+    "message": "Elemento ordenado",
+    "description": "Item sorted"
+  },
+  "theGroupsContentHasBeenSortedAlphabetically": {
+    "message": "El contenido del grupo ha sido ordenado alfabéticamente",
+    "description": "The groups content has been sorted alphabetically"
+  },
+  "noItemsToSort": {
+    "message": "No hay elementos para ordenar",
+    "description": "No items to sort"
+  },
+  "thereSeemsToBeNoItemsInTheGroup": {
+    "message": "Parece que no hay elementos en el grupo",
+    "description": "There seems to be no items in the group"
+  },
+  "theGroupContentHasBeenSortedByDate": {
+    "message": "El contenido del grupo ha sido ordenado por fecha",
+    "description": "The group content has been sorted by date"
+  },
+  "allTextInsideGroupCopiedToClipboard": {
+    "message": "Todo el texto dentro del grupo copiado al portapapeles",
+    "description": "All text inside group copied to clipboard"
+  },
+  "noItemsToCopy": {
+    "message": "No hay elementos para copiar",
+    "description": "No items to copy"
+  }, 
+  "groupDuplicated": {
+    "message": "Grupo duplicado",
+    "description": "Group duplicated"
+  },
+  "duplicatedSuccessfully": {
+    "message": "duplicado exitosamente",
+    "description": "duplicated successfully"
+  },
+  "createNewCategoryToCreateMoreGroups": {
+    "message": "Crea una nueva categoría para crear más grupos",
+    "description": "Create a new category to create more groups"
+  },
+  "stackedItems": {
+    "message": "elementos apilados",
+    "description": "stacked items"
+  },
+  "stackedItemsDeleted": {
+    "message": "elementos apilados eliminados",
+    "description": "Stacked items deleted"
+  },
+  "itemDeleted": {
+    "message": "elemento eliminado",
+    "description": "item deleted"
+  },
+  "itemsDeleted": {
+    "message": "elementos eliminados",
+    "description": "items deleted"
+  },
+  "errorDeletingCategory": {
+    "message": "Error al eliminar categoría",
+    "description": "Error deleting category"
+  },
+  "pleaseRefreshPageAndTryAgain": {
+    "message": "Por favor, actualiza la página e inténtalo de nuevo",
+    "description": "Please refresh page and try again"
+  },
+  "wasDeleted": {
+    "message": "fue eliminado",
+    "description": "was deleted"
+  },
+  "atLeastOneCategoryPerWorkspaceRequired": {
+    "message": "Se requiere al menos una categoría por espacio de trabajo",
+    "description": "At least one category per workspace required"
+  },
+  "deleteNotPermitted": {
+    "message": "Eliminación no permitida",
+    "description": "Delete not permitted"
+  },
+  "groupDeleted": {
+    "message": "Grupo eliminado",
+    "description": "Group deleted"
+  },
+  "theBinContainsYourLast50DeletedItems": {
+    "message": "La papelera contiene tus últimos 50 elementos eliminados.",
+    "description": "The bin contains your last 50 deleted items."
+  },
+  "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+    "message": "Al elegir restaurar un elemento eliminado, se recreará en la categoría actualmente seleccionada.",
+    "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+  },
+  "bin": {
+    "message": "Papelera",
+    "description": "Bin"
+  },
+  "areYouSureYouWantToDeleteThisWorkspace": {
+    "message": "¿Estás seguro de que quieres eliminar este espacio de trabajo?",
+    "description": "Are you sure you want to delete this workspace?"
+  },
+  "areYouSureYouWantToRemoveThisWorkspace": {
+    "message": "¿Estás seguro de que quieres eliminar este espacio de trabajo?",
+    "description": "Are you sure you want to remove this workspace?"
+  },
+  "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+    "message": "Todas las categorías, grupos y elementos guardados serán eliminados para todos los usuarios.",
+    "description": "All containing categories, groups and saved items will be deleted for all users."
+  },
+  "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+    "message": "No tendrás acceso al espacio de trabajo nuevamente. El espacio de trabajo seguirá disponible para otros usuarios.",
+    "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+  },
+  "remove": {
+    "message": "Eliminar",
+    "description": "Remove"
+  },
+  "areYouSureYouWantToClearAllReminders": {
+    "message": "¿Estás seguro de que quieres borrar todos los recordatorios?",
+    "description": "Are you sure you want to clear all reminders?"
+  },
+  "youCantUndoThisAction": {
+    "message": "No puedes deshacer esta acción.",
+    "description": "You can't undo this action."
+  },
+  "clearReminders": {
+    "message": "Borrar recordatorios",
+    "description": "Clear reminders"
+  },
+  "clearAll": {
+    "message": "Borrar todo",
+    "description": "Clear all"
+  },
+  "reminderCleared": {
+    "message": "Recordatorio borrado",
+    "description": "Reminder cleared"
+  },
+  "remindersCleared": {
+    "message": "Recordatorios borrados",
+    "description": "Reminders cleared"
+  },
+  "reminderRemoved": {
+    "message": "Recordatorio eliminado",
+    "description": "Reminder removed"
+  },
+  "date": {
+    "message": "Fecha:",
+    "description": "Date:"
+  },
+  "unableToToggleToDo": {
+    "message": "No se puede alternar la tarea",
+    "description": "Unable to toggle to-do"
+  },
+  "goToWorkspaceToEditItem": {
+    "message": "Ir al espacio de trabajo para editar el elemento",
+    "description": "Go to workspace to edit item"
+  },
+  "repeating": {
+    "message": "Repitiendo:",
+    "description": "Repeating:"
+  },
+  "eachWeek": {
+    "message": "cada semana",
+    "description": "each week"
+  },
+  "ofTheMonth": {
+    "message": "del mes",
+    "description": "of the month"
+  },
+  "toEnableReminders": {
+    "message": "para habilitar recordatorios",
+    "description": "to enable reminders"
+  },
+  "noReminders": {
+    "message": "Sin recordatorios",
+    "description": "No reminders"
+  },
+  "today": {
+    "message": "Hoy",
+    "description": "Today"
+  },
+  "minimize": {
+    "message": "Minimizar",
+    "description": "Minimize"
+  },
+  "addSite": {
+    "message": "Añadir sitio/imagen",
+    "description": "Add site/image"
+  },
+  "duplicateGroup": {
+    "message": "Duplicar grupo",
+    "description": "Duplicate group"
+  },
+  "copyAsText": {
+    "message": "Copiar como texto",
+    "description": "Copy as text"
+  },
+  "moveTo": {
+    "message": "Mover a",
+    "description": "Move to"
+  },
+  "sortBy": {
+    "message": "Ordenar por",
+    "description": "Sort by"
+  },
+  "alphabetical": {
+    "message": "Alfabético",
+    "description": "Alphabetical"
+  },
+  "dateAdded": {
+    "message": "Fecha añadida",
+    "description": "Date added"
+  },
+  "saveTo": {
+    "message": "Guardar en",
+    "description": "Save to"
+  },
+  "closeAndMoveTo": {
+    "message": "Cerrar y mover a",
+    "description": "Close and move to"
+  },
+  "createGroupAndClose": {
+    "message": "Crear grupo y cerrar",
+    "description": "Create group and close"
+  },
+  "discard": {
+    "message": "Descartar",
+    "description": "Discard"
+  },
+  "pin": {
+    "message": "Fijar",
+    "description": "Pin"
+  },
+  "unpin": {
+    "message": "Desfijar",
+    "description": "Unpin"
+  },
+  "group": {
+    "message": "Grupo",
+    "description": "Group"
+  },
+  "ungroup": {
+    "message": "Desagrupar",
+    "description": "Ungroup"
+  },
+  "noUrlFound": {
+    "message": "No se encontró URL",
+    "description": "No URL found"
+  },
+  "previewUnavailable": {
+    "message": "Vista previa no disponible",
+    "description": "Preview unavailable"
+  },
+  "tabGrouped": {
+    "message": "pestaña agrupada",
+    "description": "tab grouped"
+  },
+  "tabsGrouped": {
+    "message": "pestañas agrupadas",
+    "description": "tabs grouped"
+  },
+  "groupCreatedFromSelectedTabs": {
+    "message": "Grupo creado desde las pestañas seleccionadas",
+    "description": "Group created from selected tabs"
+  },
+  "tabAlreadyDiscarded": {
+    "message": "Pestaña ya descartada",
+    "description": "Tab already discarded"
+  },
+  "doubleClickToReload": {
+    "message": "Doble clic para recargar",
+    "description": "Double click to reload it"
+  },
+  "addTextSelectionToGroup": {
+    "message": "Añadir selección de texto al grupo",
+    "description": "Add text-selection to group"
+  },
+  "closeSiteAndSaveTo": {
+    "message": "Cerrar sitio y guardar en:",
+    "description": "Close site and save to"
+  },
+  "close": {
+    "message": "cerrar",
+    "description": "close"
+  },
+  "newGroup": {
+    "message": "Nuevo grupo",
+    "description": "New group"
+  },
+  "savesLeftOnTrialPlan": {
+    "message": "guardados restantes en plan de prueba",
+    "description": "saves left on trial plan"
+  },
+  "manageAccount": {
+    "message": "Administrar cuenta",
+    "description": "Manage account"
+  },
+  "signOut": {
+    "message": "Cerrar sesión",
+    "description": "Sign out"
+  },
+  "warningBySigningOut": {
+    "message": "Advertencia: Al cerrar sesión, tus datos guardados actuales se perderán",
+    "description": "Warning: By signing out, your current saved data will be lost"
+  },
+  "sinceYouAreOnAGuestAccount": {
+    "message": "Como estás en una cuenta de invitado, todos los datos se perderán si cierras sesión. Para mantener tus datos, mantén la sesión iniciada o vincúlala con un correo electrónico/contraseña o Google.",
+    "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+  },
+  "yesSignMeOut": {
+    "message": "Sí, cerrar mi sesión",
+    "description": "Yes, sign me out"
+  },
+  "importBookmarks": {
+    "message": "Importar marcadores",
+    "description": "Import bookmarks"
+  },
+  "feedback": {
+    "message": "Comentarios",
+    "description": "Feedback"
+  },
+  "settings": {
+    "message": "Ajustes",
+    "description": "Settings"
+  },
+  "theme": {
+    "message": "Tema",
+    "description": "Theme"
+  },
+  "sendFeedback": {
+    "message": "Enviar comentarios",
+    "description": "Send feedback"
+  },
+  "pleaseShareYourFeedbackWithUs": {
+    "message": "Por favor, comparte tus comentarios con nosotros. Apreciamos y valoramos tu opinión.",
+    "description": "Please share your feedback with us. We appreciated and value your input."
+  },
+  "send": {
+    "message": "Enviar",
+    "description": "Send"
+  },
+  "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+    "message": "Solo el propietario del espacio de trabajo puede añadir/eliminar usuarios y compartir mediante URL pública.",
+    "description": "Only workspace owner can add/remove users and share via public URL."
+  },
+  "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+    "message": "Añade usuarios para compartir el espacio de trabajo actual y colaborar en tiempo real.",
+    "description": "Add users to share the current workspace and collaborate in real time."
+  },
+  "readMoreAboutSharing": {
+    "message": "Leer más sobre compartir",
+    "description": "Read more about sharing"
+  },
+  "here": {
+    "message": "aquí",
+    "description": "here"
+  },
+  "removeUser": {
+    "message": "Eliminar usuario",
+    "description": "Remove user"
+  },
+  "pleaseEnterAValidEmailAddress": {
+    "message": "Por favor, introduce una dirección de correo electrónico válida",
+    "description": "Please enter a valid email address"
+  },
+  "looksLikeThisUserHasBeenInvitedAlready": {
+    "message": "Parece que este usuario ya ha sido invitado",
+    "description": "Looks like this user has already been invited"
+  },
+  "pleaseSeeListOfUsers": {
+    "message": "Por favor, consulta la lista de usuarios",
+    "description": "Please see list of users"
+  },
+  "inviteSentTo": {
+    "message": "Invitación enviada a",
+    "description": "Invite sent to"
+  },
+  "categories": {
+    "message": "categorías",
+    "description": "categories"
+  },
+  "category": {
+    "message": "categoría",
+    "description": "category"
+  },
+  "users": {
+    "message": "Usuarios",
+    "description": "Users"
+  },
+  "moveUp": {
+    "message": "Mover arriba",
+    "description": "Move up"
+  },
+  "moveDown": {
+    "message": "Mover abajo",
+    "description": "Move down"
+  },
+  "day": {
+    "message": "día",
+    "description": "day"
+  },
+  "days": {
+    "message": "días",
+    "description": "days"
+  },
+  "hour": {
+    "message": "hora",
+    "description": "hour"
+  },
+  "hours": {
+    "message": "horas",
+    "description": "hours"
+  },
+  "minute": {
+    "message": "minuto",
+    "description": "minute"
+  },
+  "minutes": {
+    "message": "minutos",
+    "description": "minutes"
+  },
+  "now": {
+    "message": "Ahora",
+    "description": "Now"
+  },
+  "overdue": {
+    "message": "vencido",
+    "description": "overdue"
+  },
+  "and": {
+    "message": "y",
+    "description": "and"
+  },
+  "stackedSites": {
+    "message": "Sitios apilados",
+    "description": "Stacked sites"
+  },
+  "due": {
+    "message": "vence",
+    "description": "due"
+  },
+  "dueCapital": {
+    "message": "VENCE",
+    "description": "DUE"
+  },
+  "reminder": {
+    "message": "Recordatorio",
+    "description": "Reminder"
+  },
+  "reminders": {
+    "message": "Recordatorios",
+    "description": "Reminders"
+  },
+  "upcoming": {
+    "message": "Próximos",
+    "description": "Upcoming"
+  },
+  "noUpcomingReminders": {
+    "message": "No hay recordatorios próximos",
+    "description": "No upcoming reminders"
+  },
+  "mon": {
+    "message": "Lun",
+    "description": "Mon"
+  },
+  "tue": {
+    "message": "Mar",
+    "description": "Tue"
+  },
+  "wed": {
+    "message": "Mié",
+    "description": "Wed"
+  },
+  "thu": {
+    "message": "Jue",
+    "description": "Thu"
+  },
+  "fri": {
+    "message": "Vie",
+    "description": "Fri"
+  },
+  "sat": {
+    "message": "Sáb",
+    "description": "Sat"
+  },
+  "sun": {
+    "message": "Dom",
+    "description": "Sun"
+  },
+  "january": {
+    "message": "Enero",
+    "description": "January"
+  },
+  "february": {
+    "message": "Febrero",
+    "description": "February"
+  },
+  "march": {
+    "message": "Marzo",
+    "description": "March"
+  },
+  "april": {
+    "message": "Abril",
+    "description": "April"
+  },
+  "may": {
+    "message": "Mayo",
+    "description": "May"
+  },
+  "june": {
+    "message": "Junio",
+    "description": "June"
+  },
+  "july": {
+    "message": "Julio",
+    "description": "July"
+  },
+  "august": {
+    "message": "Agosto",
+    "description": "August"
+  },
+  "september": {
+    "message": "Septiembre",
+    "description": "September"
+  },
+  "october": {
+    "message": "Octubre",
+    "description": "October"
+  },
+  "november": {
+    "message": "Noviembre",      
+    "description": "November"
+  },
+  "december": {
+    "message": "Diciembre",
+    "description": "December"
+  },
+  "clear": {
+    "message": "Limpiar",
+    "description": "Clear"
+  },
+  "clearRepeat": {
+    "message": "Limpiar + repetir",
+    "description": "Clear + repeat"
+  },
+  "removeAll": {
+    "message": "Eliminar todo",
+    "description": "Remove all"
+  },
+  "currentWorkspace": {
+    "message": "Espacio de trabajo actual",
+    "description": "Current workspace"
+  },
+  "allWorkspaces": {
+    "message": "Todos los espacios de trabajo",
+    "description": "All workspaces"
+  },
+  "openTabs": {
+    "message": "Pestañas abiertas",
+    "description": "Open tabs"
+  },
+  "bookmarks": {
+    "message": "Marcadores",
+    "description": "Bookmarks"
+  }, 
+  "giveItATitle": {
+    "message": "Dale un título",
+    "description": "Give it a title"
+  },
+  "noteUpdated": {
+    "message": "Nota actualizada",
+    "description": "Note updated"
+  },
+  "errorUpdatingNote": {
+    "message": "Error al actualizar la nota",
+    "description": "Error updating note"
+  },
+  "active": {
+    "message": "activo",
+    "description": "active"
+  },
+  "paused": {
+    "message": "pausado",
+    "description": "paused"
+  },
+  "free": {
+    "message": "gratis",
+    "description": "free"
+  },
+  "errorRemovingItem": {
+    "message": "Error al eliminar el elemento",
+    "description": "Error removing item"
+  },
+  "errorRemovingSite": {
+    "message": "Error al eliminar el sitio",
+    "description": "Error removing site"
+  },
+  "itemRemoved": {
+    "message": "Elemento eliminado",
+    "description": "Item removed"
+  },
+  "errorSavingSite": {
+    "message": "Error al guardar el sitio",
+    "description": "Error saving site"
+  },
+  "groupCreatedWithItem": {
+    "message": "Grupo creado con elemento",
+    "description": "Group created with item"
+  },
+  "loading": {
+    "message": "Cargando",
+    "description": "Loading"
+  },
+  "trialLimitReached": {
+    "message": "Límite de prueba alcanzado",
+    "description": "Trial limit reached"
+  },
+  "saveComplete": {
+    "message": "Guardado completado",
+    "description": "Save complete"
+  },
+  "itemPermanentlyRemoved": {
+    "message": "Elemento eliminado permanentemente",
+    "description": "Item permanently removed"
+  },
+  "itemRestored": {
+    "message": "Elemento restaurado",
+    "description": "Item restored"
+  },
+  "itemRestoredIntoRestoredItemsInCurrentCategory": {
+    "message": "Elemento restaurado en Elementos restaurados en la categoría actual",
+    "description": "Item restored into Restored items in current category"
+  },
+  "restoredItems": {
+    "message": "Elementos restaurados",
+    "description": "Restored items"
+  },
+  "groupRestored": {
+    "message": "Grupo restaurado",
+    "description": "Group restored"
+  },
+  "groupRestoredIntoRestoredItemsInCurrentCategory": {
+    "message": "Grupo restaurado en Elementos restaurados en la categoría actual",
+    "description": "Group restored into Restored items in current category"
+  },
+  "errorFetchingWorkspaceData": {
+    "message": "Error al obtener datos del espacio de trabajo",
+    "description": "Error fetching workspace data"
+  },
+  "errorCreatingNewGroup": {
+    "message": "Error al crear nuevo grupo",
+    "description": "Error creating new group"
+  },
+  "dropNotAllowed": {
+    "message": "Soltar no permitido",
+    "description": "Drop not allowed"
+  },
+  "groupsMerged": {
+    "message": "Grupos combinados",
+    "description": "Groups merged"
+  },
+  "mergedInto": {
+    "message": "combinado en",
+    "description": "merged into"
+  },
+  "userRemoved": {
+    "message": "Usuario eliminado",
+    "description": "User removed"
+  },
+  "somethingWentWrongRemovingUser": {
+    "message": "Algo salió mal al eliminar el usuario",
+    "description": "Something went wrong removing user"
+  },
+  "pleaseRefreshAndTryAgain": {
+    "message": "Por favor actualiza e intenta de nuevo",
+    "description": "Please refresh and try again"
+  },
+  "maximumCategoriesReached": {
+    "message": "Máximo 8 categorías por espacio de trabajo",
+    "description": "Maximum 8 categories per workspace"
+  },
+  "addMoreBeforeMoving": {
+    "message": "Añade más antes de mover",
+    "description": "Add more before moving"
+  },
+  "workspaceInviteRemoved": {
+    "message": "Invitación al espacio de trabajo eliminada",
+    "description": "Workspace invite removed"
+  },
+  "reminderUpdated": {
+    "message": "Recordatorio actualizado",
+    "description": "Reminder updated"
+  },
+  "reminderSet": {
+    "message": "Recordatorio establecido",
+    "description": "Reminder set"
+  },
+  "firstUp": {
+    "message": "Primero",
+    "description": "First up"
+  },
+  "looksLikeUrl": {
+    "message": "Parece una URL",
+    "description": "Looks like a URL"
+  },
+  "turnNoteIntoSite": {
+    "message": "Convertir esta nota en un sitio",
+    "description": "Turn this note into a site"
+  },
+  "maximumLengthExceeded": {
+    "message": "Longitud máxima excedida",
+    "description": "Maximum length exceeded"
+  },
+  "noteTruncatedTo5000Characters": {
+    "message": "Nota truncada a 5000 caracteres",
+    "description": "Note truncated to 5000 characters"
+  },
+  "noteRemoved": {
+    "message": "Nota eliminada",
+    "description": "Note removed"
+  },
+  "emptyNoteRemoved": {
+    "message": "Nota vacía eliminada",
+    "description": "Empty note removed"
+  },
+  "feedbackSubmitted": {
+    "message": "Comentarios enviados",
+    "description": "Feedback submitted"
+  },
+  "feedbackSubmissionFailed": {
+    "message": "Error al enviar comentarios",
+    "description": "Feedback submission failed"
+  },
+  "weReallyAppreciateYourValuableInput": {
+    "message": "Realmente apreciamos tu valiosa opinión",
+    "description": "We really appreciate your valuable input"
+  },
+  "pleaseTryAgainOrSendVia": {
+    "message": "Por favor intenta de nuevo o envía a través de",
+    "description": "Please try again or send via"
+  },
+  "describeYourIdeaAndUsecase": {
+    "message": "Describe tu idea y caso de uso",
+    "description": "Describe your idea and usecase"
+  },
+  "describeTheIssueBugInDetail": {
+    "message": "Describe el problema/error en detalle",
+    "description": "Describe the issue/bug in detail"
+  },
+  "otherThoughtsHere": {
+    "message": "Otros pensamientos aquí",
+    "description": "Other thoughts here"
+  },
+  "passwordResetFailed": {
+    "message": "Error al restablecer la contraseña",
+    "description": "Password reset failed"
+  },
+  "passwordResetEmailSent": {
+    "message": "Correo de restablecimiento de contraseña enviado",
+    "description": "Password reset email sent"
+  },
+  "emailCannotBeEmpty": {
+    "message": "El correo electrónico no puede estar vacío",
+    "description": "Email cannot be empty"
+  },
+  "notAValidEmail": {
+    "message": "No es un correo electrónico válido",
+    "description": "Not a valid email"
+  },
+  "checkYourEmailForAPasswordResetLink": {
+    "message": "Revisa tu correo electrónico para encontrar el enlace de restablecimiento de contraseña.",
+    "description": "Check your email for a password reset link."
+  },
+  "passwordMustBeAtLeast6Characters": {
+    "message": "La contraseña debe tener al menos 6 caracteres",
+    "description": "Password must be at least 6 characters"
+  },
+  "passwordMustBeLessThan128Characters": {
+    "message": "La contraseña debe tener menos de 128 caracteres",
+    "description": "Password must be less than 128 characters"
+  },
+  "passwordCannotBeEmpty": {
+    "message": "La contraseña no puede estar vacía",
+    "description": "Password cannot be empty"
+  },
+  "updateAccount": {
+    "message": "Actualizar cuenta",
+    "description": "Update account"
+  },
+  "signUp": {
+    "message": "Registrarse",
+    "description": "Sign up"
+  },
+  "linkWithGoogle": {
+    "message": "Vincular con Google",
+    "description": "Link with Google"
+  },
+  "signUpWithEmailPassword": {
+    "message": "Registrarse con correo electrónico + contraseña",
+    "description": "Sign up with Email + Password"
+  },
+  "signUpWithGoogle": {
+    "message": "Registrarse con Google",
+    "description": "Sign up with Google"
+  },
+  "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+    "message": "Configura tu cuenta con un correo electrónico y contraseña para habilitar la sincronización de datos y el acceso en otros dispositivos.",
+    "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+  },
+  "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+    "message": "Accede y sincroniza tus datos en cualquier lugar con una cuenta.",
+    "description": "Access and sync your data anywhere with an account."
+  },
+  "byAddingYourDetails": {
+    "message": "Al agregar tus detalles",
+    "description": "By adding your details"
+  },
+  "bySigningUp": {
+    "message": "Al registrarte",
+    "description": "By signing up"
+  },
+  "privacyPolicy": {
+    "message": "política de privacidad",
+    "description": "privacy policy"
+  },
+  "youAgreeToOur": {
+    "message": "aceptas nuestra",
+    "description": "you agree to our"
+  },
+  "termsOfUse": {
+    "message": "términos de uso",
+    "description": "terms of use"
+  },
+  "continueAsGuest": {
+    "message": "Continuar como invitado",
+    "description": "Continue as guest"
+  },
+  "somethingWentWrongSigningUp": {
+    "message": "Algo salió mal al registrarse",
+    "description": "Something went wrong signing up"
+  },
+  "newAccount": {
+    "message": "Nueva cuenta",
+    "description": "New account"
+  },
+  "logIn": {
+    "message": "Iniciar sesión",
+    "description": "Log in"
+  },
+  "signIn": {
+    "message": "Iniciar sesión",
+    "description": "Sign in"
+  },
+  "signInWithGoogle": {
+    "message": "Iniciar sesión con Google",
+    "description": "Sign in with Google"
+  },
+  "or": {
+    "message": "o",
+    "description": "or"
+  },
+  "alreadyHaveAnAccount": {
+    "message": "¿Ya tienes una cuenta? Inicia sesión aquí:",
+    "description": "Already have an account? Sign in here:"
+  },
+  "forgotYourPassword": {
+    "message": "¿Olvidaste tu contraseña?",
+    "description": "Forgot your password?"
+  },
+  "enterYourEmailToResetYourPassword": {
+    "message": "Ingresa tu correo electrónico para restablecer tu contraseña",
+    "description": "Enter your email to reset your password"
+  },
+  "sendMeAResetPasswordLink": {
+    "message": "Enviarme un enlace para restablecer la contraseña",
+    "description": "Send me a reset password link"
+  },
+  "hide": {
+    "message": "Ocultar",
+    "description": "Hide"
+  },
+  "show": {
+    "message": "Mostrar",
+    "description": "Show"
+  },
+  "password": {
+    "message": "Contraseña",
+    "description": "Password"
+  },
+  "email": {
+    "message": "Correo electrónico",
+    "description": "Email"
+  },
+  "turnNoteInto": {
+    "message": "Convertir esta nota en un sitio",
+    "description": "Turn this note into a site"
+  },
+  "noCustomIconsUploaded": {
+    "message": "No hay iconos personalizados subidos",
+    "description": "No custom icons uploaded"
+  },
+  "upgradeToProPlanToUploadAndUseCustomIcons": {
+    "message": "Actualiza al plan Pro para subir y usar iconos personalizados",
+    "description": "Upgrade to the Pro plan to upload and use custom icons"
+  },
+  "saveAsNewGroupAndClose": {
+    "message": "Guardar como nuevo grupo y cerrar",
+    "description": "Save as new group and close"
+  },
+  "saveImageTo": {
+    "message": "Guardar imagen en",
+    "description": "Save image to"
+  },
+  "showContent": {
+    "message": "Mostrar contenido",
+    "description": "Show content"
+  },
+  "hideContent": {
+    "message": "Ocultar contenido",
+    "description": "Hide content"
+  },
+  "looksLikeImage": {
+    "message": "Parece una imagen",
+    "description": "Looks like an image"
+  },
+  "turnNoteIntoImage": {
+    "message": "Convertir esta nota en una imagen",
+    "description": "Turn this note into an image"
+  },
+  "copyDone": {
+    "message": "Copia completada",
+    "description": "Copy done"
+  },
+  "putSavedGroupsFirst": {
+    "message": "Poner grupos guardados primero",
+    "description": "Put saved groups first"
+  },
+  "putSavedGroupsFirstDetails": {
+    "message": "Colocar grupos guardados a la izquierda",
+    "description": "Place saved groups to the far left"
+  }
+}

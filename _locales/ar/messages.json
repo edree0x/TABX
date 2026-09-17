@@ -1,0 +1,1922 @@
+{
+    "extensionName": {
+      "message": "TabX - مدير تبويبات سهل",
+      "description": "The name of the extension"
+    },
+    "extensionDescription": {
+      "message": "حوّل علامة التبويب الجديدة إلى لوحة قوية. أضف ملاحظات، وضع تذكيرات، وزامن عبر الأجهزة لتعزيز الإنتاجية.",
+      "description": "A description of the extension"
+    },
+    "buttonLabel": {
+      "message": "إضافة موقع/صورة",
+      "description": "Label for adding custom url site"
+    },
+    "limitReached": {
+      "message": "تم الوصول للحد الأقصى",
+      "description": "Label for limit reached"
+    },
+    "limitReachedSubtitle": {
+      "message": "لقد وصلت إلى الحد الأقصى للمواقع المحفوظة في الخطة المجانية.",
+      "description": "Label for limit reached subtitle"
+    },
+    "AddCustomUrl": {
+      "message": "إضافة رابط مخصص",
+      "description": "Label for adding custom url"
+    },
+    "AddCustomUrlSubtitle": {
+      "message": "يمكنك أيضًا استخدام file:/// للربط بالملفات المحلية",
+      "description": "Label for adding custom url subtitle"
+    },
+    "titleIsRequired": {
+      "message": "العنوان مطلوب",
+      "description": "Label for title is required"
+    },
+    "urlIsRequired": {
+      "message": "الرابط مطلوب",
+      "description": "Label for url is required"
+    },
+    "orAddPredefined": {
+      "message": "أو أضف اختصار .new محدد مسبقًا إلى المجموعة:",
+      "description": "Label for or add a predefined shortcut"
+    },
+    "saveAsNewGroup": {
+      "message": "حفظ كمجموعة جديدة",
+      "description": "Label for save as new group"
+    },
+    "removeDuplicates": {
+      "message": "إزالة التكرارات",
+      "description": "Label for remove duplicates"
+    },
+    "closeWindow": {
+      "message": "إغلاق النافذة",
+      "description": "Label for close window"
+    },
+    "pinSidebar": {
+      "message": "تثبيت الشريط الجانبي",
+      "description": "Label for pin sidebar"
+    },
+    "unpinSidebar": {
+      "message": "إلغاء تثبيت الشريط الجانبي",
+      "description": "Label for unpin sidebar"
+    },
+    "gridView": {
+      "message": "عرض شبكي",
+      "description": "Label for grid view"
+    },
+    "newWindow": {
+      "message": "نافذة جديدة",
+      "description": "Label for new window"
+    },
+    "deleteNote": {
+      "message": "حذف الملاحظة",
+      "description": "Label for delete note"
+    },
+    "deteleToDo": {
+      "message": "حذف المهمة",
+      "description": "Label for detele to-do"
+    },
+    "editReminder": {
+      "message": "تعديل التذكير",
+      "description": "Label for edit reminder"
+    },
+    "setReminder": {
+      "message": "ضبط تذكير",
+      "description": "Label for set reminder"
+    },
+    "copyContent": {
+      "message": "نسخ المحتوى",
+      "description": "Label for copy content"
+    },
+    "textCopied": {
+      "message": "تم نسخ النص",
+      "description": "Label for text copied"
+    },
+    "textCopiedSubtitle": {
+      "message": "تم نسخ الملاحظة إلى الحافظة",
+      "description": "Label for text copied subtitle"
+    },
+    "couldNotCopy": {
+      "message": "تعذر النسخ إلى الحافظة. يرجى المحاولة مرة أخرى.",
+      "description": "Label for could not copy"
+    },
+    "addEmoji": {
+      "message": "إضافة رمز تعبيري",
+      "description": "Label for add emoji"
+    },
+    "setColor": {
+      "message": "تعيين اللون",
+      "description": "Label for set color"
+    },
+    "setAsNote": {
+      "message": "تعيين كملاحظة",
+      "description": "Label for set as note"
+    },
+    "setAsToDo": {
+      "message": "تعيين كمهمة",
+      "description": "Label for set as to-do"
+    },
+    "saved": {
+      "message": "تم الحفظ",
+      "description": "Label for saved"
+    },
+    "tabSavedSuccess": {
+      "message": "تم حفظ التبويب بنجاح",
+      "description": "Label for tab saved successfully"
+    },
+    "errorFetchingWorkspace": {
+      "message": "خطأ في جلب مساحة العمل",
+      "description": "Label for error fetching workspace"
+    },
+    "errorSavingTab": {
+      "message": "خطأ في حفظ التبويب",
+      "description": "Label for error saving tab"
+    },
+    "userNotSignedIn": {
+      "message": "المستخدم غير مسجل الدخول",
+      "description": "Label for user not signed in"
+    },
+    "errorFetchingData": {
+      "message": "خطأ في جلب البيانات",
+      "description": "Label for error fetching data"
+    },
+    "noteSavedSuccess": {
+      "message": "تم حفظ الملاحظة بنجاح",
+      "description": "Label for note saved successfully"
+    },
+    "imageSavedSuccess": {
+      "message": "تم حفظ الصورة بنجاح",
+      "description": "Label for image saved successfully"
+    },
+    "errorSavingImage": {
+      "message": "خطأ في حفظ الصورة",
+      "description": "Label for error saving image"
+    },
+    "errorSavingNote": {
+      "message": "خطأ في حفظ الملاحظة",
+      "description": "Label for error saving note"
+    },
+    "remindersAndWorkspacesUpdatedSuccess": {
+      "message": "تم تحديث التذكيرات ومساحات العمل بنجاح",
+      "description": "Label for reminders and workspaces updated successfully"
+    },
+    "errorUpdatingRemindersAndWorkspaces": {
+      "message": "خطأ في تحديث التذكيرات ومساحات العمل",
+      "description": "Label for error updating reminders and workspaces"
+    },
+    "editTitle": {
+      "message": "تعديل العنوان",
+      "description": "Label for edit title"
+    },
+    "editSymbol": {
+      "message": "تعديل الرمز",
+      "description": "Label for edit symbol"
+    },
+    "expand": {
+      "message": "توسيع",
+      "description": "Label for expand"
+    },
+    "collapse": {
+      "message": "طي",
+      "description": "Label for collapse"
+    },
+    "openAsGroup": {
+      "message": "فتح كمجموعة",
+      "description": "Label for open as group"
+    },
+    "dropToRemove1ItemFromStack": {
+      "message": "أفلت لإزالة عنصر واحد من المكدس",
+      "description": "Label for drop to remove 1 item from stack"
+    },
+    "clickToPerformActionsOnAllTabs": {
+      "message": "انقر هنا لإجراء إجراءات على جميع علامات التبويب",
+      "description": "Label for click to perform actions on all tabs"
+    },
+    "saveAllTabsIntoNewGroup": {
+      "message": "حفظ الكل في مجموعة جديدة",
+      "description": "Label for save all into new group"
+    },
+    "saveAllIntoExistingGroup": {
+      "message": "حفظ الكل في مجموعة موجودة",
+      "description": "Label for save all into existing group"
+    },
+    "closeAllTabs": {
+      "message": "إغلاق جميع التبويبات",
+      "description": "Label for close all tabs"
+    },
+    "groupsAreSortedIntoEditableCategories": {
+      "message": "يتم فرز المجموعات في فئات قابلة للتعديل، والتي يتم فرزها بعد ذلك في مساحات العمل.",
+      "description": "Label for groups are sorted into editable categories"
+    },
+    "use": {
+      "message": "استخدم",
+      "description": "Use"
+    },
+    "toQuicklyJumpBetweenCategories": {
+      "message": "إلخ للتنقل سريعًا بين الفئات و",
+      "description": "etc to quickly jump between categories and"
+    },
+    "seeAllWorkspaces": {
+      "message": "عرض جميع مساحات العمل.",
+      "description": "see all workspaces."
+    },
+    "inTheTopRightCorner": {
+      "message": "في الزاوية اليمنى العليا، ستجد:",
+      "description": "In the top-right corner, you'll find:"
+    },
+    "search": {
+      "message": "بحث",
+      "description": "Search"
+    },
+    "actionMenu": {
+      "message": "قائمة الإجراءات",
+      "description": "Action menu"
+    },
+    "remindersOverview": {
+      "message": "نظرة عامة على التذكيرات",
+      "description": "Reminders overview"
+    },
+    "share": {
+      "message": "مشاركة",
+      "description": "Share"
+    },
+    "userDetails": {
+      "message": "تفاصيل المستخدم",
+      "description": "User details"
+    },
+    "done": {
+      "message": "تم",
+      "description": "Done"
+    },
+    "cancel": {
+      "message": "إلغاء",
+      "description": "Cancel"
+    },
+    "delete": {
+      "message": "حذف",
+      "description": "Delete"
+    },
+    "thatSIt": {
+      "message": "هذا كل شيء!",
+      "description": "That's it!"
+    },
+    "findMoreTipsInOurGuide": {
+      "message": "اعثر على المزيد من النصائح في دليلنا، بما في ذلك كيفية حفظ مقتطفات النص من المواقع، إنشاء/مشاركة مساحات العمل، تحديد متعدد، اختصارات، والمزيد في:",
+      "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+    },
+    "windowMenu": {
+      "message": "قائمة النافذة",
+      "description": "Window menu"
+    },
+    "next": {
+      "message": "التالي",
+      "description": "Next"
+    },
+    "showMeAround": {
+      "message": "أرني حول",
+      "description": "Show me around"
+    },
+    "welcomeToTabX": {
+      "message": "مرحبًا بك في TabX",
+      "description": "Welcome to TabX"
+    },
+    "TabXHelpsYouManageTabs": {
+      "message": "يساعدك TabX على إدارة علامات التبويب، وإضافة ملاحظات، وضبط تذكيرات كلها ضمن عروض كانبان سهلة الاستخدام.",
+      "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+    },
+    "beforeWeBeginOurAppTourWeStartWith": {
+      "message": "قبل أن نبدأ جولتنا في التطبيق، نبدأ بتفضيلات الوضع الفاتح/الداكن (يمكن تغييرها لاحقاً في الإعدادات).",
+      "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+    },
+    "inTheLeftSidebar": {
+      "message": "في الشريط الجانبي الأيسر، يتم عرض جميع علامات التبويب المفتوحة في النافذة الحالية. يمكنك هنا إدارة علامات التبويب ومجموعات التبويب بسهولة.",
+      "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+    },
+    "inTheTopLeftCorner": {
+      "message": "في الزاوية اليسرى العليا، ستجد قائمة مساحات العمل، التي تتيح لك إنشاء مساحات عمل جديدة، وإدارة المساحات الموجودة، والوصول إلى الإعدادات.",
+      "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+    },
+    "step": {
+      "message": "خطوة",
+      "description": "Step"
+    },
+    "skipTour": {
+      "message": "تخطي الجولة",
+      "description": "Skip tour"
+    },
+    "toCreateYourFirstGroup": {
+      "message": "لإنشاء مجموعتك الأولى، يمكنك سحب وإفلات تبويب واحد أو أكثر في منطقة الإفلات المعروضة.",
+      "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+    },
+    "youCanThenDragMoreTabsIntoTheGroup": {
+      "message": "يمكنك بعد ذلك سحب المزيد من علامات التبويب إلى المجموعة أو إنشاء مجموعة أخرى. يمكنك أيضًا استخدام ",
+      "description": "You can then drag more tabs into the group or create another."
+    },
+    "toCreateNewGroups": {
+      "message": "لإنشاء مجموعات جديدة.",
+      "description": "to create new groups."
+    },
+    "getStarted": {
+      "message": "البدء!",
+      "description": "Get started!"
+    },
+    "showWorkspaces": {
+      "message": "عرض مساحات العمل",
+      "description": "Show workspaces"
+    },
+    "general": {
+      "message": "عام",
+      "description": "General"
+    },
+    "appearance": {
+      "message": "المظهر",
+      "description": "Appearance"
+    },
+    "data": {
+      "message": "البيانات",
+      "description": "Data"
+    },
+    "openLinksInNewTab": {
+      "message": "فتح الروابط في تبويب جديد",
+      "description": "Open links in new tab"
+    },
+    "jumpToOpenedTab": {
+      "message": "الانتقال إلى/تركيز التبويب المفتوح",
+      "description": "Jump/focus opened tab"
+    },
+    "keyboardShortcuts": {
+      "message": "اختصارات لوحة المفاتيح",
+      "description": "Keyboard shortcuts"
+    },
+    "changeDefaultKeyBindings": {
+      "message": "تغيير اختصارات المفاتيح الافتراضية",
+      "description": "Change default key-bindings"
+    },
+    "guideAndHelp": {
+      "message": "الدليل والمساعدة",
+      "description": "Guide & Help"
+    },
+    "guideAndHelpSubtitle": {
+      "message": "العثور على إجابات للأسئلة الشائعة، وتعلم كيفية استخدام الإضافة، والحصول على الدعم في:",
+      "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+    },
+    "retakeTour": {
+      "message": "إعادة الجولة",
+      "description": "Retake tour"
+    },
+    "seeTheExtensionWalkthrough": {
+      "message": "شاهد شرح الإضافة (6 خطوات)",
+      "description": "See the extension walkthrough"
+    },
+    "showSiteUrl": {
+      "message": "عرض رابط الموقع",
+      "description": "Show site URL"
+    },
+    "showSiteUrlDetails": {
+      "message": "تبديل عرض روابط المواقع",
+      "description": "Toggle sites URL being shown"
+    },
+    "showWorkspaceEmoji": {
+      "message": "عرض رمز مساحة العمل التعبيري",
+      "description": "Show workspace emoji"
+    },
+    "showWorkspaceEmojiDetails": {
+      "message": "عرض رمز مساحة العمل التعبيري الحالي بجانب الفئات",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "إخفاء رمز المجموعة",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "إخفاء الرمز التعبيري/الرمز في المجموعات",
+      "description": "Hide the emoji/symbol on groups"
+    },
+    "showTrashDropZone": {
+      "message": "عرض منطقة إفلات المهملات",
+      "description": "Show trash drop-zone"
+    },
+    "showTrashDropZoneDetails": {
+      "message": "أفلت العناصر في المنطقة الحمراء لحذفها",
+      "description": "Drop items off into the red area to delete them"
+    },
+    "trashDropZonePosition": {
+      "message": "موضع منطقة إفلات المهملات",
+      "description": "Trash drop-zone position"
+    },
+    "trashDropZonePositionDetails": {
+      "message": "اختر موقع منطقة إفلات المهملات",
+      "description": "Select trash drop-zone location"
+    },
+    "showMinMaxButton": {
+      "message": "عرض زر التصغير/التكبير",
+      "description": "Show min/max button"
+    },
+    "showMinMaxButtonDetails": {
+      "message": "عرض زر التصغير/التكبير للمجموعات خارج القائمة",
+      "description": "Show min/max button for groups outside menu"
+    },
+    "exportData": {
+      "message": "تصدير البيانات",
+      "description": "Export data"
+    },
+    "exportDataDetails": {
+      "message": "تصدير مساحة العمل الحالية",
+      "description": "Export current workspace"
+    },
+    "importData": {
+      "message": "استيراد البيانات",
+      "description": "Import data"
+    },
+    "importDataDetails": {
+      "message": "استيراد مساحة عمل من ملف",
+      "description": "Import workspace from a file"
+    },
+    "openNewTab": {
+      "message": "فتح علامة تبويب جديدة للتهيئة...",
+      "description": "Open New Tab to initialize..."
+    },
+    "noSitesInside": {
+      "message": "لا توجد مواقع بالداخل",
+      "description": "No sites inside"
+    },
+    "openAll": {
+      "message": "فتح الكل",
+      "description": "Open all"
+    },
+    "sites": {
+      "message": "مواقع",
+      "description": "sites"
+    },
+    "site": {
+      "message": "موقع",
+      "description": "site"
+    },
+    "updateGroup": {
+      "message": "تحديث المجموعة",
+      "description": "Update group"
+    },
+    "closeGroup": {
+      "message": "إغلاق المجموعة",
+      "description": "Close group"
+    },
+    "groupCreated": {
+      "message": "تم إنشاء المجموعة",
+      "description": "Group created"
+    },
+    "wasAddedAsAGroup": {
+      "message": "تمت إضافتها كمجموعة",
+      "description": "was added as a group"
+    },
+    "maxGroupsReached": {
+      "message": "تم الوصول إلى الحد الأقصى للمجموعات",
+      "description": "Max groups reached"
+    },
+    "createNewCategory": {
+      "message": "أنشئ فئة جديدة لإنشاء المزيد من المجموعات",
+      "description": "Create a new category to create more groups"
+    },
+    "permissionDenied": {
+      "message": "تم رفض الإذن",
+      "description": "Permission was denied"
+    },
+    "noAccessToTopsites": {
+      "message": "لا يوجد وصول إلى المواقع الأكثر زيارة",
+      "description": "No access to topsites"
+    },
+    "noAccessToBookmarks": {
+      "message": "لا يوجد وصول إلى الإشارات المرجعية",
+      "description": "No access to bookmarks"
+    },
+    "addImportedSites": {
+      "message": "إضافة/استيراد مواقع",
+      "description": "Add/import sites"
+    },
+    "yourMostVisitedSites": {
+      "message": "مواقعك الأكثر زيارة",
+      "description": "Your most visited sites"
+    },
+    "yourBookmarks": {
+      "message": "إشاراتك المرجعية",
+      "description": "Your bookmarks"
+    },
+    "needsOneTimePermission": {
+      "message": "يحتاج إلى إذن لمرة واحدة",
+      "description": "Needs a one-time permission"
+    },
+    "grantAccess": {
+      "message": "منح الوصول",
+      "description": "Grant access"
+    },
+    "noBookmarksFound": {
+      "message": "لم يتم العثور على إشارات مرجعية",
+      "description": "No bookmarks found"
+    },
+    "workspaceFull": {
+      "message": "مساحة العمل ممتلئة",
+      "description": "Workspace full"
+    },
+    "maximum8CategoriesPerWorkspace": {
+      "message": "الحد الأقصى 8 فئات لكل مساحة عمل",
+      "description": "Maximum 8 categories per workspace"
+    }, 
+    "editCategories": {
+      "message": "تعديل الفئات",
+      "description": "Edit categories"
+    },
+    "maximumOf8CategoriesReached": {
+      "message": "تم الوصول إلى الحد الأقصى وهو 8 فئات",
+      "description": "Maximum of 8 categories reached"
+    },
+    "newCategory": {
+      "message": "فئة جديدة",
+      "description": "New category"
+    },
+    "areYouSureYouWantToDeleteThisCategory": {
+      "message": "هل أنت متأكد أنك تريد حذف هذه الفئة؟",
+      "description": "Are you sure you want to delete this category?"
+    },
+    "allContainingGroupsAndSavedItemsWillBeDeleted": {
+      "message": "سيتم حذف جميع المجموعات والعناصر المحفوظة التي تحتويها",
+      "description": "All containing groups and saved items will be deleted"
+    },
+    "noMatch": {
+      "message": "لا يوجد تطابق",
+      "description": "No match"
+    },
+    "noTabsHereNeat": {
+      "message": "لا توجد تبويبات هنا، جميل!",
+      "description": "No tabs here, neat!"
+    },
+    "clearInput": {
+      "message": "مسح الإدخال",
+      "description": "Clear input"
+    },
+    "toNavigate": {
+      "message": "للتنقل",
+      "description": "to navigate"
+    },
+    "addAsGroup": {
+      "message": "إضافة كمجموعة إلى الفئة الحالية",
+      "description": "Add as group to current category"
+    },
+    "edit": {
+      "message": "تعديل",
+      "description": "Edit"
+    },
+    "restore": {
+      "message": "استعادة",
+      "description": "Restore"
+    },
+    "deletePermanently": {
+      "message": "حذف نهائياً",
+      "description": "Delete permanently"
+    },
+    "editName": {
+      "message": "تعديل الاسم",
+      "description": "Edit name"
+    },
+    "reminderDue": {
+      "message": "التذكير مستحق",
+      "description": "reminder due"
+    },
+    "remindersDue": {
+      "message": "تذكيرات مستحقة",
+      "description": "reminders due"
+    },
+    "selectedItems": {
+      "message": "العناصر المحددة",
+      "description": "Selected items"
+    },
+    "stack": {
+      "message": "تكديس",
+      "description": "Stack"
+    },
+    "unstack": {
+      "message": "إلغاء التكديس",
+      "description": "Unstack"
+    },
+    "item": {
+      "message": "عنصر",
+      "description": "item"
+    },
+    "items": {
+      "message": "عناصر",
+      "description": "items"
+    },
+    "toDo": {
+      "message": "مهمة",
+      "description": "to-do"
+    },
+    "note": {
+      "message": "ملاحظة",
+      "description": "note"
+    },
+    "deleteItems": {
+      "message": "حذف العناصر",
+      "description": "Delete items"
+    },
+    "openPricingPage": {
+      "message": "فتح صفحة سعر",
+      "description": "Open pricing page"
+    },
+    "proPlanOnly": {
+      "message": "الخطة المميزة فقط",
+      "description": "Pro plan only"
+    },
+    "upload": {
+      "message": "رفع",
+      "description": "Upload"
+    },
+    "clickToEdit": {
+      "message": "انقر للتعديل",
+      "description": "Click to edit"
+    },
+    "resetToDefault": {
+      "message": "إعادة تعيين إلى الافتراضي",
+      "description": "Reset to default"
+    },
+    "typeShortcut": {
+      "message": "إدخال اختصار",
+      "description": "Type shortcut"
+    },
+    "refetch": {
+      "message": "إعادة الاستدلال",
+      "description": "Refetch"
+    },
+    "newWorkspace": {
+      "message": "مساحة عمل جديدة",
+      "description": "New workspace"
+    },
+    "upgradeToCollaborate": {
+      "message": "ترقية إلى التعاون",
+      "description": "Upgrade to collaborate"
+    },
+    "inviteAcceptedSuccessfully": {
+      "message": "تم قبول الدعوة بنجاح",
+      "description": "Invite accepted successfully"
+    },
+    "inviteDeclined": {
+      "message": "تم رفض الدعوة",
+      "description": "Invite declined"
+    },
+    "somethingWentWrong": {
+      "message": "هناك خطأ ما",
+      "description": "Something went wrong"
+    },
+    "pleaseTryAgain": {
+      "message": "يرجى المحاولة مرة أخرى",
+      "description": "Please try again"
+    },
+    "invitedBy": {
+      "message": "دعوته بواسطة:",
+      "description": "Invited by"
+    },
+    "addUser": {
+      "message": "إضافة مستخدم",
+      "description": "Add user"
+    },
+    "addAndShareWorkspaceWith": {
+      "message": "إضافة ومشاركة مساحة عمل مع:",
+      "description": "Add and share workspace with"
+    },
+    "invite": {
+      "message": "دعوة",
+      "description": "Invite"
+    },
+    "yourTeam": {
+      "message": "فريقك:",
+      "description": "Your team:"
+    },
+    "emptyAddMembers": {
+      "message": "فارغ. إضافة الأعضاء في",
+      "description": "Empty. Add members at"
+    },
+    "please": {
+      "message": "يرجى",
+      "description": "Please"
+    },
+    "upgradeYourPlan": {
+      "message": "ترقية الخطة",
+      "description": "Upgrade your plan"
+    },
+    "toUseTheRealtimeShareFeature": {
+      "message": "لاستخدام ميزة المشاركة الحية",
+      "description": "to use the realtime share feature"
+    },
+    "add": {
+      "message": "إضافة",
+      "description": "Add"
+    }, 
+    "workspaceShared": {
+      "message": "مساحة عمل مشتركة",
+      "description": "Workspace shared"
+    },
+    "workspaceUnshared": {
+      "message": "مساحة عمل غير مشتركة",
+      "description": "Workspace unshared"
+    },
+    "nowAccessibleViaPublicLink": {
+      "message": "الآن متاحة عبر رابط عام",
+      "description": "Now accessible via public link"
+    },
+    "publicLinkRemoved": {
+      "message": "تم إزالة رابط عام",
+      "description": "Public link removed"
+    },
+    "shareAsReadOnlyPublicLink": {
+      "message": "مشاركة كرابط عام قرين",
+      "description": "Share as read-only public link"
+    },
+    "saveToNewGroup": {
+      "message": "حفظ إلى مجموعة جديدة",
+      "description": "Save to new group"
+    },
+    "saveToGroup": {
+      "message": "حفظ إلى مجموعة",
+      "description": "Save to group"
+    },
+    "toggleDarkmode": {
+      "message": "تبديل الوضع الداكن",
+      "description": "Toggle darkmode"
+    },
+    "turnIntoNote": {
+      "message": "تحويل هذه الملاحظة إلى موقع",
+      "description": "Turn this note into a site"
+    },
+    "turnIntoToDo": {
+      "message": "تحويل هذه المهمة إلى مهمة",
+      "description": "Turn this note into a to-do"
+    },
+    "closeColorPicker": {
+      "message": "إغلاق محرر اللون",
+      "description": "Close color-picker"
+    }, 
+    "changeColor": {
+      "message": "تغيير اللون",
+      "description": "Change color"
+    },
+    "pinTab": {
+      "message": "إثبات التبويب",
+      "description": "Pin tab"
+    },
+    "unpinTab": {
+      "message": "إلغاء إثبات التبويب",
+      "description": "Unpin tab"
+    },
+    "save": {
+      "message": "حفظ",
+      "description": "Save"
+    },
+    "update": {
+      "message": "تحديث",
+      "description": "Update"
+    },
+    "deleteItem": {
+      "message": "حذف العنصر",
+      "description": "Delete item"
+    },
+    "deleteItemFromStack": {
+      "message": "حذف العنصر من المكدس",
+      "description": "Delete item from stack"
+    },
+    "savedIn": {
+      "message": "حفظ في:",
+      "description": "Saved in:"
+    },
+    "changesNotSaved": {
+      "message": "تغييرات غير محفوظة",
+      "description": "Changes not saved"
+    },
+    "deleteFrom": {
+      "message": "حذف من",
+      "description": "Delete from"
+    },
+    "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+      "message": "هل أنت متأكد أنك تريد حذف هذا الموقع المحفوظ والملاحظة؟",
+      "description": "Are you sure you want to delete this saved site and note?"
+    },
+    "result": {
+      "message": "النتيجة",
+      "description": "Result"
+    },
+    "notAvailableInWebVersion": {
+      "message": "غير متاح في الإصدار الويب",
+      "description": "Not available in web version"
+    },
+    "pleaseAddBrowserExtension": {
+      "message": "يرجى إضافة الامتداد المتصفح للوصول إلى",
+      "description": "Please add the browser extension to access"
+    },
+    "goTo": {
+      "message": "إذهب إلى",
+      "description": "Go to"
+    },
+    "openSite": {
+      "message": "فتح الموقع",
+      "description": "Open site"
+    },
+    "goToWorkspace": {
+      "message": "إذهب إلى مساحة عمل",
+      "description": "Go to Workspace"
+    },
+    "reschedule": {
+      "message": "إعادة جدولة",
+      "description": "Reschedule"
+    },
+    "dataImportedSuccessfully": {
+      "message": "تم استيراد البيانات بنجاح",
+      "description": "Data imported successfully"
+    },
+    "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+      "message": "تم إنشاء مساحة عمل جديدة باستخدام البيانات المستوردة",
+      "description": "A new workspace has been created with the imported data"
+    },
+    "errorImportingData": {
+      "message": "خطأ في استيراد البيانات",
+      "description": "Error importing data"
+    },
+    "newWorkspaceCreated": {
+      "message": "تم إنشاء مساحة عمل جديدة",
+      "description": "New workspace created"
+    },
+    "workspaceLimitReached": {
+      "message": "تم الوصول إلى حد المساحة المحدد",
+      "description": "Workspace limit reached"
+    },
+    "upgradeToProPlanForMoreWorkspaces": {
+      "message": "كمستخدم مجاني، يمكنك الوصول إلى مساحة عمل واحدة فقط. ترقية إلى خطة المستوى المميز لمزيد من المساحات العملية.",
+      "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+    },
+    "somethingWentWrongWhileCreatingWorkspace": {
+      "message": "هناك خطأ ما أثناء إنشاء مساحة عمل، يرجى المحاولة مرة أخرى",
+      "description": "Something went wrong while creating workspace, please try again"
+    },
+    "loginFailed": {
+      "message": "فشل تسجيل الدخول",
+      "description": "Login failed"
+    },
+    "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+      "message": "يرجى السماح بإذن الهوية لتسجيل الدخول مع Google",
+      "description": "Please allow the identity permission to sign in with Google"
+    },
+    "accountUpgradedSuccessfully": {
+      "message": "تم ترقية الحساب بنجاح",
+      "description": "Account upgraded successfully"
+    },
+    "youCanNowSyncYourDataAcrossDevices": {
+      "message": "يمكنك الآن مزامنة بياناتك عبر الأجهزة",
+      "description": "You can now sync your data across devices"
+    },
+    "cannotRemoveWorkspace": {
+      "message": "لا يمكن إزالة مساحة عمل",
+      "description": "Cannot remove workspace"
+    },
+    "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+      "message": "يجب أن يكون لديك على الأقل مساحة عمل واحدة حيث أنت صاحبها، أنشأ مساحة عمل جديدة قبل إزالة الحالية",
+      "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+    },
+    "workspaceRemoved": {
+      "message": "تمت إزالة مساحة عمل",
+      "description": "Workspace removed"
+    },
+    "removedSuccessfully": {
+      "message": "تمت الإزالة بنجاح",
+      "description": "removed successfully"
+    },
+    "workspaceRemovalFailed": {
+      "message": "فشل إزالة مساحة عمل",
+      "description": "Workspace removal failed"
+    },
+    "groupMovedSuccessfully": {
+      "message": "تم نقل المجموعة بنجاح",
+      "description": "Group moved successfully"
+    },
+    "groupMovedInto": {
+      "message": "نقلها إلى",
+      "description": "moved into"
+    },
+    "groupMoveFailed": {
+      "message": "فشل نقل المجموعة",
+      "description": "Group move failed"
+    },
+    "tabsMovedSuccessfully": {
+      "message": "تم نقل التبويبات بنجاح",
+      "description": "Tabs moved successfully"
+    },
+    "tabMovedSuccessfully": {
+      "message": "تم نقل التبويب بنجاح",
+      "description": "Tab moved successfully"
+    },
+    "tabMoveFailedPleaseTryAgain": {
+      "message": "فشل نقل التبويب، يرجى المحاولة مرة أخرى",
+      "description": "Tab move failed, please try again"
+    },
+    "couldNotFetchWorkspaceData": {
+      "message": "لم يتم جلب بيانات مساحة العمل",
+      "description": "Could not fetch workspace data"
+    },
+    "errorUpdatingGroupWidth": {
+      "message": "خطأ في تحديث عرض المجموعة",
+      "description": "Error updating group width"
+    },
+    "errorUpdatingMetaImagePin": {
+      "message": "خطأ في تحديث إشارة صورة الميتا",
+      "description": "Error updating meta image pin"
+    },
+    "saveDone": {
+      "message": "حفظ مكتمل",
+      "description": "Save done"
+    },
+    "allActiveTabsSavedAndClosedInto": {
+      "message": "جميع التبويبات النشطة وإغلاقها إلى",
+      "description": "All active tabs saved and closed into"
+    },
+    "groupSavedInto": {
+      "message": "تم حفظ المجموعة إلى",
+      "description": "Group saved into"
+    },
+    "tabsSavedInto": {
+      "message": "تم حفظ التبويبات إلى",
+      "description": "Tabs saved into"
+    },
+    "categoryMovedSuccessfully": {
+      "message": "تم نقل الفئة بنجاح",
+      "description": "Category moved successfully"
+    },
+    "stackUnstacked": {
+      "message": "تم إلغاء التكديس",
+      "description": "Stack unstacked"
+    },
+    "sitesSplitIntoIndividualItems": {
+      "message": "تم تقسيم المواقع إلى عناصر منفردة",
+      "description": "Sites split into individual items"
+    },
+    "stackCreated": {
+      "message": "تم إنشاء المكدس",
+      "description": "Stack created"
+    },
+    "sitesMergedIntoOneStackedItem": {
+      "message": "تم دمج المواقع إلى عنصر مكدس واحد",
+      "description": "Sites merged into one stacked item"
+    },
+    "errorUpdatingDatabaseOnStackAction": {
+      "message": "خطأ في تحديث قاعدة البيانات على إجراء المكدس",
+      "description": "Error updating database on stack action"
+    },
+    "noteTurnedIntoSite": {
+      "message": "تحويل الملاحظة إلى موقع",
+      "description": "Note turned into site"
+    },
+    "theNoteHasBeenTurnedIntoASite": {
+      "message": "تم تحويل الملاحظة إلى موقع",
+      "description": "The note has been turned into a site"
+    },
+    "groupUpdated": {
+      "message": "تم تحديث المجموعة",
+      "description": "Group updated"
+    },
+    "sitesInGroupSyncedWithOpenTabGroup": {
+      "message": "تم مزامنة المواقع في المجموعة بالتبويب المفتوح",
+      "description": "Sites in group synced with the open tab group"
+    },
+    "errorSyncingSitesInGroup": {
+      "message": "خطأ في مزامنة المواقع في المجموعة",
+      "description": "Error syncing sites in group"
+    },
+    "itemSorted": {
+      "message": "تم فرز العنصر",
+      "description": "Item sorted"
+    },
+    "theGroupsContentHasBeenSortedAlphabetically": {
+      "message": "تم فرز محتوى المجموعات أبجدياً",
+      "description": "The groups content has been sorted alphabetically"
+    },
+    "noItemsToSort": {
+      "message": "لا توجد عناصر للفرز",
+      "description": "No items to sort"
+    },
+    "thereSeemsToBeNoItemsInTheGroup": {
+      "message": "يبدو أنه لا توجد عناصر في المجموعة",
+      "description": "There seems to be no items in the group"
+    },
+    "theGroupContentHasBeenSortedByDate": {
+      "message": "تم فرز محتوى المجموعة حسب التاريخ",
+      "description": "The group content has been sorted by date"
+    },
+    "allTextInsideGroupCopiedToClipboard": {
+      "message": "تم نسخ جميع النصوص داخل المجموعة إلى الحافظة",
+      "description": "All text inside group copied to clipboard"
+    },
+    "noItemsToCopy": {
+      "message": "لا توجد عناصر للنسخ",
+      "description": "No items to copy"
+    }, 
+    "groupDuplicated": {
+      "message": "تم تكرار المجموعة",
+      "description": "Group duplicated"
+    },
+    "duplicatedSuccessfully": {
+      "message": "تم التكرار بنجاح",
+      "description": "duplicated successfully"
+    },
+    "createNewCategoryToCreateMoreGroups": {
+      "message": "أنشئ فئة جديدة لإنشاء المزيد من المجموعات",
+      "description": "Create a new category to create more groups"
+    },
+    "stackedItems": {
+      "message": "عناصر مكدسة",
+      "description": "stacked items"
+    },
+    "stackedItemsDeleted": {
+      "message": "تم حذف عناصر مكدسة",
+      "description": "Stacked items deleted"
+    },
+    "itemDeleted": {
+      "message": "تم حذف العنصر",
+      "description": "item deleted"
+    },
+    "itemsDeleted": {
+      "message": "تم حذف العناصر",
+      "description": "items deleted"
+    },
+    "errorDeletingCategory": {
+      "message": "خطأ في حذف الفئة",
+      "description": "Error deleting category"
+    },
+    "pleaseRefreshPageAndTryAgain": {
+      "message": "يرجى تحديث الصفحة والمحاولة مرة أخرى",
+      "description": "Please refresh page and try again"
+    },
+    "wasDeleted": {
+      "message": "تم حذفه",
+      "description": "was deleted"
+    },
+    "atLeastOneCategoryPerWorkspaceRequired": {
+      "message": "يلزم وجود فئة واحدة لكل مساحة عمل",
+      "description": "At least one category per workspace required"
+    },
+    "deleteNotPermitted": {
+      "message": "حذف غير مسموح به",
+      "description": "Delete not permitted"
+    },
+    "groupDeleted": {
+      "message": "تم حذف المجموعة",
+      "description": "Group deleted"
+    },
+    "theBinContainsYourLast50DeletedItems": {
+      "message": "المهمل يحتوي على آخر 50 عنصر محذوف",
+      "description": "The bin contains your last 50 deleted items."
+    },
+    "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+      "message": "باختيار إعادة إستعادة عنصر محذوف، سيتم إعادة إنشاؤه في الفئة المختارة حالياً",
+      "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+    },
+    "bin": {
+      "message": "المهمل",
+      "description": "Bin"
+    },
+    "areYouSureYouWantToDeleteThisWorkspace": {
+      "message": "هل أنت متأكد أنك تريد حذف هذه المساحة؟",
+      "description": "Are you sure you want to delete this workspace?"
+    },
+    "areYouSureYouWantToRemoveThisWorkspace": {
+      "message": "هل أنت متأكد أنك تريد إزالة هذه المساحة؟",
+      "description": "Are you sure you want to remove this workspace?"
+    },
+    "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+      "message": "سيتم حذف جميع الفئات والمجموعات والعناصر المحفوظة لجميع المستخدمين",
+      "description": "All containing categories, groups and saved items will be deleted for all users."
+    },
+    "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+      "message": "لن تتمكن من الوصول إلى المساحة أخرى. ستظل المساحة جاهزة للوصول إليها من قبل المستخدمين الآخرين",
+      "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+    },
+    "remove": {
+      "message": "إزالة",
+      "description": "Remove"
+    },
+    "areYouSureYouWantToClearAllReminders": {
+      "message": "هل أنت متأكد أنك تريد مسح جميع التذكيرات؟",
+      "description": "Are you sure you want to clear all reminders?"
+    },
+    "youCantUndoThisAction": {
+      "message": "لا يمكن إلغاء هذه الإجراء",
+      "description": "You can't undo this action."
+    },
+    "clearReminders": {
+      "message": "مسح التذكيرات",
+      "description": "Clear reminders"
+    },
+    "clearAll": {
+      "message": "مسح الكل",
+      "description": "Clear all"
+    },
+    "reminderCleared": {
+      "message": "تم مسح التذكير",
+      "description": "Reminder cleared"
+    },
+    "remindersCleared": {
+      "message": "تم مسح التذكيرات",
+      "description": "Reminders cleared"
+    },
+    "reminderRemoved": {
+      "message": "تم إزالة التذكير",
+      "description": "Reminder removed"
+    },
+    "date": {
+      "message": "التاريخ:",
+      "description": "Date:"
+    },
+    "unableToToggleToDo": {
+      "message": "غير ممكن تبديل المهمة",
+      "description": "Unable to toggle to-do"
+    },
+    "goToWorkspaceToEditItem": {
+      "message": "إذهب إلى مساحة عمل لتعديل العنصر",
+      "description": "Go to workspace to edit item"
+    },
+    "repeating": {
+      "message": "تكرار:",
+      "description": "Repeating:"
+    },
+    "eachWeek": {
+      "message": "كل أسبوع",
+      "description": "each week"
+    },
+    "ofTheMonth": {
+      "message": "من الشهر",
+      "description": "of the month"
+    },
+    "toEnableReminders": {
+      "message": "لتمكين التذكير",
+      "description": "to enable reminders"
+    },
+    "noReminders": {
+      "message": "لا توجد تذكيرات",
+      "description": "No reminders"
+    },
+    "today": {
+      "message": "اليوم",
+      "description": "Today"
+    },
+    "minimize": {
+      "message": "تصغير",
+      "description": "Minimize"
+    },
+    "addSite": {
+      "message": "إضافة موقع/صورة",
+      "description": "Add site/image"
+    },
+    "duplicateGroup": {
+      "message": "تكرار المجموعة",
+      "description": "Duplicate group"
+    },
+    "copyAsText": {
+      "message": "نسخ كنص",
+      "description": "Copy as text"
+    },
+    "moveTo": {
+      "message": "نقل إلى",
+      "description": "Move to"
+    },
+    "sortBy": {
+      "message": "ترتيب حسب",
+      "description": "Sort by"
+    },
+    "alphabetical": {
+      "message": "أبجدي",
+      "description": "Alphabetical"
+    },
+    "dateAdded": {
+      "message": "تاريخ الإضافة",
+      "description": "Date added"
+    },
+    "saveTo": {
+      "message": "حفظ إلى",
+      "description": "Save to"
+    },
+    "closeAndMoveTo": {
+      "message": "إغلاق ونقل إلى",
+      "description": "Close and move to"
+    },
+    "createGroupAndClose": {
+      "message": "إنشاء مجموعة وإغلاق",
+      "description": "Create group and close"
+    },
+    "discard": {
+      "message": "تجاهل",
+      "description": "Discard"
+    },
+    "pin": {
+      "message": "إثبات",
+      "description": "Pin"
+    },
+    "unpin": {
+      "message": "إلغاء إثبات",
+      "description": "Unpin"
+    },
+    "group": {
+      "message": "مجموعة",
+      "description": "Group"
+    },
+    "ungroup": {
+      "message": "إلغاء المجموعة",
+      "description": "Ungroup"
+    },
+    "noUrlFound": {
+      "message": "لم يتم العثور على رابط",
+      "description": "No URL found"
+    },
+    "previewUnavailable": {
+      "message": "المعاينة غير متاحة",
+      "description": "Preview unavailable"
+    },
+    "tabGrouped": {
+      "message": "تم تجميع التبويب",
+      "description": "tab grouped"
+    },
+    "tabsGrouped": {
+      "message": "تم تجميع التبويبات",
+      "description": "tabs grouped"
+    },
+    "groupCreatedFromSelectedTabs": {
+      "message": "تم إنشاء مجموعة من التبويبات المحددة",
+      "description": "Group created from selected tabs"
+    },
+    "tabAlreadyDiscarded": {
+      "message": "التبويب مهمل بالفعل",
+      "description": "Tab already discarded"
+    },
+    "doubleClickToReload": {
+      "message": "اضغط مرتين لإعادة تحميله",
+      "description": "Double click to reload it"
+    },
+    "addTextSelectionToGroup": {
+      "message": "إضافة نص التحديد إلى المجموعة",
+      "description": "Add text-selection to group"
+    },
+    "closeSiteAndSaveTo": {
+      "message": "إغلاق الموقع وحفظ إلى:",
+      "description": "Close site and save to:"
+    },
+    "close": {
+      "message": "إغلاق",
+      "description": "close"
+    },
+    "newGroup": {
+      "message": "مجموعة جديدة",
+      "description": "New group"
+    },
+    "savesLeftOnTrialPlan": {
+      "message": "الحفظ المتبقي على خطة التجربة المجانية",
+      "description": "saves left on trial plan"
+    },
+    "manageAccount": {
+      "message": "إدارة الحساب",
+      "description": "Manage account"
+    },
+    "signOut": {
+      "message": "تسجيل الخروج",
+      "description": "Sign out"
+    },
+    "warningBySigningOut": {
+      "message": "تحذير: سيتم فقدان البيانات المحفوظة الحالية عند تسجيل الخروج",
+      "description": "Warning: By signing out, your current saved data will be lost"
+    },
+    "sinceYouAreOnAGuestAccount": {
+      "message": "بما أنك على حساب زائر، سيتم فقدان جميع البيانات إذا تسجل الخروج. للحفاظ على بياناتك، تصارك الدخول أو ربطها ببريد إلكتروني/كلمة مرور أو Google.",
+      "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+    },
+    "yesSignMeOut": {
+      "message": "نعم، تسجيلي الخروج",
+      "description": "Yes, sign me out"
+    },
+    "importBookmarks": {
+      "message": "استيراد الإشارات المرجعية",
+      "description": "Import bookmarks"
+    },
+    "feedback": {
+      "message": "التغذية",
+      "description": "Feedback"
+    },
+    "settings": {
+      "message": "الإعدادات",
+      "description": "Settings"
+    },
+    "theme": {
+      "message": "الموضوع",
+      "description": "Theme"
+    },
+    "sendFeedback": {
+      "message": "إرسال التغذية",
+      "description": "Send feedback"
+    },
+    "pleaseShareYourFeedbackWithUs": {
+      "message": "يرجى مشاركة التغذية معنا. لقد استفدنا من ملاحظاتك ونحن نقدر جداً جهودكم",
+      "description": "Please share your feedback with us. We appreciated and value your input."
+    },
+    "send": {
+      "message": "إرسال",
+      "description": "Send"
+    },
+    "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+      "message": "يمكن فقط مالك المساحة العمل إضافة/إزالة المستخدمين ومشاركتهم عبر رابط عام",
+      "description": "Only workspace owner can add/remove users and share via public URL."
+    },
+    "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+      "message": "إضافة مستخدمين لمشاركة المساحة العمل الحالية والتعاون في الوقت الحقيقي",
+      "description": "Add users to share the current workspace and collaborate in real time."
+    },
+    "readMoreAboutSharing": {
+      "message": "إقرأ المزيد عن المشاركة",
+      "description": "Read more about sharing"
+    },
+    "here": {
+      "message": "هنا",
+      "description": "here"
+    },
+    "removeUser": {
+      "message": "إزالة المستخدم",
+      "description": "Remove user"
+    },
+    "pleaseEnterAValidEmailAddress": {
+      "message": "يرجى إدخال بريد إلكتروني صالح",
+      "description": "Please enter a valid email address"
+    },
+    "looksLikeThisUserHasBeenInvitedAlready": {
+      "message": "يبدو أن هذا المستخدم تم دعوته بالفعل",
+      "description": "Looks like this user has already been invited"
+    },
+    "pleaseSeeListOfUsers": {
+      "message": "يرجى عرض قائمة المستخدمين",
+      "description": "Please see list of users"
+    },
+    "inviteSentTo": {
+      "message": "تم إرسال الدعوة إلى",
+      "description": "Invite sent to"
+    },
+    "categories": {
+      "message": "الفئات",
+      "description": "categories"
+    },
+    "category": {
+      "message": "الفئة",
+      "description": "category"
+    },
+    "users": {
+      "message": "المستخدمين",
+      "description": "Users"
+    },
+    "moveUp": {
+      "message": "تحريك للأعلى",
+      "description": "Move up"
+    },
+    "moveDown": {
+      "message": "تحريك للأسفل",
+      "description": "Move down"
+    },
+    "day": {
+      "message": "يوم",
+      "description": "day"
+    },
+    "days": {
+      "message": "أيام",
+      "description": "days"
+    },
+    "hour": {
+      "message": "ساعة",
+      "description": "hour"
+    },
+    "hours": {
+      "message": "ساعات",
+      "description": "hours"
+    },
+    "minute": {
+      "message": "دقيقة",
+      "description": "minute"
+    },
+    "minutes": {
+      "message": "دقائق",
+      "description": "minutes"
+    },
+    "now": {
+      "message": "الآن",
+      "description": "Now"
+    },
+    "overdue": {
+      "message": "متأخر",
+      "description": "overdue"
+    },
+    "and": {
+      "message": "و",
+      "description": "and"
+    },
+    "stackedSites": {
+      "message": "مواقع مكدسة",
+      "description": "Stacked sites"
+    },
+    "due": {
+      "message": "مستحق",
+      "description": "due"
+    },
+    "dueCapital": {
+      "message": "مستحق",
+      "description": "DUE"
+    },
+    "reminder": {
+      "message": "تذكير",
+      "description": "Reminder"
+    },
+    "reminders": {
+      "message": "تذكيرات",
+      "description": "Reminders"
+    },
+    "upcoming": {
+      "message": "قادم",
+      "description": "Upcoming"
+    },
+    "noUpcomingReminders": {
+      "message": "لا توجد تذكيرات قادمة",
+      "description": "No upcoming reminders"
+    },
+    "mon": {
+      "message": "الإثنين",
+      "description": "Mon"
+    },
+    "tue": {
+      "message": "الثلاثاء",
+      "description": "Tue"
+    },
+    "wed": {
+      "message": "الأربعاء",
+      "description": "Wed"
+    },
+    "thu": {
+      "message": "الخميس",
+      "description": "Thu"
+    },
+    "fri": {
+      "message": "الجمعة",
+      "description": "Fri"
+    },
+    "sat": {
+      "message": "السبت",
+      "description": "Sat"
+    },
+    "sun": {
+      "message": "الأحد",
+      "description": "Sun"
+    },
+    "january": {
+      "message": "يناير",
+      "description": "January"
+    },
+    "february": {
+      "message": "فبراير",
+      "description": "February"
+    },
+    "march": {
+      "message": "مارس",
+      "description": "March"
+    },
+    "april": {
+      "message": "أبريل",
+      "description": "April"
+    },
+    "may": {
+      "message": "مايو",
+      "description": "May"
+    },
+    "june": {
+      "message": "يونيو",
+      "description": "June"
+    },
+    "july": {
+      "message": "يوليو",
+      "description": "July"
+    },
+    "august": {
+      "message": "أغسطس",
+      "description": "August"
+    },
+    "september": {
+      "message": "سبتمبر",
+      "description": "September"
+    },
+    "october": {
+      "message": "أكتوبر",
+      "description": "October"
+    },
+    "november": {
+      "message": "نوفمبر",
+      "description": "November"
+    },
+    "december": {
+      "message": "ديسمبر",
+      "description": "December"
+    },
+    "clear": {
+      "message": "مسح",
+      "description": "Clear"
+    },
+    "clearRepeat": {
+      "message": "مسح + تكرار",
+      "description": "Clear + repeat"
+    },
+    "removeAll": {
+      "message": "إزالة الكل",
+      "description": "Remove all"
+    },
+    "currentWorkspace": {
+      "message": "مساحة عمل حالية",
+      "description": "Current workspace"
+    },
+    "allWorkspaces": {
+      "message": "جميع مساحات العمل",
+      "description": "All workspaces"
+    },
+    "openTabs": {
+      "message": "التبويبات المفتوحة",
+      "description": "Open tabs"
+    },
+    "bookmarks": {
+      "message": "الإشارات المرجعية",
+      "description": "Bookmarks"
+    }, 
+    "giveItATitle": {
+      "message": "إعطاء عنوان",
+      "description": "Give it a title"
+    },
+    "noteUpdated": {
+      "message": "تم تحديث الملاحظة",
+      "description": "Note updated"
+    },
+    "errorUpdatingNote": {
+      "message": "خطأ في تحديث الملاحظة",
+      "description": "Error updating note"
+    },
+    "active": {
+      "message": "نشط",
+      "description": "active"
+    },
+    "paused": {
+      "message": "متوقف",
+      "description": "paused"
+    },
+    "free": {
+      "message": "مجاني",
+      "description": "free"
+    },
+    "errorRemovingItem": {
+      "message": "خطأ في إزالة العنصر",
+      "description": "Error removing item"
+    },
+    "errorRemovingSite": {
+      "message": "خطأ في إزالة الموقع",
+      "description": "Error removing site"
+    },
+    "itemRemoved": {
+      "message": "تم إزالة العنصر",
+      "description": "Item removed"
+    },
+    "errorSavingSite": {
+      "message": "خطأ في حفظ الموقع",
+      "description": "Error saving site"
+    },
+    "groupCreatedWithItem": {
+      "message": "تم إنشاء مجموعة مع العنصر",
+      "description": "Group created with item"
+    },
+    "loading": {
+      "message": "جاري التحميل",
+      "description": "Loading"
+    },
+    "trialLimitReached": {
+      "message": "تم الوصول إلى حد التجربة المجانية",
+      "description": "Trial limit reached"
+    },
+    "saveComplete": {
+      "message": "حفظ مكتمل",
+      "description": "Save complete"
+    },
+    "itemPermanentlyRemoved": {
+      "message": "تم إزالة العنصر بشكل دائم",
+      "description": "Item permanently removed"
+    },
+    "itemRestored": {
+      "message": "تم إستعادة العنصر",
+      "description": "Item restored"
+    },
+    "itemRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "تم إستعادة العنصر إلى عناصر مستعادة في الفئة الحالية",
+      "description": "Item restored into Restored items in current category"
+    },
+    "restoredItems": {
+      "message": "عناصر مستعادة",
+      "description": "Restored items"
+    },
+    "groupRestored": {
+      "message": "تم إستعادة المجموعة",
+      "description": "Group restored"
+    },
+    "groupRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "تم إستعادة المجموعة إلى عناصر مستعادة في الفئة الحالية",
+      "description": "Group restored into Restored items in current category"
+    },
+    "errorFetchingWorkspaceData": {
+      "message": "خطأ في جلب بيانات مساحة العمل",
+      "description": "Error fetching workspace data"
+    },
+    "errorCreatingNewGroup": {
+      "message": "خطأ في إنشاء مجموعة جديدة",
+      "description": "Error creating new group"
+    },
+    "dropNotAllowed": {
+      "message": "إفلات غير مسموح به",
+      "description": "Drop not allowed"
+    },
+    "groupsMerged": {
+      "message": "تم دمج المجموعات",
+      "description": "Groups merged"
+    },
+    "mergedInto": {
+      "message": "دمجها إلى",
+      "description": "merged into"
+    },
+    "userRemoved": {
+      "message": "تم إزالة المستخدم",
+      "description": "User removed"
+    },
+    "somethingWentWrongRemovingUser": {
+      "message": "هناك خطأ ما أثناء إزالة المستخدم",
+      "description": "Something went wrong removing user"
+    },
+    "pleaseRefreshAndTryAgain": {
+      "message": "يرجى تحديث الصفحة والمحاولة مرة أخرى",
+      "description": "Please refresh and try again"
+    },
+    "maximumCategoriesReached": {
+      "message": "الحد الأقصى للفئات هو 8 فئات لكل مساحة عمل",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "addMoreBeforeMoving": {
+      "message": "إضافة المزيد قبل النقل",
+      "description": "Add more before moving"
+    },
+    "workspaceInviteRemoved": {
+      "message": "تم إزالة دعوة مساحة عمل",
+      "description": "Workspace invite removed"
+    },
+    "reminderUpdated": {
+      "message": "تم تحديث التذكير",
+      "description": "Reminder updated"
+    },
+    "reminderSet": {
+      "message": "تم إعداد التذكير",
+      "description": "Reminder set"
+    },
+    "firstUp": {
+      "message": "أولاً",
+      "description": "First up"
+    },
+    "looksLikeUrl": {
+      "message": "يبدو أنه رابط",
+      "description": "Looks like a URL"
+    },
+    "turnNoteIntoSite": {
+      "message": "تحويل هذه الملاحظة إلى موقع",
+      "description": "Turn this note into a site"
+    },
+    "maximumLengthExceeded": {
+      "message": "تم الوصول إلى الحد الأقصى",
+      "description": "Maximum length exceeded"
+    },
+    "noteTruncatedTo5000Characters": {
+      "message": "تم تقصير الملاحظة إلى 5000 حرف",
+      "description": "Note truncated to 5000 characters"
+    },
+    "noteRemoved": {
+      "message": "تم إزالة الملاحظة",
+      "description": "Note removed"
+    },
+    "emptyNoteRemoved": {
+      "message": "تم إزالة الملاحظة الفارغة",
+      "description": "Empty note removed"
+    },
+    "feedbackSubmitted": {
+      "message": "تم إرسال التغذية",
+      "description": "Feedback submitted"
+    },
+    "feedbackSubmissionFailed": {
+      "message": "فشل إرسال التغذية",
+      "description": "Feedback submission failed"
+    },
+    "weReallyAppreciateYourValuableInput": {
+      "message": "نحن نقدر جداً ملاحظاتكم القيمة",
+      "description": "We really appreciate your valuable input"
+    },
+    "pleaseTryAgainOrSendViaSupport": {
+      "message": "يرجى المحاولة مرة أخرى أو إرسالها عبر",
+      "description": "Please try again or send via"
+    },
+    "describeYourIdeaAndUsecase": {
+      "message": "صف الفكرة واستخدامها",
+      "description": "Describe your idea and usecase"
+    },
+    "describeTheIssueBugInDetail": {
+      "message": "صف المشكلة/الإصلاح في التفصيل",
+      "description": "Describe the issue/bug in detail"
+    },
+    "otherThoughtsHere": {
+      "message": "أفكار أخرى هنا",
+      "description": "Other thoughts here"
+    },
+    "passwordResetFailed": {
+      "message": "فشل إعادة تعيين كلمة المرور",
+      "description": "Password reset failed"
+    },
+    "passwordResetEmailSent": {
+      "message": "تم إرسال بريد إلكتروني إعادة تعيين كلمة المرور",
+      "description": "Password reset email sent"
+    },
+    "emailCannotBeEmpty": {
+      "message": "يجب إدخال بريد إلكتروني",
+      "description": "Email cannot be empty"
+    },
+    "notAValidEmail": {
+      "message": "هذا ليس بريد إلكتروني صالح",
+      "description": "Not a valid email"
+    },
+    "checkYourEmailForAPasswordResetLink": {
+      "message": "تحقق بريدك الإلكتروني لرابط إعادة تعيين كلمة المرور",
+      "description": "Check your email for a password reset link."
+    },
+    "passwordMustBeAtLeast6Characters": {
+      "message": "يجب أن تكون كلمة المرور على الأقل 6 حروف",
+      "description": "Password must be at least 6 characters"
+    },
+    "passwordMustBeLessThan128Characters": {
+      "message": "يجب أن تكون كلمة المرور أقل من 128 حرف",
+      "description": "Password must be less than 128 characters"
+    },
+    "passwordCannotBeEmpty": {
+      "message": "يجب إدخال كلمة المرور",
+      "description": "Password cannot be empty"
+    },
+    "updateAccount": {
+      "message": "تحديث الحساب",
+      "description": "Update account"
+    },
+    "signUp": {
+      "message": "تسجيل",
+      "description": "Sign up"
+    },
+    "linkWithGoogle": {
+      "message": "ربط بـ Google",
+      "description": "Link with Google"
+    },
+    "signUpWithEmailPassword": {
+      "message": "تسجيل باستخدام بريد إلكتروني وكلمة مرور",
+      "description": "Sign up with Email + Password"
+    },
+    "signUpWithGoogle": {
+      "message": "تسجيل باستخدام Google",
+      "description": "Sign up with Google"
+    },
+    "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+      "message": "إعداد حسابك باستخدام بريد إلكتروني وكلمة مرور لتمكين مزامنة البيانات والوصول إليها على أجهزة أخرى",
+      "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+    },
+    "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+      "message": "إمكانية الوصول ومزامنة البيانات عبر حساب",
+      "description": "Access and sync your data anywhere with an account."
+    },
+    "byAddingYourDetails": {
+      "message": "بإضافة تفاصيلك",
+      "description": "By adding your details"
+    },
+    "bySigningUp": {
+      "message": "بتسجيل الدخول",
+      "description": "By signing up"
+    },
+    "privacyPolicy": {
+      "message": "سياسة الخصوصية",
+      "description": "privacy policy"
+    },
+    "youAgreeToOur": {
+      "message": "أنت توافق على",
+      "description": "you agree to our"
+    },
+    "termsOfUse": {
+      "message": "شروط الاستخدام",
+      "description": "terms of use"
+    },
+    "continueAsGuest": {
+      "message": "إستمرار كزائر",
+      "description": "Continue as guest"
+    },
+    "somethingWentWrongSigningUp": {
+      "message": "هناك خطأ ما أثناء تسجيل الدخول",
+      "description": "Something went wrong signing up"
+    },
+    "newAccount": {
+      "message": "حساب جديد",
+      "description": "New account"
+    },
+    "logIn": {
+      "message": "تسجيل الدخول",
+      "description": "Log in"
+    },
+    "signIn": {
+      "message": "تسجيل الدخول",
+      "description": "Sign in"
+    },
+    "signInWithGoogle": {
+      "message": "تسجيل الدخول مع Google",
+      "description": "Sign in with Google"
+    },
+    "or": {
+      "message": "أو",
+      "description": "or"
+    },
+    "alreadyHaveAnAccount": {
+      "message": "هل لديك حساب؟ تسجيل الدخول هنا:",
+      "description": "Already have an account? Sign in here:"
+    },
+    "forgotYourPassword": {
+      "message": "هل نسيت كلمة المرور؟",
+      "description": "Forgot your password?"
+    },
+    "enterYourEmailToResetYourPassword": {
+      "message": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور",
+      "description": "Enter your email to reset your password"
+    },
+    "sendMeAResetPasswordLink": {
+      "message": "أرسل لي رابط إعادة تعيين كلمة المرور",
+      "description": "Send me a reset password link"
+    },
+    "hide": {
+      "message": "إخفاء",
+      "description": "Hide"
+    },
+    "show": {
+      "message": "إظهار",
+      "description": "Show"
+    },
+    "password": {
+      "message": "كلمة المرور",
+      "description": "Password"
+    },
+    "email": {
+      "message": "بريد إلكتروني",
+      "description": "Email"
+    },
+    "turnNoteInto": {
+      "message": "تحويل هذه الملاحظة إلى موقع",
+      "description": "Turn this note into a site"
+    },
+    "noCustomIconsUploaded": {
+      "message": "لم يتم تحميل أي أيقونات مخصصة",
+      "description": "No custom icons uploaded"
+    },
+    "upgradeToProPlanToUploadAndUseCustomIcons": {
+      "message": "ترقية إلى خطة المستوى المميز لتحميل واستخدام أيقونات مخصصة",
+      "description": "Upgrade to the Pro plan to upload and use custom icons"
+    },
+    "saveAsNewGroupAndClose": {
+      "message": "حفظ إلى مجموعة جديدة وإغلاق",
+      "description": "Save as new group and close"
+    },
+    "saveImageTo": {
+      "message": "حفظ الصورة إلى",
+      "description": "Save image to"
+    },
+    "showContent": {
+      "message": "إظهار المحتوى",
+      "description": "Show content"
+    },
+    "hideContent": {
+      "message": "إخفاء المحتوى",
+      "description": "Hide content"
+    },
+    "looksLikeImage": {
+      "message": "يبدو أنه صورة",
+      "description": "Looks like an image"
+    },
+    "turnNoteIntoImage": {
+      "message": "تحويل هذه الملاحظة إلى صورة",
+      "description": "Turn this note into an image"
+    },
+    "copyDone": {
+      "message": "تم النسخ",
+      "description": "Copy done"
+    },
+    "putSavedGroupsFirst": {
+      "message": "ضع المجموعات المحفوظة أولاً",
+      "description": "Put saved groups first"
+    },
+    "putSavedGroupsFirstDetails": {
+      "message": "ضع المجموعات المحفوظة إلى أقصى اليسار",
+      "description": "Place saved groups to the far left"
+    }
+}

@@ -1,0 +1,65 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "3.3.7",
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "short_name": "TabX",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "favicon",
+    "storage",
+    "tabGroups",
+    "tabs"
+  ],
+  "optional_permissions": [
+    "topSites",
+    "downloads",
+    "bookmarks",
+    "scripting"
+  ],
+  "host_permissions": [],
+  "action": {
+    "default_title": "Open TabX",
+    "default_icon": "assets/images/logo128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "assets/html/tabx.html"
+  },
+  "side_panel": {
+    "default_path": "assets/html/sidebar.html"
+  },
+  "icons": {
+    "16": "assets/images/logo16.png",
+    "32": "assets/images/logo32.png",
+    "48": "assets/images/logo48.png",
+    "128": "assets/images/logo128.png",
+    "192": "assets/images/logo192.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S",
+        "mac": "MacCtrl+Shift+S"
+      },
+      "description": "Open TabX"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/**",
+        "_favicon/*"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

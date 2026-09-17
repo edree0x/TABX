@@ -1,0 +1,1922 @@
+{
+    "extensionName": {
+      "message": "TabX - Trình quản lý tab dễ dàng",
+      "description": "The name of the extension"
+    },
+    "extensionDescription": {
+      "message": "Biến tab mới của bạn thành bảng điều khiển mạnh mẽ. Thêm ghi chú, đặt lời nhắc và đồng bộ hóa trên các thiết bị để tăng năng suất.",
+      "description": "A description of the extension"
+    },
+    "buttonLabel": {
+      "message": "Thêm trang/hình ảnh",
+      "description": "Label for adding custom url site"
+    },
+    "limitReached": {
+      "message": "Đã đạt giới hạn",
+      "description": "Label for limit reached"
+    },
+    "limitReachedSubtitle": {
+      "message": "Bạn đã đạt đến số lượng trang web tối đa được lưu trong gói miễn phí.",
+      "description": "Label for limit reached subtitle"
+    },
+    "AddCustomUrl": {
+      "message": "Thêm URL tùy chỉnh",
+      "description": "Label for adding custom url"
+    },
+    "AddCustomUrlSubtitle": {
+      "message": "Bạn cũng có thể sử dụng file:/// để liên kết đến tệp cục bộ",
+      "description": "Label for adding custom url subtitle"
+    },
+    "titleIsRequired": {
+      "message": "Tiêu đề là bắt buộc",
+      "description": "Label for title is required"
+    },
+    "urlIsRequired": {
+      "message": "URL là bắt buộc",
+      "description": "Label for url is required"
+    },
+    "orAddPredefined": {
+      "message": "Hoặc thêm một lối tắt .new được định nghĩa trước vào nhóm:",
+      "description": "Label for or add a predefined shortcut"
+    },
+    "saveAsNewGroup": {
+      "message": "Lưu thành nhóm mới",
+      "description": "Label for save as new group"
+    },
+    "closeWindow": {
+      "message": "Đóng cửa sổ",
+      "description": "Label for close window"
+    },
+    "removeDuplicates": {
+      "message": "Xóa bỏ trùng lặp",
+      "description": "Label for remove duplicates"
+    },
+    "pinSidebar": {
+      "message": "Ghim thanh bên",
+      "description": "Label for pin sidebar"
+    },
+    "unpinSidebar": {
+      "message": "Bỏ ghim thanh bên",
+      "description": "Label for unpin sidebar"
+    },
+    "gridView": {
+      "message": "Xem dạng lưới",
+      "description": "Label for grid view"
+    },
+    "newWindow": {
+      "message": "Cửa sổ mới",
+      "description": "Label for new window"
+    },
+    "deleteNote": {
+      "message": "Xóa ghi chú",
+      "description": "Label for delete note"
+    },
+    "deteleToDo": {
+      "message": "Xóa việc cần làm",
+      "description": "Label for detele to-do"
+    },
+    "editReminder": {
+      "message": "Chỉnh sửa lời nhắc",
+      "description": "Label for edit reminder"
+    },
+    "setReminder": {
+      "message": "Đặt lời nhắc",
+      "description": "Label for set reminder"
+    },
+    "copyContent": {
+      "message": "Sao chép nội dung",
+      "description": "Label for copy content"
+    },
+    "textCopied": {
+      "message": "Đã sao chép văn bản",
+      "description": "Label for text copied"
+    },
+    "textCopiedSubtitle": {
+      "message": "Ghi chú đã được sao chép vào clipboard của bạn",
+      "description": "Label for text copied subtitle"
+    },
+    "couldNotCopy": {
+      "message": "Không thể sao chép vào clipboard. Vui lòng thử lại.",
+      "description": "Label for could not copy"
+    },
+    "addEmoji": {
+      "message": "Thêm emoji",
+      "description": "Label for add emoji"
+    },
+    "setColor": {
+      "message": "Đặt màu",
+      "description": "Label for set color"
+    },
+    "setAsNote": {
+      "message": "Đặt làm ghi chú",
+      "description": "Label for set as note"
+    },
+    "setAsToDo": {
+      "message": "Đặt làm việc cần làm",
+      "description": "Label for set as to-do"
+    },
+    "saved": {
+      "message": "Đã lưu",
+      "description": "Label for saved"
+    },
+    "tabSavedSuccess": {
+      "message": "Tab đã được lưu thành công",
+      "description": "Label for tab saved successfully"
+    },
+    "errorFetchingWorkspace": {
+      "message": "Lỗi khi tải không gian làm việc",
+      "description": "Label for error fetching workspace"
+    },
+    "errorSavingTab": {
+      "message": "Lỗi khi lưu tab",
+      "description": "Label for error saving tab"
+    },
+    "userNotSignedIn": {
+      "message": "Người dùng chưa đăng nhập",
+      "description": "Label for user not signed in"
+    },
+    "errorFetchingData": {
+      "message": "Lỗi khi tải dữ liệu",
+      "description": "Label for error fetching data"
+    },
+    "noteSavedSuccess": {
+      "message": "Ghi chú đã được lưu thành công",
+      "description": "Label for note saved successfully"
+    },
+    "imageSavedSuccess": {
+      "message": "Hình ảnh đã được lưu thành công",
+      "description": "Label for image saved successfully"
+    },
+    "errorSavingImage": {
+      "message": "Lỗi khi lưu hình ảnh",
+      "description": "Label for error saving image"
+    },
+    "errorSavingNote": {
+      "message": "Lỗi khi lưu ghi chú",
+      "description": "Label for error saving note"
+    },
+    "remindersAndWorkspacesUpdatedSuccess": {
+      "message": "Lời nhắc và không gian làm việc đã được cập nhật thành công",
+      "description": "Label for reminders and workspaces updated successfully"
+    },
+    "errorUpdatingRemindersAndWorkspaces": {
+      "message": "Lỗi khi cập nhật lời nhắc và không gian làm việc",
+      "description": "Label for error updating reminders and workspaces"
+    },
+    "editTitle": {
+      "message": "Chỉnh sửa tiêu đề",
+      "description": "Label for edit title"
+    },
+    "editSymbol": {
+      "message": "Chỉnh sửa biểu tượng",
+      "description": "Label for edit symbol"
+    },
+    "expand": {
+      "message": "Mở rộng",
+      "description": "Label for expand"
+    },
+    "collapse": {
+      "message": "Thu gọn",
+      "description": "Label for collapse"
+    },
+    "openAsGroup": {
+      "message": "Mở dưới dạng nhóm",
+      "description": "Label for open as group"
+    },
+    "dropToRemove1ItemFromStack": {
+      "message": "Thả để xóa 1 mục khỏi ngăn xếp",
+      "description": "Label for drop to remove 1 item from stack"
+    },
+    "clickToPerformActionsOnAllTabs": {
+      "message": "Nhấp vào đây để thực hiện hành động trên tất cả các tab",
+      "description": "Label for click to perform actions on all tabs"
+    },
+    "saveAllTabsIntoNewGroup": {
+      "message": "Lưu tất cả vào nhóm mới",
+      "description": "Label for save all into new group"
+    },
+    "saveAllIntoExistingGroup": {
+      "message": "Lưu tất cả vào nhóm hiện có",
+      "description": "Label for save all into existing group"
+    },
+    "closeAllTabs": {
+      "message": "Đóng tất cả các tab",
+      "description": "Label for close all tabs"
+    },
+    "groupsAreSortedIntoEditableCategories": {
+      "message": "Các nhóm được sắp xếp thành các danh mục có thể chỉnh sửa, sau đó được sắp xếp vào không gian làm việc.",
+      "description": "Label for groups are sorted into editable categories"
+    },
+    "use": {
+      "message": "Sử dụng",
+      "description": "Use"
+    },
+    "toQuicklyJumpBetweenCategories": {
+      "message": "v.v. để nhanh chóng chuyển đổi giữa các danh mục và",
+      "description": "etc to quickly jump between categories and"
+    },
+    "seeAllWorkspaces": {
+      "message": "xem tất cả không gian làm việc.",
+      "description": "see all workspaces."
+    },
+    "inTheTopRightCorner": {
+      "message": "Ở góc trên bên phải, bạn sẽ thấy:",
+      "description": "In the top-right corner, you'll find:"
+    },
+    "search": {
+      "message": "Tìm kiếm",
+      "description": "Search"
+    },
+    "actionMenu": {
+      "message": "Menu hành động",
+      "description": "Action menu"
+    },
+    "remindersOverview": {
+      "message": "Tổng quan lời nhắc",
+      "description": "Reminders overview"
+    },
+    "share": {
+      "message": "Chia sẻ",
+      "description": "Share"
+    },
+    "userDetails": {
+      "message": "Chi tiết người dùng",
+      "description": "User details"
+    },
+    "done": {
+      "message": "Xong",
+      "description": "Done"
+    },
+    "cancel": {
+      "message": "Hủy",
+      "description": "Cancel"
+    },
+    "delete": {
+      "message": "Xóa",
+      "description": "Delete"
+    },
+    "thatSIt": {
+      "message": "Vậy là xong!",
+      "description": "That's it!"
+    },
+    "findMoreTipsInOurGuide": {
+      "message": "Tìm thêm mẹo trong hướng dẫn của chúng tôi, bao gồm cách lưu đoạn văn bản từ trang web, tạo/chia sẻ không gian làm việc, chọn nhiều mục, phím tắt và nhiều hơn nữa tại:",
+      "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+    },
+    "windowMenu": {
+      "message": "Menu cửa sổ",
+      "description": "Window menu"
+    },
+    "next": {
+      "message": "Tiếp theo",
+      "description": "Next"
+    },
+    "showMeAround": {
+      "message": "Hướng dẫn tôi",
+      "description": "Show me around"
+    },
+    "welcomeToTabX": {
+      "message": "Chào mừng đến với TabX",
+      "description": "Welcome to TabX"
+    },
+    "TabXHelpsYouManageTabs": {
+      "message": "TabX giúp bạn quản lý tab, thêm ghi chú và đặt lời nhắc trong giao diện Kanban dễ sử dụng.",
+      "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+    },
+    "beforeWeBeginOurAppTourWeStartWith": {
+      "message": "Trước khi bắt đầu hướng dẫn ứng dụng, chúng ta bắt đầu với tùy chọn chế độ sáng/tối (có thể thay đổi sau trong cài đặt).",
+      "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+    },
+    "inTheLeftSidebar": {
+      "message": "Trong thanh bên trái, tất cả các tab đang mở trong cửa sổ hiện tại được hiển thị. Tại đây bạn có thể quản lý các tab và nhóm tab một cách dễ dàng.",
+      "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+    },
+    "inTheTopLeftCorner": {
+      "message": "Ở góc trên bên trái, bạn sẽ thấy menu không gian làm việc, cho phép bạn tạo không gian làm việc mới, quản lý các không gian hiện có và truy cập cài đặt.",
+      "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+    },
+    "step": {
+      "message": "Bước",
+      "description": "Step"
+    },
+    "skipTour": {
+      "message": "Bỏ qua hướng dẫn",
+      "description": "Skip tour"
+    },
+    "toCreateYourFirstGroup": {
+      "message": "Để tạo nhóm đầu tiên, bạn có thể kéo và thả một hoặc nhiều tab vào vùng thả được hiển thị.",
+      "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+    },
+    "youCanThenDragMoreTabsIntoTheGroup": {
+      "message": "Sau đó bạn có thể kéo thêm tab vào nhóm hoặc tạo nhóm khác. Bạn cũng có thể sử dụng ",
+      "description": "You can then drag more tabs into the group or create another."
+    },
+    "toCreateNewGroups": {
+      "message": "để tạo nhóm mới.",
+      "description": "to create new groups."
+    },
+    "getStarted": {
+      "message": "Bắt đầu!",
+      "description": "Get started!"
+    },
+    "showWorkspaces": {
+      "message": "Hiển thị không gian làm việc",
+      "description": "Show workspaces"
+    },
+    "general": {
+      "message": "Chung",
+      "description": "General"
+    },
+    "appearance": {
+      "message": "Giao diện",
+      "description": "Appearance"
+    },
+    "data": {
+      "message": "Dữ liệu",
+      "description": "Data"
+    },
+    "openLinksInNewTab": {
+      "message": "Mở liên kết trong tab mới",
+      "description": "Open links in new tab"
+    },
+    "jumpToOpenedTab": {
+      "message": "Chuyển/tập trung vào tab đã mở",
+      "description": "Jump/focus opened tab"
+    },
+    "keyboardShortcuts": {
+      "message": "Phím tắt",
+      "description": "Keyboard shortcuts"
+    },
+    "changeDefaultKeyBindings": {
+      "message": "Thay đổi phím tắt mặc định",
+      "description": "Change default key-bindings"
+    },
+    "guideAndHelp": {
+      "message": "Hướng dẫn & Trợ giúp",
+      "description": "Guide & Help"
+    },
+    "guideAndHelpSubtitle": {
+      "message": "Tìm câu trả lời cho các câu hỏi thường gặp, tìm hiểu cách sử dụng tiện ích mở rộng và nhận hỗ trợ tại:",
+      "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+    },
+    "retakeTour": {
+      "message": "Xem lại hướng dẫn",
+      "description": "Retake tour"
+    },
+    "seeTheExtensionWalkthrough": {
+      "message": "Xem hướng dẫn sử dụng tiện ích mở rộng (6 bước)",
+      "description": "See the extension walkthrough"
+    },
+    "showSiteUrl": {
+      "message": "Hiển thị URL trang web",
+      "description": "Show site URL"
+    },
+    "showSiteUrlDetails": {
+      "message": "Bật/tắt hiển thị URL của trang web",
+      "description": "Toggle sites URL being shown"
+    },
+    "showWorkspaceEmoji": {
+      "message": "Hiển thị emoji không gian làm việc",
+      "description": "Show workspace emoji"
+    },
+    "showWorkspaceEmojiDetails": {
+      "message": "Hiển thị emoji không gian làm việc hiện tại bên cạnh danh mục",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "Ẩn biểu tượng nhóm",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "Ẩn biểu tượng cảm xúc/biểu tượng trên nhóm",
+      "description": "Hide the emoji/symbol on groups"
+    },
+    "showTrashDropZone": {
+      "message": "Hiển thị vùng thả thùng rác",
+      "description": "Show trash drop-zone"
+    },
+    "showTrashDropZoneDetails": {
+      "message": "Thả các mục vào vùng màu đỏ để xóa chúng",
+      "description": "Drop items off into the red area to delete them"
+    },
+    "trashDropZonePosition": {
+      "message": "Vị trí vùng thả thùng rác",
+      "description": "Trash drop-zone position"
+    },
+    "trashDropZonePositionDetails": {
+      "message": "Chọn vị trí vùng thả thùng rác",
+      "description": "Select trash drop-zone location"
+    },
+    "showMinMaxButton": {
+      "message": "Hiển thị nút thu nhỏ/phóng to",
+      "description": "Show min/max button"
+    },
+    "showMinMaxButtonDetails": {
+      "message": "Hiển thị nút thu nhỏ/phóng to cho các nhóm ngoài menu",
+      "description": "Show min/max button for groups outside menu"
+    },
+    "exportData": {
+      "message": "Xuất dữ liệu",
+      "description": "Export data"
+    },
+    "exportDataDetails": {
+      "message": "Xuất không gian làm việc hiện tại",
+      "description": "Export current workspace"
+    },
+    "importData": {
+      "message": "Nhập dữ liệu",
+      "description": "Import data"
+    },
+    "importDataDetails": {
+      "message": "Nhập không gian làm việc từ tệp",
+      "description": "Import workspace from a file"
+    },
+    "openNewTab": {
+      "message": "Mở Tab Mới để khởi tạo...",
+      "description": "Open New Tab to initialize..."
+    },
+    "noSitesInside": {
+      "message": "Không có trang web bên trong",
+      "description": "No sites inside"
+    },
+    "openAll": {
+      "message": "Mở tất cả",
+      "description": "Open all"
+    },
+    "sites": {
+      "message": "trang web",
+      "description": "sites"
+    },
+    "site": {
+      "message": "trang web",
+      "description": "site"
+    },
+    "updateGroup": {
+      "message": "Cập nhật nhóm",
+      "description": "Update group"
+    },
+    "closeGroup": {
+      "message": "Đóng nhóm",
+      "description": "Close group"
+    },
+    "groupCreated": {
+      "message": "Đã tạo nhóm",
+      "description": "Group created"
+    },
+    "wasAddedAsAGroup": {
+      "message": "đã được thêm vào như một nhóm",
+      "description": "was added as a group"
+    },
+    "maxGroupsReached": {
+      "message": "Đã đạt số nhóm tối đa",
+      "description": "Max groups reached"
+    },
+    "createNewCategory": {
+      "message": "Tạo danh mục mới để tạo thêm nhóm",
+      "description": "Create a new category to create more groups"
+    },
+    "permissionDenied": {
+      "message": "Quyền truy cập bị từ chối",
+      "description": "Permission was denied"
+    },
+    "noAccessToTopsites": {
+      "message": "Không có quyền truy cập vào các trang web hàng đầu",
+      "description": "No access to topsites"
+    },
+    "noAccessToBookmarks": {
+      "message": "Không có quyền truy cập vào dấu trang",
+      "description": "No access to bookmarks"
+    },
+    "addImportedSites": {
+      "message": "Thêm/nhập trang web",
+      "description": "Add/import sites"
+    },
+    "yourMostVisitedSites": {
+      "message": "Các trang web được truy cập nhiều nhất của bạn",
+      "description": "Your most visited sites"
+    },
+    "yourBookmarks": {
+      "message": "Dấu trang của bạn",
+      "description": "Your bookmarks"
+    },
+    "needsOneTimePermission": {
+      "message": "Cần quyền truy cập một lần",
+      "description": "Needs a one-time permission"
+    },
+    "grantAccess": {
+      "message": "Cấp quyền truy cập",
+      "description": "Grant access"
+    },
+    "noBookmarksFound": {
+      "message": "Không tìm thấy dấu trang",
+      "description": "No bookmarks found"
+    },
+    "workspaceFull": {
+      "message": "Không gian làm việc đã đầy",
+      "description": "Workspace full"
+    },
+    "maximum8CategoriesPerWorkspace": {
+      "message": "Tối đa 8 danh mục cho mỗi không gian làm việc",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "editCategories": {
+      "message": "Chỉnh sửa danh mục",
+      "description": "Edit categories"
+    },
+    "maximumOf8CategoriesReached": {
+      "message": "Đã đạt đến giới hạn tối đa 8 danh mục",
+      "description": "Maximum of 8 categories reached"
+    },
+    "newCategory": {
+      "message": "Danh mục mới",
+      "description": "New category"
+    },
+    "areYouSureYouWantToDeleteThisCategory": {
+      "message": "Bạn có chắc chắn muốn xóa danh mục này không?",
+      "description": "Are you sure you want to delete this category?"
+    },
+    "allContainingGroupsAndSavedItemsWillBeDeleted": {
+      "message": "Tất cả các nhóm và mục đã lưu sẽ bị xóa",
+      "description": "All containing groups and saved items will be deleted"
+    },
+    "noMatch": {
+      "message": "Không có kết quả phù hợp",
+      "description": "No match"
+    },
+    "noTabsHereNeat": {
+      "message": "Không có tab nào ở đây, gọn gàng!",
+      "description": "No tabs here, neat!"
+    },
+    "clearInput": {
+      "message": "Xóa nội dung nhập",
+      "description": "Clear input"
+    },
+    "toNavigate": {
+      "message": "để điều hướng",
+      "description": "to navigate"
+    },
+    "addAsGroup": {
+      "message": "Thêm như một nhóm vào danh mục hiện tại",
+      "description": "Add as group to current category"
+    },
+    "edit": {
+      "message": "Chỉnh sửa",
+      "description": "Edit"
+    },
+    "restore": {
+      "message": "Khôi phục",
+      "description": "Restore"
+    },
+    "deletePermanently": {
+      "message": "Xóa vĩnh viễn",
+      "description": "Delete permanently"
+    },
+    "editName": {
+      "message": "Sửa tên",
+      "description": "Edit name"
+    },
+    "reminderDue": {
+      "message": "nhắc nhở đến hạn",
+      "description": "reminder due"
+    },
+    "remindersDue": {
+      "message": "nhắc nhở đến hạn",
+      "description": "reminders due"
+    },
+    "selectedItems": {
+      "message": "Các mục đã chọn",
+      "description": "Selected items"
+    },
+    "stack": {
+      "message": "Xếp chồng",
+      "description": "Stack"
+    },
+    "unstack": {
+      "message": "Bỏ xếp chồng",
+      "description": "Unstack"
+    },
+    "item": {
+      "message": "mục",
+      "description": "item"
+    },
+    "items": {
+      "message": "mục",
+      "description": "items"
+    },
+    "toDo": {
+      "message": "việc cần làm",
+      "description": "to-do"
+    },
+    "note": {
+      "message": "ghi chú",
+      "description": "note"
+    },
+    "deleteItems": {
+      "message": "Xóa các mục",
+      "description": "Delete items"
+    },
+    "openPricingPage": {
+      "message": "Mở trang báo giá",
+      "description": "Open pricing page"
+    },
+    "proPlanOnly": {
+      "message": "Chỉ dành cho gói Pro",
+      "description": "Pro plan only"
+    },
+    "upload": {
+      "message": "Tải lên",
+      "description": "Upload"
+    },
+    "clickToEdit": {
+      "message": "Nhấp để chỉnh sửa",
+      "description": "Click to edit"
+    },
+    "resetToDefault": {
+      "message": "Đặt lại về mặc định",
+      "description": "Reset to default"
+    },
+    "typeShortcut": {
+      "message": "Nhập phím tắt",
+      "description": "Type shortcut"
+    },
+    "refetch": {
+      "message": "Tải lại",
+      "description": "Refetch"
+    },
+    "newWorkspace": {
+      "message": "Không gian làm việc mới",
+      "description": "New workspace"
+    },
+    "upgradeToCollaborate": {
+      "message": "Nâng cấp để cộng tác",
+      "description": "Upgrade to collaborate"
+    },
+    "inviteAcceptedSuccessfully": {
+      "message": "Đã chấp nhận lời mời thành công",
+      "description": "Invite accepted successfully"
+    },
+    "inviteDeclined": {
+      "message": "Đã từ chối lời mời",
+      "description": "Invite declined"
+    },
+    "somethingWentWrong": {
+      "message": "Đã xảy ra lỗi",
+      "description": "Something went wrong"
+    },
+    "pleaseTryAgain": {
+      "message": "Vui lòng thử lại",
+      "description": "Please try again"
+    },
+    "invitedBy": {
+      "message": "Được mời bởi:",
+      "description": "Invited by"
+    },
+    "addUser": {
+      "message": "Thêm người dùng",
+      "description": "Add user"
+    },
+    "addAndShareWorkspaceWith": {
+      "message": "Thêm và chia sẻ không gian làm việc với:",
+      "description": "Add and share workspace with"
+    },
+    "invite": {
+      "message": "Mời",
+      "description": "Invite"
+    },
+    "yourTeam": {
+      "message": "Nhóm của bạn:",
+      "description": "Your team:"
+    },
+    "emptyAddMembers": {
+      "message": "Trống. Thêm thành viên tại",
+      "description": "Empty. Add members at"
+    },
+    "please": {
+      "message": "Vui lòng",
+      "description": "Please"
+    },
+    "upgradeYourPlan": {
+      "message": "nâng cấp gói của bạn",
+      "description": "Upgrade your plan"
+    },
+    "toUseTheRealtimeShareFeature": {
+      "message": "để sử dụng tính năng chia sẻ thời gian thực",
+      "description": "to use the realtime share feature"
+    },
+    "add": {
+      "message": "Thêm",
+      "description": "Add"
+    },
+    "workspaceShared": {
+      "message": "Đã chia sẻ không gian làm việc",
+      "description": "Workspace shared"
+    },
+    "workspaceUnshared": {
+      "message": "Đã hủy chia sẻ không gian làm việc",
+      "description": "Workspace unshared"
+    },
+    "nowAccessibleViaPublicLink": {
+      "message": "Giờ đây có thể truy cập qua liên kết công khai",
+      "description": "Now accessible via public link"
+    },
+    "publicLinkRemoved": {
+      "message": "Đã xóa liên kết công khai",
+      "description": "Public link removed"
+    },
+    "shareAsReadOnlyPublicLink": {
+      "message": "Chia sẻ dưới dạng liên kết công khai chỉ đọc",
+      "description": "Share as read-only public link"
+    },
+    "saveToNewGroup": {
+      "message": "Lưu vào nhóm mới",
+      "description": "Save to new group"
+    },
+    "saveToGroup": {
+      "message": "Lưu vào nhóm",
+      "description": "Save to group"
+    },
+    "toggleDarkmode": {
+      "message": "Bật/tắt chế độ tối",
+      "description": "Toggle darkmode"
+    },
+    "turnIntoNote": {
+      "message": "Chuyển thành ghi chú",
+      "description": "Turn into note"
+    },
+    "turnIntoToDo": {
+      "message": "Chuyển thành việc cần làm",
+      "description": "Turn into To-do"
+    },
+    "closeColorPicker": {
+      "message": "Đóng bảng chọn màu",
+      "description": "Close color-picker"
+    },
+    "changeColor": {
+      "message": "Thay đổi màu sắc",
+      "description": "Change color"
+    },
+    "pinTab": {
+      "message": "Ghim tab",
+      "description": "Pin tab"
+    },
+    "unpinTab": {
+      "message": "Bỏ ghim tab",
+      "description": "Unpin tab"
+    },
+    "save": {
+      "message": "Lưu",
+      "description": "Save"
+    },
+    "update": {
+      "message": "Cập nhật",
+      "description": "Update"
+    },
+    "deleteItem": {
+      "message": "Xóa mục",
+      "description": "Delete item"
+    },
+    "deleteItemFromStack": {
+      "message": "Xóa mục khỏi ngăn xếp",
+      "description": "Delete item from stack"
+    },
+    "savedIn": {
+      "message": "Đã lưu trong:",
+      "description": "Saved in:"
+    },
+    "changesNotSaved": {
+      "message": "Các thay đổi chưa được lưu",
+      "description": "Changes not saved"
+    },
+    "deleteFrom": {
+      "message": "Xóa khỏi",
+      "description": "Delete from"
+    },
+    "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+      "message": "Bạn có chắc chắn muốn xóa trang web và ghi chú đã lưu này không?",
+      "description": "Are you sure you want to delete this saved site and note?"
+    },
+    "result": {
+      "message": "Kết quả",
+      "description": "Result"
+    },
+    "notAvailableInWebVersion": {
+      "message": "Không có sẵn trong phiên bản web",
+      "description": "Not available in web version"
+    },
+    "pleaseAddBrowserExtension": {
+      "message": "Vui lòng thêm tiện ích mở rộng trình duyệt để truy cập",
+      "description": "Please add the browser extension to access"
+    },
+    "goTo": {
+      "message": "Đi đến",
+      "description": "Go to"
+    },
+    "openSite": {
+      "message": "Mở trang web",
+      "description": "Open site"
+    },
+    "goToWorkspace": {
+      "message": "Đi đến Không gian làm việc",
+      "description": "Go to Workspace"
+    },
+    "reschedule": {
+      "message": "Lên lịch lại",
+      "description": "Reschedule"
+    },
+    "dataImportedSuccessfully": {
+      "message": "Đã nhập dữ liệu thành công",
+      "description": "Data imported successfully"
+    },
+    "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+      "message": "Một không gian làm việc mới đã được tạo với dữ liệu đã nhập",
+      "description": "A new workspace has been created with the imported data"
+    },
+    "errorImportingData": {
+      "message": "Lỗi khi nhập dữ liệu",
+      "description": "Error importing data"
+    },
+    "newWorkspaceCreated": {
+      "message": "Đã tạo không gian làm việc mới",
+      "description": "New workspace created"
+    },
+    "workspaceLimitReached": {
+      "message": "Đã đạt giới hạn không gian làm việc",
+      "description": "Workspace limit reached"
+    },
+    "upgradeToProPlanForMoreWorkspaces": {
+      "message": "Là người dùng miễn phí, bạn bị giới hạn ở 1 không gian làm việc. Nâng cấp lên Gói Pro để có thêm không gian làm việc.",
+      "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+    },
+    "somethingWentWrongWhileCreatingWorkspace": {
+      "message": "Đã xảy ra lỗi khi tạo không gian làm việc, vui lòng thử lại",
+      "description": "Something went wrong while creating workspace, please try again"
+    },
+    "loginFailed": {
+      "message": "Đăng nhập thất bại",
+      "description": "Login failed"
+    },
+    "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+      "message": "Vui lòng cho phép quyền nhận dạng để đăng nhập bằng Google",
+      "description": "Please allow the identity permission to sign in with Google"
+    },
+    "accountUpgradedSuccessfully": {
+      "message": "Tài khoản đã được nâng cấp thành công",
+      "description": "Account upgraded successfully"
+    },
+    "youCanNowSyncYourDataAcrossDevices": {
+      "message": "Bây giờ bạn có thể đồng bộ hóa dữ liệu của mình trên các thiết bị",
+      "description": "You can now sync your data across devices"
+    },
+    "cannotRemoveWorkspace": {
+      "message": "Không thể xóa không gian làm việc",
+      "description": "Cannot remove workspace"
+    },
+    "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+      "message": "Bạn cần có ít nhất một không gian làm việc mà bạn là chủ sở hữu, hãy tạo một không gian làm việc mới trước khi xóa không gian hiện tại",
+      "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+    },
+    "workspaceRemoved": {
+      "message": "Đã xóa không gian làm việc",
+      "description": "Workspace removed"
+    },
+    "removedSuccessfully": {
+      "message": "đã xóa thành công",
+      "description": "removed successfully"
+    },
+    "workspaceRemovalFailed": {
+      "message": "Xóa không gian làm việc thất bại",
+      "description": "Workspace removal failed"
+    },
+    "groupMovedSuccessfully": {
+      "message": "Đã di chuyển nhóm thành công",
+      "description": "Group moved successfully"
+    },
+    "groupMovedInto": {
+      "message": "đã chuyển vào",
+      "description": "moved into"
+    },
+    "groupMoveFailed": {
+      "message": "Di chuyển nhóm thất bại",
+      "description": "Group move failed"
+    },
+    "tabsMovedSuccessfully": {
+      "message": "Đã di chuyển các tab thành công",
+      "description": "Tabs moved successfully"
+    },
+    "tabMovedSuccessfully": {
+      "message": "Đã di chuyển tab thành công",
+      "description": "Tab moved successfully"
+    },
+    "tabMoveFailedPleaseTryAgain": {
+      "message": "Di chuyển tab thất bại, vui lòng thử lại",
+      "description": "Tab move failed, please try again"
+    },
+    "couldNotFetchWorkspaceData": {
+      "message": "Không thể lấy dữ liệu không gian làm việc",
+      "description": "Could not fetch workspace data"
+    },
+    "errorUpdatingGroupWidth": {
+      "message": "Lỗi khi cập nhật độ rộng nhóm",
+      "description": "Error updating group width"
+    },
+    "errorUpdatingMetaImagePin": {
+      "message": "Lỗi khi cập nhật ghim ảnh meta",
+      "description": "Error updating meta image pin"
+    },
+    "saveDone": {
+      "message": "Đã lưu xong",
+      "description": "Save done"
+    },
+    "allActiveTabsSavedAndClosedInto": {
+      "message": "Tất cả các tab đang hoạt động đã được lưu và đóng vào",
+      "description": "All active tabs saved and closed into"
+    },
+    "groupSavedInto": {
+      "message": "Nhóm đã được lưu vào",
+      "description": "Group saved into"
+    },
+    "tabsSavedInto": {
+      "message": "Các tab đã được lưu vào",
+      "description": "Tabs saved into"
+    },
+    "categoryMovedSuccessfully": {
+      "message": "Đã di chuyển danh mục thành công",
+      "description": "Category moved successfully"
+    },
+    "stackUnstacked": {
+      "message": "Đã bỏ xếp chồng",
+      "description": "Stack unstacked"
+    },
+    "sitesSplitIntoIndividualItems": {
+      "message": "Các trang web đã được tách thành các mục riêng lẻ",
+      "description": "Sites split into individual items"
+    },
+    "stackCreated": {
+      "message": "Đã tạo ngăn xếp",
+      "description": "Stack created"
+    },
+    "sitesMergedIntoOneStackedItem": {
+      "message": "Các trang web đã được gộp thành một mục xếp chồng",
+      "description": "Sites merged into one stacked item"
+    },
+    "errorUpdatingDatabaseOnStackAction": {
+      "message": "Lỗi khi cập nhật cơ sở dữ liệu trong thao tác ngăn xếp",
+      "description": "Error updating database on stack action"
+    },
+    "noteTurnedIntoSite": {
+      "message": "Ghi chú đã được chuyển thành trang web",
+      "description": "Note turned into site"
+    },
+    "theNoteHasBeenTurnedIntoASite": {
+      "message": "Ghi chú đã được chuyển thành một trang web",
+      "description": "The note has been turned into a site"
+    },
+    "groupUpdated": {
+      "message": "Đã cập nhật nhóm",
+      "description": "Group updated"
+    },
+    "sitesInGroupSyncedWithOpenTabGroup": {
+      "message": "Các trang web trong nhóm đã được đồng bộ hóa với nhóm tab đang mở",
+      "description": "Sites in group synced with the open tab group"
+    },
+    "errorSyncingSitesInGroup": {
+      "message": "Lỗi khi đồng bộ hóa các trang web trong nhóm",
+      "description": "Error syncing sites in group"
+    },
+    "itemSorted": {
+      "message": "Đã sắp xếp mục",
+      "description": "Item sorted"
+    },
+    "theGroupsContentHasBeenSortedAlphabetically": {
+      "message": "Nội dung của nhóm đã được sắp xếp theo thứ tự bảng chữ cái",
+      "description": "The groups content has been sorted alphabetically"
+    },
+    "noItemsToSort": {
+      "message": "Không có mục nào để sắp xếp",
+      "description": "No items to sort"
+    },
+    "thereSeemsToBeNoItemsInTheGroup": {
+      "message": "Có vẻ như không có mục nào trong nhóm",
+      "description": "There seems to be no items in the group"
+    },
+    "theGroupContentHasBeenSortedByDate": {
+      "message": "Nội dung của nhóm đã được sắp xếp theo ngày",
+      "description": "The group content has been sorted by date"
+    },
+    "allTextInsideGroupCopiedToClipboard": {
+      "message": "Tất cả văn bản trong nhóm đã được sao chép vào bộ nhớ tạm",
+      "description": "All text inside group copied to clipboard"
+    },
+    "noItemsToCopy": {
+      "message": "Không có mục nào để sao chép",
+      "description": "No items to copy"
+    },
+    "groupDuplicated": {
+      "message": "Đã nhân đôi nhóm",
+      "description": "Group duplicated"
+    },
+    "duplicatedSuccessfully": {
+      "message": "đã nhân đôi thành công",
+      "description": "duplicated successfully"
+    },
+    "createNewCategoryToCreateMoreGroups": {
+      "message": "Tạo danh mục mới để tạo thêm nhóm",
+      "description": "Create a new category to create more groups"
+    },
+    "stackedItems": {
+      "message": "các mục được xếp chồng",
+      "description": "stacked items"
+    },
+    "stackedItemsDeleted": {
+      "message": "các mục xếp chồng đã bị xóa",
+      "description": "Stacked items deleted"
+    },
+    "itemDeleted": {
+      "message": "mục đã bị xóa",
+      "description": "item deleted"
+    },
+    "itemsDeleted": {
+      "message": "các mục đã bị xóa",
+      "description": "items deleted"
+    },
+    "errorDeletingCategory": {
+      "message": "Lỗi khi xóa danh mục",
+      "description": "Error deleting category"
+    },
+    "pleaseRefreshPageAndTryAgain": {
+      "message": "Vui lòng làm mới trang và thử lại",
+      "description": "Please refresh page and try again"
+    },
+    "wasDeleted": {
+      "message": "đã bị xóa",
+      "description": "was deleted"
+    },
+    "atLeastOneCategoryPerWorkspaceRequired": {
+      "message": "Yêu cầu ít nhất một danh mục cho mỗi không gian làm việc",
+      "description": "At least one category per workspace required"
+    },
+    "deleteNotPermitted": {
+      "message": "Không được phép xóa",
+      "description": "Delete not permitted"
+    },
+    "groupDeleted": {
+      "message": "Đã xóa nhóm",
+      "description": "Group deleted"
+    },
+    "theBinContainsYourLast50DeletedItems": {
+      "message": "Thùng rác chứa 50 mục đã xóa gần đây nhất của bạn.",
+      "description": "The bin contains your last 50 deleted items."
+    },
+    "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+      "message": "Khi chọn khôi phục một mục đã xóa, nó sẽ được tạo lại trong danh mục hiện đang được chọn.",
+      "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+    },
+    "bin": {
+      "message": "Thùng rác",
+      "description": "Bin"
+    },
+    "areYouSureYouWantToDeleteThisWorkspace": {
+      "message": "Bạn có chắc chắn muốn xóa không gian làm việc này không?",
+      "description": "Are you sure you want to delete this workspace?"
+    },
+    "areYouSureYouWantToRemoveThisWorkspace": {
+      "message": "Bạn có chắc chắn muốn xóa không gian làm việc này không?",
+      "description": "Are you sure you want to remove this workspace?"
+    },
+    "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+      "message": "Tất cả các danh mục, nhóm và mục đã lưu sẽ bị xóa cho tất cả người dùng.",
+      "description": "All containing categories, groups and saved items will be deleted for all users."
+    },
+    "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+      "message": "Bạn sẽ không thể truy cập không gian làm việc này nữa. Không gian làm việc vẫn sẽ khả dụng cho các người dùng khác.",
+      "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+    },
+    "remove": {
+      "message": "Xóa",
+      "description": "Remove"
+    },
+    "areYouSureYouWantToClearAllReminders": {
+      "message": "Bạn có chắc chắn muốn xóa tất cả lời nhắc không?",
+      "description": "Are you sure you want to clear all reminders?"
+    },
+    "youCantUndoThisAction": {
+      "message": "Bạn không thể hoàn tác hành động này.",
+      "description": "You can't undo this action."
+    },
+    "clearReminders": {
+      "message": "Xóa lời nhắc",
+      "description": "Clear reminders"
+    },
+    "clearAll": {
+      "message": "Xóa tất cả",
+      "description": "Clear all"
+    },
+    "reminderCleared": {
+      "message": "Đã xóa lời nhắc",
+      "description": "Reminder cleared"
+    },
+    "remindersCleared": {
+      "message": "Đã xóa các lời nhắc",
+      "description": "Reminders cleared"
+    },
+    "reminderRemoved": {
+      "message": "Đã xóa lời nhắc",
+      "description": "Reminder removed"
+    },
+    "date": {
+      "message": "Ngày:",
+      "description": "Date:"
+    },
+    "unableToToggleToDo": {
+      "message": "Không thể chuyển đổi việc cần làm",
+      "description": "Unable to toggle to-do"
+    },
+    "goToWorkspaceToEditItem": {
+      "message": "Đi đến không gian làm việc để chỉnh sửa mục",
+      "description": "Go to workspace to edit item"
+    },
+    "repeating": {
+      "message": "Lặp lại:",
+      "description": "Repeating:"
+    },
+    "eachWeek": {
+      "message": "mỗi tuần",
+      "description": "each week"
+    },
+    "ofTheMonth": {
+      "message": "của tháng",
+      "description": "of the month"
+    },
+    "toEnableReminders": {
+      "message": "để bật lời nhắc",
+      "description": "to enable reminders"
+    },
+    "noReminders": {
+      "message": "Không có lời nhắc",
+      "description": "No reminders"
+    },
+    "today": {
+      "message": "Hôm nay",
+      "description": "Today"
+    },
+    "minimize": {
+      "message": "Thu nhỏ",
+      "description": "Minimize"
+    },
+    "addSite": {
+      "message": "Thêm trang/hình ảnh",
+      "description": "Add site/image"
+    },
+    "duplicateGroup": {
+      "message": "Nhân đôi nhóm",
+      "description": "Duplicate group"
+    },
+    "copyAsText": {
+      "message": "Sao chép dưới dạng văn bản",
+      "description": "Copy as text"
+    },
+    "moveTo": {
+      "message": "Di chuyển đến",
+      "description": "Move to"
+    },
+    "sortBy": {
+      "message": "Sắp xếp theo",
+      "description": "Sort by"
+    },
+    "alphabetical": {
+      "message": "Thứ tự bảng chữ cái",
+      "description": "Alphabetical"
+    },
+    "dateAdded": {
+      "message": "Ngày thêm",
+      "description": "Date added"
+    },
+    "saveTo": {
+      "message": "Lưu vào",
+      "description": "Save to"
+    },
+    "closeAndMoveTo": {
+      "message": "Đóng và di chuyển đến",
+      "description": "Close and move to"
+    },
+    "createGroupAndClose": {
+      "message": "Tạo nhóm và đóng",
+      "description": "Create group and close"
+    },
+    "discard": {
+      "message": "Hủy bỏ",
+      "description": "Discard"
+    },
+    "pin": {
+      "message": "Ghim",
+      "description": "Pin"
+    },
+    "unpin": {
+      "message": "Bỏ ghim",
+      "description": "Unpin"
+    },
+    "group": {
+      "message": "Nhóm",
+      "description": "Group"
+    },
+    "ungroup": {
+      "message": "Bỏ nhóm",
+      "description": "Ungroup"
+    },
+    "noUrlFound": {
+      "message": "Không tìm thấy URL",
+      "description": "No URL found"
+    },
+    "previewUnavailable": {
+      "message": "Không có bản xem trước",
+      "description": "Preview unavailable"
+    },
+    "tabGrouped": {
+      "message": "tab đã được nhóm",
+      "description": "tab grouped"
+    },
+    "tabsGrouped": {
+      "message": "các tab đã được nhóm",
+      "description": "tabs grouped"
+    },
+    "groupCreatedFromSelectedTabs": {
+      "message": "Đã tạo nhóm từ các tab đã chọn",
+      "description": "Group created from selected tabs"
+    },
+    "tabAlreadyDiscarded": {
+      "message": "Tab đã được hủy",
+      "description": "Tab already discarded"
+    },
+    "doubleClickToReload": {
+      "message": "Nhấp đúp để tải lại",
+      "description": "Double click to reload it"
+    },
+    "addTextSelectionToGroup": {
+      "message": "Thêm văn bản đã chọn vào nhóm",
+      "description": "Add text-selection to group"
+    },
+    "closeSiteAndSaveTo": {
+      "message": "Đóng trang và lưu vào:",
+      "description": "Close site and save to"
+    },
+    "close": {
+      "message": "đóng",
+      "description": "close"
+    },
+    "newGroup": {
+      "message": "Nhóm mới",
+      "description": "New group"
+    },
+    "savesLeftOnTrialPlan": {
+      "message": "lần lưu còn lại trong gói dùng thử",
+      "description": "saves left on trial plan"
+    },
+    "manageAccount": {
+      "message": "Quản lý tài khoản",
+      "description": "Manage account"
+    },
+    "signOut": {
+      "message": "Đăng xuất",
+      "description": "Sign out"
+    },
+    "warningBySigningOut": {
+      "message": "Cảnh báo: Khi đăng xuất, dữ liệu đã lưu hiện tại của bạn sẽ bị mất",
+      "description": "Warning: By signing out, your current saved data will be lost"
+    },
+    "sinceYouAreOnAGuestAccount": {
+      "message": "Vì bạn đang sử dụng tài khoản khách, tất cả dữ liệu sẽ bị mất nếu bạn đăng xuất. Để giữ dữ liệu của bạn, hãy duy trì đăng nhập hoặc liên kết với email/mật khẩu hoặc Google.",
+      "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+    },
+    "yesSignMeOut": {
+      "message": "Vâng, đăng xuất",
+      "description": "Yes, sign me out"
+    },
+    "importBookmarks": {
+      "message": "Nhập dấu trang",
+      "description": "Import bookmarks"
+    },
+    "feedback": {
+      "message": "Phản hồi",
+      "description": "Feedback"
+    },
+    "settings": {
+      "message": "Cài đặt",
+      "description": "Settings"
+    },
+    "theme": {
+      "message": "Giao diện",
+      "description": "Theme"
+    },
+    "sendFeedback": {
+      "message": "Gửi phản hồi",
+      "description": "Send feedback"
+    },
+    "pleaseShareYourFeedbackWithUs": {
+      "message": "Vui lòng chia sẻ phản hồi của bạn với chúng tôi. Chúng tôi đánh giá cao và trân trọng ý kiến của bạn.",
+      "description": "Please share your feedback with us. We appreciated and value your input."
+    },
+    "send": {
+      "message": "Gửi",
+      "description": "Send"
+    },
+    "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+      "message": "Chỉ chủ sở hữu không gian làm việc mới có thể thêm/xóa người dùng và chia sẻ qua URL công khai.",
+      "description": "Only workspace owner can add/remove users and share via public URL."
+    },
+    "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+      "message": "Thêm người dùng để chia sẻ không gian làm việc hiện tại và cộng tác theo thời gian thực.",
+      "description": "Add users to share the current workspace and collaborate in real time."
+    },
+    "readMoreAboutSharing": {
+      "message": "Đọc thêm về chia sẻ",
+      "description": "Read more about sharing"
+    },
+    "here": {
+      "message": "tại đây",
+      "description": "here"
+    },
+    "removeUser": {
+      "message": "Xóa người dùng",
+      "description": "Remove user"
+    },
+    "pleaseEnterAValidEmailAddress": {
+      "message": "Vui lòng nhập địa chỉ email hợp lệ",
+      "description": "Please enter a valid email address"
+    },
+    "looksLikeThisUserHasBeenInvitedAlready": {
+      "message": "Có vẻ như người dùng này đã được mời",
+      "description": "Looks like this user has already been invited"
+    },
+    "pleaseSeeListOfUsers": {
+      "message": "Vui lòng xem danh sách người dùng",
+      "description": "Please see list of users"
+    },
+    "inviteSentTo": {
+      "message": "Đã gửi lời mời đến",
+      "description": "Invite sent to"
+    },
+    "categories": {
+      "message": "danh mục",
+      "description": "categories"
+    },
+    "category": {
+      "message": "danh mục",
+      "description": "category"
+    },
+    "users": {
+      "message": "Người dùng",
+      "description": "Users"
+    },
+    "moveUp": {
+      "message": "Di chuyển lên",
+      "description": "Move up"
+    },
+    "moveDown": {
+      "message": "Di chuyển xuống",
+      "description": "Move down"
+    },
+    "day": {
+      "message": "ngày",
+      "description": "day"
+    },
+    "days": {
+      "message": "ngày",
+      "description": "days"
+    },
+    "hour": {
+      "message": "giờ",
+      "description": "hour"
+    },
+    "hours": {
+      "message": "giờ",
+      "description": "hours"
+    },
+    "minute": {
+      "message": "phút",
+      "description": "minute"
+    },
+    "minutes": {
+      "message": "phút",
+      "description": "minutes"
+    },
+    "now": {
+      "message": "Bây giờ",
+      "description": "Now"
+    },
+    "overdue": {
+      "message": "quá hạn",
+      "description": "overdue"
+    },
+    "and": {
+      "message": "và",
+      "description": "and"
+    },
+    "stackedSites": {
+      "message": "Các trang xếp chồng",
+      "description": "Stacked sites"
+    },
+    "due": {
+      "message": "đến hạn",
+      "description": "due"
+    },
+    "dueCapital": {
+      "message": "ĐẾN HẠN",
+      "description": "DUE"
+    },
+    "reminder": {
+      "message": "Lời nhắc",
+      "description": "Reminder"
+    },
+    "reminders": {
+      "message": "Lời nhắc",
+      "description": "Reminders"
+    },
+    "upcoming": {
+      "message": "Sắp tới",
+      "description": "Upcoming"
+    },
+    "noUpcomingReminders": {
+      "message": "Không có lời nhắc sắp tới",
+      "description": "No upcoming reminders"
+    },
+    "mon": {
+      "message": "T2",
+      "description": "Mon"
+    },
+    "tue": {
+      "message": "T3",
+      "description": "Tue"
+    },
+    "wed": {
+      "message": "T4",
+      "description": "Wed"
+    },
+    "thu": {
+      "message": "T5",
+      "description": "Thu"
+    },
+    "fri": {
+      "message": "T6",
+      "description": "Fri"
+    },
+    "sat": {
+      "message": "T7",
+      "description": "Sat"
+    },
+    "sun": {
+      "message": "CN",
+      "description": "Sun"
+    },
+    "january": {
+      "message": "Tháng 1",
+      "description": "January"
+    },
+    "february": {
+      "message": "Tháng 2",
+      "description": "February"
+    },
+    "march": {
+      "message": "Tháng 3",
+      "description": "March"
+    },
+    "april": {
+      "message": "Tháng 4",
+      "description": "April"
+    },
+    "may": {
+      "message": "Tháng 5",
+      "description": "May"
+    },
+    "june": {
+      "message": "Tháng 6",
+      "description": "June"
+    },
+    "july": {
+      "message": "Tháng 7",
+      "description": "July"
+    },
+    "august": {
+      "message": "Tháng 8",
+      "description": "August"
+    },
+    "september": {
+      "message": "Tháng 9",
+      "description": "September"
+    },
+    "october": {
+      "message": "Tháng 10",
+      "description": "October"
+    },
+    "november": {
+      "message": "Tháng 11",
+      "description": "November"
+    },
+    "december": {
+      "message": "Tháng 12",
+      "description": "December"
+    },
+    "clear": {
+      "message": "Xóa",
+      "description": "Clear"
+    },
+    "clearRepeat": {
+      "message": "Xóa + lặp lại",
+      "description": "Clear + repeat"
+    },
+    "removeAll": {
+      "message": "Xóa tất cả",
+      "description": "Remove all"
+    },
+    "currentWorkspace": {
+      "message": "Không gian làm việc hiện tại",
+      "description": "Current workspace"
+    },
+    "allWorkspaces": {
+      "message": "Tất cả không gian làm việc",
+      "description": "All workspaces"
+    },
+    "openTabs": {
+      "message": "Mở tab",
+      "description": "Open tabs"
+    },
+    "bookmarks": {
+      "message": "Dấu trang",
+      "description": "Bookmarks"
+    }, 
+    "giveItATitle": {
+      "message": "Đặt tiêu đề",
+      "description": "Give it a title"
+    },
+    "noteUpdated": {
+      "message": "Đã cập nhật ghi chú",
+      "description": "Note updated"
+    },
+    "errorUpdatingNote": {
+      "message": "Lỗi khi cập nhật ghi chú",
+      "description": "Error updating note"
+    },
+    "active": {
+      "message": "đang hoạt động",
+      "description": "active"
+    },
+    "paused": {
+      "message": "đã tạm dừng",
+      "description": "paused"
+    },
+    "free": {
+      "message": "miễn phí",
+      "description": "free"
+    },
+    "errorRemovingItem": {
+      "message": "Lỗi khi xóa mục",
+      "description": "Error removing item"
+    },
+    "errorRemovingSite": {
+      "message": "Lỗi khi xóa trang web",
+      "description": "Error removing site"
+    },
+    "itemRemoved": {
+      "message": "Đã xóa mục",
+      "description": "Item removed"
+    },
+    "errorSavingSite": {
+      "message": "Lỗi khi lưu trang web",
+      "description": "Error saving site"
+    },
+    "groupCreatedWithItem": {
+      "message": "Đã tạo nhóm với mục",
+      "description": "Group created with item"
+    },
+    "loading": {
+      "message": "Đang tải",
+      "description": "Loading"
+    },
+    "trialLimitReached": {
+      "message": "Đã đạt giới hạn dùng thử",
+      "description": "Trial limit reached"
+    },
+    "saveComplete": {
+      "message": "Đã lưu xong",
+      "description": "Save complete"
+    },
+    "itemPermanentlyRemoved": {
+      "message": "Đã xóa mục vĩnh viễn",
+      "description": "Item permanently removed"
+    },
+    "itemRestored": {
+      "message": "Đã khôi phục mục",
+      "description": "Item restored"
+    },
+    "itemRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Đã khôi phục mục vào Các mục đã khôi phục trong danh mục hiện tại",
+      "description": "Item restored into Restored items in current category"
+    },
+    "restoredItems": {
+      "message": "Các mục đã khôi phục",
+      "description": "Restored items"
+    },
+    "groupRestored": {
+      "message": "Đã khôi phục nhóm",
+      "description": "Group restored"
+    },
+    "groupRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Đã khôi phục nhóm vào Các mục đã khôi phục trong danh mục hiện tại",
+      "description": "Group restored into Restored items in current category"
+    },
+    "errorFetchingWorkspaceData": {
+      "message": "Lỗi khi tải dữ liệu không gian làm việc",
+      "description": "Error fetching workspace data"
+    },
+    "errorCreatingNewGroup": {
+      "message": "Lỗi khi tạo nhóm mới",
+      "description": "Error creating new group"
+    },
+    "dropNotAllowed": {
+      "message": "Không được phép thả",
+      "description": "Drop not allowed"
+    },
+    "groupsMerged": {
+      "message": "Đã gộp các nhóm",
+      "description": "Groups merged"
+    },
+    "mergedInto": {
+      "message": "đã gộp vào",
+      "description": "merged into"
+    },
+    "userRemoved": {
+      "message": "Đã xóa người dùng",
+      "description": "User removed"
+    },
+    "somethingWentWrongRemovingUser": {
+      "message": "Đã xảy ra lỗi khi xóa người dùng",
+      "description": "Something went wrong removing user"
+    },
+    "pleaseRefreshAndTryAgain": {
+      "message": "Vui lòng làm mới và thử lại",
+      "description": "Please refresh and try again"
+    },
+    "maximumCategoriesReached": {
+      "message": "Tối đa 8 danh mục cho mỗi không gian làm việc",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "addMoreBeforeMoving": {
+      "message": "Thêm nữa trước khi di chuyển",
+      "description": "Add more before moving"
+    },
+    "workspaceInviteRemoved": {
+      "message": "Đã xóa lời mời không gian làm việc",
+      "description": "Workspace invite removed"
+    },
+    "reminderUpdated": {
+      "message": "Đã cập nhật lời nhắc",
+      "description": "Reminder updated"
+    },
+    "reminderSet": {
+      "message": "Đã đặt lời nhắc",
+      "description": "Reminder set"
+    },
+    "firstUp": {
+      "message": "Đầu tiên",
+      "description": "First up"
+    },
+    "looksLikeUrl": {
+      "message": "Có vẻ là một URL",
+      "description": "Looks like a URL"
+    },
+    "turnNoteIntoSite": {
+      "message": "Chuyển ghi chú này thành trang web",
+      "description": "Turn this note into a site"
+    },
+    "maximumLengthExceeded": {
+      "message": "Đã vượt quá độ dài tối đa",
+      "description": "Maximum length exceeded"
+    },
+    "noteTruncatedTo5000Characters": {
+      "message": "Ghi chú đã được cắt ngắn còn 5000 ký tự",
+      "description": "Note truncated to 5000 characters"
+    },
+    "noteRemoved": {
+      "message": "Đã xóa ghi chú",
+      "description": "Note removed"
+    },
+    "emptyNoteRemoved": {
+      "message": "Đã xóa ghi chú trống",
+      "description": "Empty note removed"
+    },
+    "feedbackSubmitted": {
+      "message": "Đã gửi phản hồi",
+      "description": "Feedback submitted"
+    },
+    "feedbackSubmissionFailed": {
+      "message": "Gửi phản hồi thất bại",
+      "description": "Feedback submission failed"
+    },
+    "weReallyAppreciateYourValuableInput": {
+      "message": "Chúng tôi thực sự đánh giá cao ý kiến đóng góp của bạn",
+      "description": "We really appreciate your valuable input"
+    },
+    "pleaseTryAgainOrSendVia": {
+      "message": "Vui lòng thử lại hoặc gửi qua",
+      "description": "Please try again or send via"
+    },
+    "describeYourIdeaAndUsecase": {
+      "message": "Mô tả ý tưởng và trường hợp sử dụng của bạn",
+      "description": "Describe your idea and usecase"
+    },
+    "describeTheIssueBugInDetail": {
+      "message": "Mô tả chi tiết vấn đề/lỗi",
+      "description": "Describe the issue/bug in detail"
+    },
+    "otherThoughtsHere": {
+      "message": "Ý kiến khác ở đây",
+      "description": "Other thoughts here"
+    },
+    "passwordResetFailed": {
+      "message": "Đặt lại mật khẩu thất bại",
+      "description": "Password reset failed"
+    },
+    "passwordResetEmailSent": {
+      "message": "Đã gửi email đặt lại mật khẩu",
+      "description": "Password reset email sent"
+    },
+    "emailCannotBeEmpty": {
+      "message": "Email không được để trống",
+      "description": "Email cannot be empty"
+    },
+    "notAValidEmail": {
+      "message": "Email không hợp lệ",
+      "description": "Not a valid email"
+    },
+    "checkYourEmailForAPasswordResetLink": {
+      "message": "Kiểm tra email của bạn để lấy liên kết đặt lại mật khẩu.",
+      "description": "Check your email for a password reset link."
+    },
+    "passwordMustBeAtLeast6Characters": {
+      "message": "Mật khẩu phải có ít nhất 6 ký tự",
+      "description": "Password must be at least 6 characters"
+    },
+    "passwordMustBeLessThan128Characters": {
+      "message": "Mật khẩu phải ít hơn 128 ký tự",
+      "description": "Password must be less than 128 characters"
+    },
+    "passwordCannotBeEmpty": {
+      "message": "Mật khẩu không được để trống",
+      "description": "Password cannot be empty"
+    },
+    "updateAccount": {
+      "message": "Cập nhật tài khoản",
+      "description": "Update account"
+    },
+    "signUp": {
+      "message": "Đăng ký",
+      "description": "Sign up"
+    },
+    "linkWithGoogle": {
+      "message": "Liên kết với Google",
+      "description": "Link with Google"
+    },
+    "signUpWithEmailPassword": {
+      "message": "Đăng ký bằng Email + Mật khẩu",
+      "description": "Sign up with Email + Password"
+    },
+    "signUpWithGoogle": {
+      "message": "Đăng ký bằng Google",
+      "description": "Sign up with Google"
+    },
+    "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+      "message": "Thiết lập tài khoản của bạn với email và mật khẩu để bật đồng bộ hóa dữ liệu và truy cập trên các thiết bị khác.",
+      "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+    },
+    "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+      "message": "Truy cập và đồng bộ hóa dữ liệu của bạn ở mọi nơi với một tài khoản.",
+      "description": "Access and sync your data anywhere with an account."
+    },
+    "byAddingYourDetails": {
+      "message": "Bằng cách thêm thông tin của bạn",
+      "description": "By adding your details"
+    },
+    "bySigningUp": {
+      "message": "Bằng cách đăng ký",
+      "description": "By signing up"
+    },
+    "privacyPolicy": {
+      "message": "chính sách bảo mật",
+      "description": "privacy policy"
+    },
+    "youAgreeToOur": {
+      "message": "bạn đồng ý với",
+      "description": "you agree to our"
+    },
+    "termsOfUse": {
+      "message": "điều khoản sử dụng",
+      "description": "terms of use"
+    },
+    "continueAsGuest": {
+      "message": "Tiếp tục với tư cách khách",
+      "description": "Continue as guest"
+    },
+    "somethingWentWrongSigningUp": {
+      "message": "Đã xảy ra lỗi khi đăng ký",
+      "description": "Something went wrong signing up"
+    },
+    "newAccount": {
+      "message": "Tài khoản mới",
+      "description": "New account"
+    },
+    "logIn": {
+      "message": "Đăng nhập",
+      "description": "Log in"
+    },
+    "signIn": {
+      "message": "Đăng nhập",
+      "description": "Sign in"
+    },
+    "signInWithGoogle": {
+      "message": "Đăng nhập bằng Google",
+      "description": "Sign in with Google"
+    },
+    "or": {
+      "message": "hoặc",
+      "description": "or"
+    },
+    "alreadyHaveAnAccount": {
+      "message": "Đã có tài khoản? Đăng nhập tại đây:",
+      "description": "Already have an account? Sign in here:"
+    },
+    "forgotYourPassword": {
+      "message": "Quên mật khẩu?",
+      "description": "Forgot your password?"
+    },
+    "enterYourEmailToResetYourPassword": {
+      "message": "Nhập email của bạn để đặt lại mật khẩu",
+      "description": "Enter your email to reset your password"
+    },
+    "sendMeAResetPasswordLink": {
+      "message": "Gửi cho tôi liên kết đặt lại mật khẩu",
+      "description": "Send me a reset password link"
+    },
+    "hide": {
+      "message": "Ẩn",
+      "description": "Hide"
+    },
+    "show": {
+      "message": "Hiện",
+      "description": "Show"
+    },
+    "password": {
+      "message": "Mật khẩu",
+      "description": "Password"
+    },
+    "email": {
+      "message": "Email",
+      "description": "Email"
+    },
+    "turnNoteInto": {
+      "message": "Chuyển ghi chú này thành trang web",
+      "description": "Turn this note into a site"
+    },
+    "noCustomIconsUploaded": {
+      "message": "Chưa tải lên biểu tượng tùy chỉnh nào",
+      "description": "No custom icons uploaded"
+    },
+    "upgradeToProPlanToUploadAndUseCustomIcons": {
+      "message": "Nâng cấp lên gói Pro để tải lên và sử dụng biểu tượng tùy chỉnh",
+      "description": "Upgrade to the Pro plan to upload and use custom icons"
+    },
+    "saveAsNewGroupAndClose": {
+      "message": "Lưu thành nhóm mới và đóng",
+      "description": "Save as new group and close"
+    },
+    "saveImageTo": {
+      "message": "Lưu hình ảnh vào",
+      "description": "Save image to"
+    },
+    "showContent": {
+      "message": "Hiện nội dung",
+      "description": "Show content"
+    },
+    "hideContent": {
+      "message": "Ẩn nội dung",
+      "description": "Hide content"
+    },
+    "looksLikeImage": {
+      "message": "Có vẻ là một hình ảnh",
+      "description": "Looks like an image"
+    },
+    "turnNoteIntoImage": {
+      "message": "Chuyển ghi chú này thành hình ảnh",
+      "description": "Turn this note into an image"
+    },
+    "copyDone": {
+      "message": "Đã sao chép xong",
+      "description": "Copy done"
+    },
+    "putSavedGroupsFirst": {
+      "message": "Đặt các nhóm đã lưu trước",
+      "description": "Put saved groups first"
+    },
+    "putSavedGroupsFirstDetails": {
+      "message": "Đặt các nhóm đã lưu ở phía trái",
+      "description": "Place saved groups to the far left"
+    }
+}

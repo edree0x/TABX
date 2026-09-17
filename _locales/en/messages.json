@@ -1,0 +1,1922 @@
+{
+    "extensionName": {
+      "message": "TabX - Easy Tab manager",
+      "description": "The name of the extension"
+    },
+    "extensionDescription": {
+      "message": "Transform your new tab into a powerful dashboard. Add notes, set reminders, and sync across devices to boost productivity.",
+      "description": "A description of the extension"
+    },
+    "buttonLabel": {
+      "message": "Add site/image",
+      "description": "Label for adding custom url site"
+    },
+    "limitReached": {
+      "message": "Limit reached",
+      "description": "Label for limit reached"
+    },
+    "limitReachedSubtitle": {
+      "message": "You have reached the maximum saved sites on the free plan.",
+      "description": "Label for limit reached subtitle"
+    },
+    "AddCustomUrl": {
+      "message": "Add a custom url",
+      "description": "Label for adding custom url"
+    },
+    "AddCustomUrlSubtitle": {
+      "message": "You can also use file:/// to link to local files",
+      "description": "Label for adding custom url subtitle"
+    },
+    "titleIsRequired": {
+      "message": "Title is required",
+      "description": "Label for title is required"
+    },
+    "urlIsRequired": {
+      "message": "Url is required",
+      "description": "Label for url is required"
+    },
+    "orAddPredefined": {
+      "message": "Or add a predefined .new shortcut to the group:",
+      "description": "Label for or add a predefined shortcut"
+    },
+    "saveAsNewGroup": {
+      "message": "Save as new group",
+      "description": "Label for save as new group"
+    },
+    "removeDuplicates": {
+      "message": "Remove duplicates",
+      "description": "Label for remove duplicates"
+    },
+    "closeWindow": {
+      "message": "Close window",
+      "description": "Label for close window"
+    },
+    "pinSidebar": {
+      "message": "Pin sidebar",
+      "description": "Label for pin sidebar"
+    },
+    "unpinSidebar": {
+      "message": "Unpin sidebar",
+      "description": "Label for unpin sidebar"
+    },
+    "gridView": {
+      "message": "Grid view",
+      "description": "Label for grid view"
+    },
+    "newWindow": {
+      "message": "New window",
+      "description": "Label for new window"
+    },
+    "deleteNote": {
+      "message": "Delete note",
+      "description": "Label for delete note"
+    },
+    "deteleToDo": {
+      "message": "Detele to-do",
+      "description": "Label for detele to-do"
+    },
+    "editReminder": {
+      "message": "Edit reminder",
+      "description": "Label for edit reminder"
+    },
+    "setReminder": {
+      "message": "Set reminder",
+      "description": "Label for set reminder"
+    },
+    "copyContent": {
+      "message": "Copy content",
+      "description": "Label for copy content"
+    },
+    "textCopied": {
+      "message": "Text copied",
+      "description": "Label for text copied"
+    },
+    "textCopiedSubtitle": {
+      "message": "The note has been copied to your clipboard",
+      "description": "Label for text copied subtitle"
+    },
+    "couldNotCopy": {
+      "message": "Could not copy to your clipboard. Please try again.",
+      "description": "Label for could not copy"
+    },
+    "addEmoji": {
+      "message": "Add emoji",
+      "description": "Label for add emoji"
+    },
+    "setColor": {
+      "message": "Set color",
+      "description": "Label for set color"
+    },
+    "setAsNote": {
+      "message": "Set as note",
+      "description": "Label for set as note"
+    },
+    "setAsToDo": {
+      "message": "Set as to-do",
+      "description": "Label for set as to-do"
+    },
+    "saved": {
+      "message": "Saved",
+      "description": "Label for saved"
+    },
+    "tabSavedSuccess": {
+      "message": "Tab saved successfully",
+      "description": "Label for tab saved successfully"
+    },
+    "errorFetchingWorkspace": {
+      "message": "Error fetching workspace",
+      "description": "Label for error fetching workspace"
+    },
+    "errorSavingTab": {
+      "message": "Error saving tab",
+      "description": "Label for error saving tab"
+    },
+    "userNotSignedIn": {
+      "message": "User not signed in",
+      "description": "Label for user not signed in"
+    },
+    "errorFetchingData": {
+      "message": "Error fetching data",
+      "description": "Label for error fetching data"
+    },
+    "noteSavedSuccess": {
+      "message": "Note saved successfully",
+      "description": "Label for note saved successfully"
+    },
+    "imageSavedSuccess": {
+      "message": "Image saved successfully",
+      "description": "Label for image saved successfully"
+    },
+    "errorSavingImage": {
+      "message": "Error saving image",
+      "description": "Label for error saving image"
+    },
+    "errorSavingNote": {
+      "message": "Error saving note",
+      "description": "Label for error saving note"
+    },
+    "remindersAndWorkspacesUpdatedSuccess": {
+      "message": "Reminders and workspaces updated successfully",
+      "description": "Label for reminders and workspaces updated successfully"
+    },
+    "errorUpdatingRemindersAndWorkspaces": {
+      "message": "Error updating reminders and workspaces",
+      "description": "Label for error updating reminders and workspaces"
+    },
+    "editTitle": {
+      "message": "Edit title",
+      "description": "Label for edit title"
+    },
+    "editSymbol": {
+      "message": "Edit symbol",
+      "description": "Label for edit symbol"
+    },
+    "expand": {
+      "message": "Expand",
+      "description": "Label for expand"
+    },
+    "collapse": {
+      "message": "Collapse",
+      "description": "Label for collapse"
+    },
+    "openAsGroup": {
+      "message": "Open as group",
+      "description": "Label for open as group"
+    },
+    "dropToRemove1ItemFromStack": {
+      "message": "Drop to remove 1 item from stack",
+      "description": "Label for drop to remove 1 item from stack"
+    },
+    "clickToPerformActionsOnAllTabs": {
+      "message": "Click here to perform actions on all tabs",
+      "description": "Label for click to perform actions on all tabs"
+    },
+    "saveAllTabsIntoNewGroup": {
+      "message": "Save all into new group",
+      "description": "Label for save all into new group"
+    },
+    "saveAllIntoExistingGroup": {
+      "message": "Save all into existing group",
+      "description": "Label for save all into existing group"
+    },
+    "closeAllTabs": {
+      "message": "Close all tabs",
+      "description": "Label for close all tabs"
+    },
+    "groupsAreSortedIntoEditableCategories": {
+      "message": "Groups are sorted into editable categories, which are then sorted into workspaces.",
+      "description": "Label for groups are sorted into editable categories"
+    },
+    "use": {
+      "message": "Use",
+      "description": "Use"
+    },
+    "toQuicklyJumpBetweenCategories": {
+      "message": "etc to quickly jump between categories and",
+      "description": "etc to quickly jump between categories and"
+    },
+    "seeAllWorkspaces": {
+      "message": "see all workspaces.",
+      "description": "see all workspaces."
+    },
+    "inTheTopRightCorner": {
+      "message": "In the top-right corner, you'll find:",
+      "description": "In the top-right corner, you'll find:"
+    },
+    "search": {
+      "message": "Search",
+      "description": "Search"
+    },
+    "actionMenu": {
+      "message": "Action menu",
+      "description": "Action menu"
+    },
+    "remindersOverview": {
+      "message": "Reminders overview",
+      "description": "Reminders overview"
+    },
+    "share": {
+      "message": "Share",
+      "description": "Share"
+    },
+    "userDetails": {
+      "message": "User details",
+      "description": "User details"
+    },
+    "done": {
+      "message": "Done",
+      "description": "Done"
+    },
+    "cancel": {
+      "message": "Cancel",
+      "description": "Cancel"
+    },
+    "delete": {
+      "message": "Delete",
+      "description": "Delete"
+    },
+    "thatSIt": {
+      "message": "That's it!",
+      "description": "That's it!"
+    },
+    "findMoreTipsInOurGuide": {
+      "message": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:",
+      "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+    },
+    "windowMenu": {
+      "message": "Window menu",
+      "description": "Window menu"
+    },
+    "next": {
+      "message": "Next",
+      "description": "Next"
+    },
+    "showMeAround": {
+      "message": "Show me around",
+      "description": "Show me around"
+    },
+    "welcomeToTabX": {
+      "message": "Welcome to TabX",
+      "description": "Welcome to TabX"
+    },
+    "TabXHelpsYouManageTabs": {
+      "message": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views.",
+      "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+    },
+    "beforeWeBeginOurAppTourWeStartWith": {
+      "message": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings).",
+      "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+    },
+    "inTheLeftSidebar": {
+      "message": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease.",
+      "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+    },
+    "inTheTopLeftCorner": {
+      "message": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings.",
+      "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+    },
+    "step": {
+      "message": "Step",
+      "description": "Step"
+    },
+    "skipTour": {
+      "message": "Skip tour",
+      "description": "Skip tour"
+    },
+    "toCreateYourFirstGroup": {
+      "message": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone.",
+      "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+    },
+    "youCanThenDragMoreTabsIntoTheGroup": {
+      "message": "You can then drag more tabs into the group or create another. You can also use ",
+      "description": "You can then drag more tabs into the group or create another."
+    },
+    "toCreateNewGroups": {
+      "message": "to create new groups.",
+      "description": "to create new groups."
+    },
+    "getStarted": {
+      "message": "Get started!",
+      "description": "Get started!"
+    },
+    "showWorkspaces": {
+      "message": "Show workspaces",
+      "description": "Show workspaces"
+    },
+    "general": {
+      "message": "General",
+      "description": "General"
+    },
+    "appearance": {
+      "message": "Appearance",
+      "description": "Appearance"
+    },
+    "data": {
+      "message": "Data",
+      "description": "Data"
+    },
+    "openLinksInNewTab": {
+      "message": "Open links in new tab",
+      "description": "Open links in new tab"
+    },
+    "jumpToOpenedTab": {
+      "message": "Jump/focus opened tab",
+      "description": "Jump/focus opened tab"
+    },
+    "keyboardShortcuts": {
+      "message": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    "changeDefaultKeyBindings": {
+      "message": "Change default key-bindings",
+      "description": "Change default key-bindings"
+    },
+    "guideAndHelp": {
+      "message": "Guide & Help",
+      "description": "Guide & Help"
+    },
+    "guideAndHelpSubtitle": {
+      "message": "Find answers to common questions, learn how to use the extension, and get support at:",
+      "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+    },
+    "retakeTour": {
+      "message": "Retake tour",
+      "description": "Retake tour"
+    },
+    "seeTheExtensionWalkthrough": {
+      "message": "See the extension walkthrough(6 steps)",
+      "description": "See the extension walkthrough"
+    },
+    "showSiteUrl": {
+      "message": "Show site URL",
+      "description": "Show site URL"
+    },
+    "showSiteUrlDetails": {
+      "message": "Toggle sites URL being shown",
+      "description": "Toggle sites URL being shown"
+    },
+    "showWorkspaceEmoji": {
+      "message": "Show workspace emoji",
+      "description": "Show workspace emoji"
+    },
+    "showWorkspaceEmojiDetails": {
+      "message": "Show current workspace emoji next to categories",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "Hide group symbol",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "Hide the emoji/symbol on groups",
+      "description": "Hide the emoji/symbol on groups"
+    },
+    "showTrashDropZone": {
+      "message": "Show trash drop-zone",
+      "description": "Show trash drop-zone"
+    },
+    "showTrashDropZoneDetails": {
+      "message": "Drop items off into the red area to delete them",
+      "description": "Drop items off into the red area to delete them"
+    },
+    "trashDropZonePosition": {
+      "message": "Trash drop-zone position",
+      "description": "Trash drop-zone position"
+    },
+    "trashDropZonePositionDetails": {
+      "message": "Select trash drop-zone location",
+      "description": "Select trash drop-zone location"
+    },
+    "showMinMaxButton": {
+      "message": "Show min/max button",
+      "description": "Show min/max button"
+    },
+    "showMinMaxButtonDetails": {
+      "message": "Show min/max button for groups outside menu",
+      "description": "Show min/max button for groups outside menu"
+    },
+    "exportData": {
+      "message": "Export data",
+      "description": "Export data"
+    },
+    "exportDataDetails": {
+      "message": "Export current workspace",
+      "description": "Export current workspace"
+    },
+    "importData": {
+      "message": "Import data",
+      "description": "Import data"
+    },
+    "importDataDetails": {
+      "message": "Import workspace from a file",
+      "description": "Import workspace from a file"
+    },
+    "openNewTab": {
+      "message": "Open New Tab to initialize...",
+      "description": "Open New Tab to initialize..."
+    },
+    "noSitesInside": {
+      "message": "No sites inside",
+      "description": "No sites inside"
+    },
+    "openAll": {
+      "message": "Open all",
+      "description": "Open all"
+    },
+    "sites": {
+      "message": "sites",
+      "description": "sites"
+    },
+    "site": {
+      "message": "site",
+      "description": "site"
+    },
+    "updateGroup": {
+      "message": "Update group",
+      "description": "Update group"
+    },
+    "closeGroup": {
+      "message": "Close group",
+      "description": "Close group"
+    },
+    "groupCreated": {
+      "message": "Group created",
+      "description": "Group created"
+    },
+    "wasAddedAsAGroup": {
+      "message": "was added as a group",
+      "description": "was added as a group"
+    },
+    "maxGroupsReached": {
+      "message": "Max groups reached",
+      "description": "Max groups reached"
+    },
+    "createNewCategory": {
+      "message": "Create a new category to create more groups",
+      "description": "Create a new category to create more groups"
+    },
+    "permissionDenied": {
+      "message": "Permission was denied",
+      "description": "Permission was denied"
+    },
+    "noAccessToTopsites": {
+      "message": "No access to topsites",
+      "description": "No access to topsites"
+    },
+    "noAccessToBookmarks": {
+      "message": "No access to bookmarks",
+      "description": "No access to bookmarks"
+    },
+    "addImportedSites": {
+      "message": "Add/import sites",
+      "description": "Add/import sites"
+    },
+    "yourMostVisitedSites": {
+      "message": "Your most visited sites",
+      "description": "Your most visited sites"
+    },
+    "yourBookmarks": {
+      "message": "Your bookmarks",
+      "description": "Your bookmarks"
+    },
+    "needsOneTimePermission": {
+      "message": "Needs a one-time permission",
+      "description": "Needs a one-time permission"
+    },
+    "grantAccess": {
+      "message": "Grant access",
+      "description": "Grant access"
+    },
+    "noBookmarksFound": {
+      "message": "No bookmarks found",
+      "description": "No bookmarks found"
+    },
+    "workspaceFull": {
+      "message": "Workspace full",
+      "description": "Workspace full"
+    },
+    "maximum8CategoriesPerWorkspace": {
+      "message": "Maximum 8 categories per workspace",
+      "description": "Maximum 8 categories per workspace"
+    }, 
+    "editCategories": {
+      "message": "Edit categories",
+      "description": "Edit categories"
+    },
+    "maximumOf8CategoriesReached": {
+      "message": "Maximum of 8 categories reached",
+      "description": "Maximum of 8 categories reached"
+    },
+    "newCategory": {
+      "message": "New category",
+      "description": "New category"
+    },
+    "areYouSureYouWantToDeleteThisCategory": {
+      "message": "Are you sure you want to delete this category?",
+      "description": "Are you sure you want to delete this category?"
+    },
+    "allContainingGroupsAndSavedItemsWillBeDeleted": {
+      "message": "All containing groups and saved items will be deleted",
+      "description": "All containing groups and saved items will be deleted"
+    },
+    "noMatch": {
+      "message": "No match",
+      "description": "No match"
+    },
+    "noTabsHereNeat": {
+      "message": "No tabs here, neat!",
+      "description": "No tabs here, neat!"
+    },
+    "clearInput": {
+      "message": "Clear input",
+      "description": "Clear input"
+    },
+    "toNavigate": {
+      "message": "to navigate",
+      "description": "to navigate"
+    },
+    "addAsGroup": {
+      "message": "Add as group to current category",
+      "description": "Add as group to current category"
+    },
+    "edit": {
+      "message": "Edit",
+      "description": "Edit"
+    },
+    "restore": {
+      "message": "Restore",
+      "description": "Restore"
+    },
+    "deletePermanently": {
+      "message": "Delete permanently",
+      "description": "Delete permanently"
+    },
+    "editName": {
+      "message": "Edit name",
+      "description": "Edit name"
+    },
+    "reminderDue": {
+      "message": "reminder due",
+      "description": "reminder due"
+    },
+    "remindersDue": {
+      "message": "reminders due",
+      "description": "reminders due"
+    },
+    "selectedItems": {
+      "message": "Selected items",
+      "description": "Selected items"
+    },
+    "stack": {
+      "message": "Stack",
+      "description": "Stack"
+    },
+    "unstack": {
+      "message": "Unstack",
+      "description": "Unstack"
+    },
+    "item": {
+      "message": "item",
+      "description": "item"
+    },
+    "items": {
+      "message": "items",
+      "description": "items"
+    },
+    "toDo": {
+      "message": "to-do",
+      "description": "to-do"
+    },
+    "note": {
+      "message": "note",
+      "description": "note"
+    },
+    "deleteItems": {
+      "message": "Delete items",
+      "description": "Delete items"
+    },
+    "openPricingPage": {
+      "message": "Open pricing page",
+      "description": "Open pricing page"
+    },
+    "proPlanOnly": {
+      "message": "Pro plan only",
+      "description": "Pro plan only"
+    },
+    "upload": {
+      "message": "Upload",
+      "description": "Upload"
+    },
+    "clickToEdit": {
+      "message": "Click to edit",
+      "description": "Click to edit"
+    },
+    "resetToDefault": {
+      "message": "Reset to default",
+      "description": "Reset to default"
+    },
+    "typeShortcut": {
+      "message": "Type shortcut",
+      "description": "Type shortcut"
+    },
+    "refetch": {
+      "message": "Refetch",
+      "description": "Refetch"
+    },
+    "newWorkspace": {
+      "message": "New workspace",
+      "description": "New workspace"
+    },
+    "upgradeToCollaborate": {
+      "message": "Upgrade to collaborate",
+      "description": "Upgrade to collaborate"
+    },
+    "inviteAcceptedSuccessfully": {
+      "message": "Invite accepted successfully",
+      "description": "Invite accepted successfully"
+    },
+    "inviteDeclined": {
+      "message": "Invite declined",
+      "description": "Invite declined"
+    },
+    "somethingWentWrong": {
+      "message": "Something went wrong",
+      "description": "Something went wrong"
+    },
+    "pleaseTryAgain": {
+      "message": "Please try again",
+      "description": "Please try again"
+    },
+    "invitedBy": {
+      "message": "Invited by:",
+      "description": "Invited by"
+    },
+    "addUser": {
+      "message": "Add user",
+      "description": "Add user"
+    },
+    "addAndShareWorkspaceWith": {
+      "message": "Add and share workspace with:",
+      "description": "Add and share workspace with"
+    },
+    "invite": {
+      "message": "Invite",
+      "description": "Invite"
+    },
+    "yourTeam": {
+      "message": "Your team:",
+      "description": "Your team:"
+    },
+    "emptyAddMembers": {
+      "message": "Empty. Add members at",
+      "description": "Empty. Add members at"
+    },
+    "please": {
+      "message": "Please",
+      "description": "Please"
+    },
+    "upgradeYourPlan": {
+      "message": "upgrade your plan",
+      "description": "Upgrade your plan"
+    },
+    "toUseTheRealtimeShareFeature": {
+      "message": "to use the realtime share feature",
+      "description": "to use the realtime share feature"
+    },
+    "add": {
+      "message": "Add",
+      "description": "Add"
+    }, 
+    "workspaceShared": {
+      "message": "Workspace shared",
+      "description": "Workspace shared"
+    },
+    "workspaceUnshared": {
+      "message": "Workspace unshared",
+      "description": "Workspace unshared"
+    },
+    "nowAccessibleViaPublicLink": {
+      "message": "Now accessible via public link",
+      "description": "Now accessible via public link"
+    },
+    "publicLinkRemoved": {
+      "message": "Public link removed",
+      "description": "Public link removed"
+    },
+    "shareAsReadOnlyPublicLink": {
+      "message": "Share as read-only public link",
+      "description": "Share as read-only public link"
+    },
+    "saveToNewGroup": {
+      "message": "Save to new group",
+      "description": "Save to new group"
+    },
+    "saveToGroup": {
+      "message": "Save to group",
+      "description": "Save to group"
+    },
+    "toggleDarkmode": {
+      "message": "Toggle darkmode",
+      "description": "Toggle darkmode"
+    },
+    "turnIntoNote": {
+      "message": "Turn into note",
+      "description": "Turn into note"
+    },
+    "turnIntoToDo": {
+      "message": "Turn into To-do",
+      "description": "Turn into To-do"
+    },
+    "closeColorPicker": {
+      "message": "Close color-picker",
+      "description": "Close color-picker"
+    }, 
+    "changeColor": {
+      "message": "Change color",
+      "description": "Change color"
+    },
+    "pinTab": {
+      "message": "Pin tab",
+      "description": "Pin tab"
+    },
+    "unpinTab": {
+      "message": "Unpin tab",
+      "description": "Unpin tab"
+    },
+    "save": {
+      "message": "Save",
+      "description": "Save"
+    },
+    "update": {
+      "message": "Update",
+      "description": "Update"
+    },
+    "deleteItem": {
+      "message": "Delete item",
+      "description": "Delete item"
+    },
+    "deleteItemFromStack": {
+      "message": "Delete item from stack",
+      "description": "Delete item from stack"
+    },
+    "savedIn": {
+      "message": "Saved in:",
+      "description": "Saved in:"
+    },
+    "changesNotSaved": {
+      "message": "Changes not saved",
+      "description": "Changes not saved"
+    },
+    "deleteFrom": {
+      "message": "Delete from",
+      "description": "Delete from"
+    },
+    "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+      "message": "Are you sure you want to delete this saved site and note?",
+      "description": "Are you sure you want to delete this saved site and note?"
+    },
+    "result": {
+      "message": "Result",
+      "description": "Result"
+    },
+    "notAvailableInWebVersion": {
+      "message": "Not available in web version",
+      "description": "Not available in web version"
+    },
+    "pleaseAddBrowserExtension": {
+      "message": "Please add the browser extension to access",
+      "description": "Please add the browser extension to access"
+    },
+    "goTo": {
+      "message": "Go to",
+      "description": "Go to"
+    },
+    "openSite": {
+      "message": "Open site",
+      "description": "Open site"
+    },
+    "goToWorkspace": {
+      "message": "Go to Workspace",
+      "description": "Go to Workspace"
+    },
+    "reschedule": {
+      "message": "Reschedule",
+      "description": "Reschedule"
+    },
+    "dataImportedSuccessfully": {
+      "message": "Data imported successfully",
+      "description": "Data imported successfully"
+    },
+    "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+      "message": "A new workspace has been created with the imported data",
+      "description": "A new workspace has been created with the imported data"
+    },
+    "errorImportingData": {
+      "message": "Error importing data",
+      "description": "Error importing data"
+    },
+    "newWorkspaceCreated": {
+      "message": "New workspace created",
+      "description": "New workspace created"
+    },
+    "workspaceLimitReached": {
+      "message": "Workspace limit reached",
+      "description": "Workspace limit reached"
+    },
+    "upgradeToProPlanForMoreWorkspaces": {
+      "message": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces.",
+      "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+    },
+    "somethingWentWrongWhileCreatingWorkspace": {
+      "message": "Something went wrong while creating workspace, please try again",
+      "description": "Something went wrong while creating workspace, please try again"
+    },
+    "loginFailed": {
+      "message": "Login failed",
+      "description": "Login failed"
+    },
+    "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+      "message": "Please allow the identity permission to sign in with Google",
+      "description": "Please allow the identity permission to sign in with Google"
+    },
+    "accountUpgradedSuccessfully": {
+      "message": "Account upgraded successfully",
+      "description": "Account upgraded successfully"
+    },
+    "youCanNowSyncYourDataAcrossDevices": {
+      "message": "You can now sync your data across devices",
+      "description": "You can now sync your data across devices"
+    },
+    "cannotRemoveWorkspace": {
+      "message": "Cannot remove workspace",
+      "description": "Cannot remove workspace"
+    },
+    "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+      "message": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current",
+      "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+    },
+    "workspaceRemoved": {
+      "message": "Workspace removed",
+      "description": "Workspace removed"
+    },
+    "removedSuccessfully": {
+      "message": "removed successfully",
+      "description": "removed successfully"
+    },
+    "workspaceRemovalFailed": {
+      "message": "Workspace removal failed",
+      "description": "Workspace removal failed"
+    },
+    "groupMovedSuccessfully": {
+      "message": "Group moved successfully",
+      "description": "Group moved successfully"
+    },
+    "groupMovedInto": {
+      "message": "moved into",
+      "description": "moved into"
+    },
+    "groupMoveFailed": {
+      "message": "Group move failed",
+      "description": "Group move failed"
+    },
+    "tabsMovedSuccessfully": {
+      "message": "Tabs moved successfully",
+      "description": "Tabs moved successfully"
+    },
+    "tabMovedSuccessfully": {
+      "message": "Tab moved successfully",
+      "description": "Tab moved successfully"
+    },
+    "tabMoveFailedPleaseTryAgain": {
+      "message": "Tab move failed, please try again",
+      "description": "Tab move failed, please try again"
+    },
+    "couldNotFetchWorkspaceData": {
+      "message": "Could not fetch workspace data",
+      "description": "Could not fetch workspace data"
+    },
+    "errorUpdatingGroupWidth": {
+      "message": "Error updating group width",
+      "description": "Error updating group width"
+    },
+    "errorUpdatingMetaImagePin": {
+      "message": "Error updating meta image pin",
+      "description": "Error updating meta image pin"
+    },
+    "saveDone": {
+      "message": "Save done",
+      "description": "Save done"
+    },
+    "allActiveTabsSavedAndClosedInto": {
+      "message": "All active tabs saved and closed into",
+      "description": "All active tabs saved and closed into"
+    },
+    "groupSavedInto": {
+      "message": "Group saved into",
+      "description": "Group saved into"
+    },
+    "tabsSavedInto": {
+      "message": "Tabs saved into",
+      "description": "Tabs saved into"
+    },
+    "categoryMovedSuccessfully": {
+      "message": "Category moved successfully",
+      "description": "Category moved successfully"
+    },
+    "stackUnstacked": {
+      "message": "Stack unstacked",
+      "description": "Stack unstacked"
+    },
+    "sitesSplitIntoIndividualItems": {
+      "message": "Sites split into individual items",
+      "description": "Sites split into individual items"
+    },
+    "stackCreated": {
+      "message": "Stack created",
+      "description": "Stack created"
+    },
+    "sitesMergedIntoOneStackedItem": {
+      "message": "Sites merged into one stacked item",
+      "description": "Sites merged into one stacked item"
+    },
+    "errorUpdatingDatabaseOnStackAction": {
+      "message": "Error updating database on stack action",
+      "description": "Error updating database on stack action"
+    },
+    "noteTurnedIntoSite": {
+      "message": "Note turned into site",
+      "description": "Note turned into site"
+    },
+    "theNoteHasBeenTurnedIntoASite": {
+      "message": "The note has been turned into a site",
+      "description": "The note has been turned into a site"
+    },
+    "groupUpdated": {
+      "message": "Group updated",
+      "description": "Group updated"
+    },
+    "sitesInGroupSyncedWithOpenTabGroup": {
+      "message": "Sites in group synced with the open tab group",
+      "description": "Sites in group synced with the open tab group"
+    },
+    "errorSyncingSitesInGroup": {
+      "message": "Error syncing sites in group",
+      "description": "Error syncing sites in group"
+    },
+    "itemSorted": {
+      "message": "Item sorted",
+      "description": "Item sorted"
+    },
+    "theGroupsContentHasBeenSortedAlphabetically": {
+      "message": "The groups content has been sorted alphabetically",
+      "description": "The groups content has been sorted alphabetically"
+    },
+    "noItemsToSort": {
+      "message": "No items to sort",
+      "description": "No items to sort"
+    },
+    "thereSeemsToBeNoItemsInTheGroup": {
+      "message": "There seems to be no items in the group",
+      "description": "There seems to be no items in the group"
+    },
+    "theGroupContentHasBeenSortedByDate": {
+      "message": "The group content has been sorted by date",
+      "description": "The group content has been sorted by date"
+    },
+    "allTextInsideGroupCopiedToClipboard": {
+      "message": "All text inside group copied to clipboard",
+      "description": "All text inside group copied to clipboard"
+    },
+    "noItemsToCopy": {
+      "message": "No items to copy",
+      "description": "No items to copy"
+    }, 
+    "groupDuplicated": {
+      "message": "Group duplicated",
+      "description": "Group duplicated"
+    },
+    "duplicatedSuccessfully": {
+      "message": "duplicated successfully",
+      "description": "duplicated successfully"
+    },
+    "createNewCategoryToCreateMoreGroups": {
+      "message": "Create a new category to create more groups",
+      "description": "Create a new category to create more groups"
+    },
+    "stackedItems": {
+      "message": "stacked items",
+      "description": "stacked items"
+    },
+    "stackedItemsDeleted": {
+      "message": "stacked items deleted",
+      "description": "Stacked items deleted"
+    },
+    "itemDeleted": {
+      "message": "item deleted",
+      "description": "item deleted"
+    },
+    "itemsDeleted": {
+      "message": "items deleted",
+      "description": "items deleted"
+    },
+    "errorDeletingCategory": {
+      "message": "Error deleting category",
+      "description": "Error deleting category"
+    },
+    "pleaseRefreshPageAndTryAgain": {
+      "message": "Please refresh page and try again",
+      "description": "Please refresh page and try again"
+    },
+    "wasDeleted": {
+      "message": "was deleted",
+      "description": "was deleted"
+    },
+    "atLeastOneCategoryPerWorkspaceRequired": {
+      "message": "At least one category per workspace required",
+      "description": "At least one category per workspace required"
+    },
+    "deleteNotPermitted": {
+      "message": "Delete not permitted",
+      "description": "Delete not permitted"
+    },
+    "groupDeleted": {
+      "message": "Group deleted",
+      "description": "Group deleted"
+    },
+    "theBinContainsYourLast50DeletedItems": {
+      "message": "The bin contains your last 50 deleted items.",
+      "description": "The bin contains your last 50 deleted items."
+    },
+    "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+      "message": "By choosing to restore a deleted item, it will be recreated in the currently chosen category.",
+      "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+    },
+    "bin": {
+      "message": "Bin",
+      "description": "Bin"
+    },
+    "areYouSureYouWantToDeleteThisWorkspace": {
+      "message": "Are you sure you want to delete this workspace?",
+      "description": "Are you sure you want to delete this workspace?"
+    },
+    "areYouSureYouWantToRemoveThisWorkspace": {
+      "message": "Are you sure you want to remove this workspace?",
+      "description": "Are you sure you want to remove this workspace?"
+    },
+    "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+      "message": "All containing categories, groups and saved items will be deleted for all users.",
+      "description": "All containing categories, groups and saved items will be deleted for all users."
+    },
+    "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+      "message": "You won't have access to the workspace again. The workspace will still be available for other users.",
+      "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+    },
+    "remove": {
+      "message": "Remove",
+      "description": "Remove"
+    },
+    "areYouSureYouWantToClearAllReminders": {
+      "message": "Are you sure you want to clear all reminders?",
+      "description": "Are you sure you want to clear all reminders?"
+    },
+    "youCantUndoThisAction": {
+      "message": "You can't undo this action.",
+      "description": "You can't undo this action."
+    },
+    "clearReminders": {
+      "message": "Clear reminders",
+      "description": "Clear reminders"
+    },
+    "clearAll": {
+      "message": "Clear all",
+      "description": "Clear all"
+    },
+    "reminderCleared": {
+      "message": "Reminder cleared",
+      "description": "Reminder cleared"
+    },
+    "remindersCleared": {
+      "message": "Reminders cleared",
+      "description": "Reminders cleared"
+    },
+    "reminderRemoved": {
+      "message": "Reminder removed",
+      "description": "Reminder removed"
+    },
+    "date": {
+      "message": "Date:",
+      "description": "Date:"
+    },
+    "unableToToggleToDo": {
+      "message": "Unable to toggle to-do",
+      "description": "Unable to toggle to-do"
+    },
+    "goToWorkspaceToEditItem": {
+      "message": "Go to workspace to edit item",
+      "description": "Go to workspace to edit item"
+    },
+    "repeating": {
+      "message": "Repeating:",
+      "description": "Repeating:"
+    },
+    "eachWeek": {
+      "message": "each week",
+      "description": "each week"
+    },
+    "ofTheMonth": {
+      "message": "of the month",
+      "description": "of the month"
+    },
+    "toEnableReminders": {
+      "message": "to enable reminders",
+      "description": "to enable reminders"
+    },
+    "noReminders": {
+      "message": "No reminders",
+      "description": "No reminders"
+    },
+    "today": {
+      "message": "Today",
+      "description": "Today"
+    },
+    "minimize": {
+      "message": "Minimize",
+      "description": "Minimize"
+    },
+    "addSite": {
+      "message": "Add site/image",
+      "description": "Add site/image"
+    },
+    "duplicateGroup": {
+      "message": "Duplicate group",
+      "description": "Duplicate group"
+    },
+    "copyAsText": {
+      "message": "Copy as text",
+      "description": "Copy as text"
+    },
+    "moveTo": {
+      "message": "Move to",
+      "description": "Move to"
+    },
+    "sortBy": {
+      "message": "Sort by",
+      "description": "Sort by"
+    },
+    "alphabetical": {
+      "message": "Alphabetical",
+      "description": "Alphabetical"
+    },
+    "dateAdded": {
+      "message": "Date added",
+      "description": "Date added"
+    },
+    "saveTo": {
+      "message": "Save to",
+      "description": "Save to"
+    },
+    "closeAndMoveTo": {
+      "message": "Close and move to",
+      "description": "Close and move to"
+    },
+    "createGroupAndClose": {
+      "message": "Create group and close",
+      "description": "Create group and close"
+    },
+    "discard": {
+      "message": "Discard",
+      "description": "Discard"
+    },
+    "pin": {
+      "message": "Pin",
+      "description": "Pin"
+    },
+    "unpin": {
+      "message": "Unpin",
+      "description": "Unpin"
+    },
+    "group": {
+      "message": "Group",
+      "description": "Group"
+    },
+    "ungroup": {
+      "message": "Ungroup",
+      "description": "Ungroup"
+    },
+    "noUrlFound": {
+      "message": "No URL found",
+      "description": "No URL found"
+    },
+    "previewUnavailable": {
+      "message": "Preview unavailable",
+      "description": "Preview unavailable"
+    },
+    "tabGrouped": {
+      "message": "tab grouped",
+      "description": "tab grouped"
+    },
+    "tabsGrouped": {
+      "message": "tabs grouped",
+      "description": "tabs grouped"
+    },
+    "groupCreatedFromSelectedTabs": {
+      "message": "Group created from selected tabs",
+      "description": "Group created from selected tabs"
+    },
+    "tabAlreadyDiscarded": {
+      "message": "Tab already discarded",
+      "description": "Tab already discarded"
+    },
+    "doubleClickToReload": {
+      "message": "Double click to reload it",
+      "description": "Double click to reload it"
+    },
+    "addTextSelectionToGroup": {
+      "message": "Add text-selection to group",
+      "description": "Add text-selection to group"
+    },
+    "closeSiteAndSaveTo": {
+      "message": "Close site and save to:",
+      "description": "Close site and save to"
+    },
+    "close": {
+      "message": "close",
+      "description": "close"
+    },
+    "newGroup": {
+      "message": "New group",
+      "description": "New group"
+    },
+    "savesLeftOnTrialPlan": {
+      "message": "saves left on trial plan",
+      "description": "saves left on trial plan"
+    },
+    "manageAccount": {
+      "message": "Manage account",
+      "description": "Manage account"
+    },
+    "signOut": {
+      "message": "Sign out",
+      "description": "Sign out"
+    },
+    "warningBySigningOut": {
+      "message": "Warning: By signing out, your current saved data will be lost",
+      "description": "Warning: By signing out, your current saved data will be lost"
+    },
+    "sinceYouAreOnAGuestAccount": {
+      "message": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google.",
+      "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+    },
+    "yesSignMeOut": {
+      "message": "Yes, sign me out",
+      "description": "Yes, sign me out"
+    },
+    "importBookmarks": {
+      "message": "Import bookmarks",
+      "description": "Import bookmarks"
+    },
+    "feedback": {
+      "message": "Feedback",
+      "description": "Feedback"
+    },
+    "settings": {
+      "message": "Settings",
+      "description": "Settings"
+    },
+    "theme": {
+      "message": "Theme",
+      "description": "Theme"
+    },
+    "sendFeedback": {
+      "message": "Send feedback",
+      "description": "Send feedback"
+    },
+    "pleaseShareYourFeedbackWithUs": {
+      "message": "Please share your feedback with us. We appreciated and value your input.",
+      "description": "Please share your feedback with us. We appreciated and value your input."
+    },
+    "send": {
+      "message": "Send",
+      "description": "Send"
+    },
+    "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+      "message": "Only workspace owner can add/remove users and share via public URL.",
+      "description": "Only workspace owner can add/remove users and share via public URL."
+    },
+    "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+      "message": "Add users to share the current workspace and collaborate in real time.",
+      "description": "Add users to share the current workspace and collaborate in real time."
+    },
+    "readMoreAboutSharing": {
+      "message": "Read more about sharing",
+      "description": "Read more about sharing"
+    },
+    "here": {
+      "message": "here",
+      "description": "here"
+    },
+    "removeUser": {
+      "message": "Remove user",
+      "description": "Remove user"
+    },
+    "pleaseEnterAValidEmailAddress": {
+      "message": "Please enter a valid email address",
+      "description": "Please enter a valid email address"
+    },
+    "looksLikeThisUserHasBeenInvitedAlready": {
+      "message": "Looks like this user has already been invited",
+      "description": "Looks like this user has already been invited"
+    },
+    "pleaseSeeListOfUsers": {
+      "message": "Please see list of users",
+      "description": "Please see list of users"
+    },
+    "inviteSentTo": {
+      "message": "Invite sent to",
+      "description": "Invite sent to"
+    },
+    "categories": {
+      "message": "categories",
+      "description": "categories"
+    },
+    "category": {
+      "message": "category",
+      "description": "category"
+    },
+    "users": {
+      "message": "Users",
+      "description": "Users"
+    },
+    "moveUp": {
+      "message": "Move up",
+      "description": "Move up"
+    },
+    "moveDown": {
+      "message": "Move down",
+      "description": "Move down"
+    },
+    "day": {
+      "message": "day",
+      "description": "day"
+    },
+    "days": {
+      "message": "days",
+      "description": "days"
+    },
+    "hour": {
+      "message": "hour",
+      "description": "hour"
+    },
+    "hours": {
+      "message": "hours",
+      "description": "hours"
+    },
+    "minute": {
+      "message": "minute",
+      "description": "minute"
+    },
+    "minutes": {
+      "message": "minutes",
+      "description": "minutes"
+    },
+    "now": {
+      "message": "Now",
+      "description": "Now"
+    },
+    "overdue": {
+      "message": "overdue",
+      "description": "overdue"
+    },
+    "and": {
+      "message": "and",
+      "description": "and"
+    },
+    "stackedSites": {
+      "message": "Stacked sites",
+      "description": "Stacked sites"
+    },
+    "due": {
+      "message": "due",
+      "description": "due"
+    },
+    "dueCapital": {
+      "message": "DUE",
+      "description": "DUE"
+    },
+    "reminder": {
+      "message": "Reminder",
+      "description": "Reminder"
+    },
+    "reminders": {
+      "message": "Reminders",
+      "description": "Reminders"
+    },
+    "upcoming": {
+      "message": "Upcoming",
+      "description": "Upcoming"
+    },
+    "noUpcomingReminders": {
+      "message": "No upcoming reminders",
+      "description": "No upcoming reminders"
+    },
+    "mon": {
+      "message": "Mon",
+      "description": "Mon"
+    },
+    "tue": {
+      "message": "Tue",
+      "description": "Tue"
+    },
+    "wed": {
+      "message": "Wed",
+      "description": "Wed"
+    },
+    "thu": {
+      "message": "Thu",
+      "description": "Thu"
+    },
+    "fri": {
+      "message": "Fri",
+      "description": "Fri"
+    },
+    "sat": {
+      "message": "Sat",
+      "description": "Sat"
+    },
+    "sun": {
+      "message": "Sun",
+      "description": "Sun"
+    },
+    "january": {
+      "message": "January",
+      "description": "January"
+    },
+    "february": {
+      "message": "February",
+      "description": "February"
+    },
+    "march": {
+      "message": "March",
+      "description": "March"
+    },
+    "april": {
+      "message": "April",
+      "description": "April"
+    },
+    "may": {
+      "message": "May",
+      "description": "May"
+    },
+    "june": {
+      "message": "June",
+      "description": "June"
+    },
+    "july": {
+      "message": "July",
+      "description": "July"
+    },
+    "august": {
+      "message": "August",
+      "description": "August"
+    },
+    "september": {
+      "message": "September",
+      "description": "September"
+    },
+    "october": {
+      "message": "October",
+      "description": "October"
+    },
+    "november": {
+      "message": "November",      
+      "description": "November"
+    },
+    "december": {
+      "message": "December",
+      "description": "December"
+    },
+    "clear": {
+      "message": "Clear",
+      "description": "Clear"
+    },
+    "clearRepeat": {
+      "message": "Clear + repeat",
+      "description": "Clear + repeat"
+    },
+    "removeAll": {
+      "message": "Remove all",
+      "description": "Remove all"
+    },
+    "currentWorkspace": {
+      "message": "Current workspace",
+      "description": "Current workspace"
+    },
+    "allWorkspaces": {
+      "message": "All workspaces",
+      "description": "All workspaces"
+    },
+    "openTabs": {
+      "message": "Open tabs",
+      "description": "Open tabs"
+    },
+    "bookmarks": {
+      "message": "Bookmarks",
+      "description": "Bookmarks"
+    }, 
+    "giveItATitle": {
+      "message": "Give it a title",
+      "description": "Give it a title"
+    },
+    "noteUpdated": {
+      "message": "Note updated",
+      "description": "Note updated"
+    },
+    "errorUpdatingNote": {
+      "message": "Error updating note",
+      "description": "Error updating note"
+    },
+    "active": {
+      "message": "active",
+      "description": "active"
+    },
+    "paused": {
+      "message": "paused",
+      "description": "paused"
+    },
+    "free": {
+      "message": "free",
+      "description": "free"
+    },
+    "errorRemovingItem": {
+      "message": "Error removing item",
+      "description": "Error removing item"
+    },
+    "errorRemovingSite": {
+      "message": "Error removing site",
+      "description": "Error removing site"
+    },
+    "itemRemoved": {
+      "message": "Item removed",
+      "description": "Item removed"
+    },
+    "errorSavingSite": {
+      "message": "Error saving site",
+      "description": "Error saving site"
+    },
+    "groupCreatedWithItem": {
+      "message": "Group created with item",
+      "description": "Group created with item"
+    },
+    "loading": {
+      "message": "Loading",
+      "description": "Loading"
+    },
+    "trialLimitReached": {
+      "message": "Trial limit reached",
+      "description": "Trial limit reached"
+    },
+    "saveComplete": {
+      "message": "Save complete",
+      "description": "Save complete"
+    },
+    "itemPermanentlyRemoved": {
+      "message": "Item permanently removed",
+      "description": "Item permanently removed"
+    },
+    "itemRestored": {
+      "message": "Item restored",
+      "description": "Item restored"
+    },
+    "itemRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Item restored into Restored items in current category",
+      "description": "Item restored into Restored items in current category"
+    },
+    "restoredItems": {
+      "message": "Restored items",
+      "description": "Restored items"
+    },
+    "groupRestored": {
+      "message": "Group restored",
+      "description": "Group restored"
+    },
+    "groupRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Group restored into Restored items in current category",
+      "description": "Group restored into Restored items in current category"
+    },
+    "errorFetchingWorkspaceData": {
+      "message": "Error fetching workspace data",
+      "description": "Error fetching workspace data"
+    },
+    "errorCreatingNewGroup": {
+      "message": "Error creating new group",
+      "description": "Error creating new group"
+    },
+    "dropNotAllowed": {
+      "message": "Drop not allowed",
+      "description": "Drop not allowed"
+    },
+    "groupsMerged": {
+      "message": "Groups merged",
+      "description": "Groups merged"
+    },
+    "mergedInto": {
+      "message": "merged into",
+      "description": "merged into"
+    },
+    "userRemoved": {
+      "message": "User removed",
+      "description": "User removed"
+    },
+    "somethingWentWrongRemovingUser": {
+      "message": "Something went wrong removing user",
+      "description": "Something went wrong removing user"
+    },
+    "pleaseRefreshAndTryAgain": {
+      "message": "Please refresh and try again",
+      "description": "Please refresh and try again"
+    },
+    "maximumCategoriesReached": {
+      "message": "Maximum 8 categories per workspace",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "addMoreBeforeMoving": {
+      "message": "Add more before moving",
+      "description": "Add more before moving"
+    },
+    "workspaceInviteRemoved": {
+      "message": "Workspace invite removed",
+      "description": "Workspace invite removed"
+    },
+    "reminderUpdated": {
+      "message": "Reminder updated",
+      "description": "Reminder updated"
+    },
+    "reminderSet": {
+      "message": "Reminder set",
+      "description": "Reminder set"
+    },
+    "firstUp": {
+      "message": "First up",
+      "description": "First up"
+    },
+    "looksLikeUrl": {
+      "message": "Looks like a URL",
+      "description": "Looks like a URL"
+    },
+    "turnNoteIntoSite": {
+      "message": "Turn this note into a site",
+      "description": "Turn this note into a site"
+    },
+    "maximumLengthExceeded": {
+      "message": "Maximum length exceeded",
+      "description": "Maximum length exceeded"
+    },
+    "noteTruncatedTo5000Characters": {
+      "message": "Note truncated to 5000 characters",
+      "description": "Note truncated to 5000 characters"
+    },
+    "noteRemoved": {
+      "message": "Note removed",
+      "description": "Note removed"
+    },
+    "emptyNoteRemoved": {
+      "message": "Empty note removed",
+      "description": "Empty note removed"
+    },
+    "feedbackSubmitted": {
+      "message": "Feedback submitted",
+      "description": "Feedback submitted"
+    },
+    "feedbackSubmissionFailed": {
+      "message": "Feedback submission failed",
+      "description": "Feedback submission failed"
+    },
+    "weReallyAppreciateYourValuableInput": {
+      "message": "We really appreciate your valuable input",
+      "description": "We really appreciate your valuable input"
+    },
+    "pleaseTryAgainOrSendViaSupport": {
+      "message": "Please try again or send via",
+      "description": "Please try again or send via"
+    },
+    "describeYourIdeaAndUsecase": {
+      "message": "Describe your idea and usecase",
+      "description": "Describe your idea and usecase"
+    },
+    "describeTheIssueBugInDetail": {
+      "message": "Describe the issue/bug in detail",
+      "description": "Describe the issue/bug in detail"
+    },
+    "otherThoughtsHere": {
+      "message": "Other thoughts here",
+      "description": "Other thoughts here"
+    },
+    "passwordResetFailed": {
+      "message": "Password reset failed",
+      "description": "Password reset failed"
+    },
+    "passwordResetEmailSent": {
+      "message": "Password reset email sent",
+      "description": "Password reset email sent"
+    },
+    "emailCannotBeEmpty": {
+      "message": "Email cannot be empty",
+      "description": "Email cannot be empty"
+    },
+    "notAValidEmail": {
+      "message": "Not a valid email",
+      "description": "Not a valid email"
+    },
+    "checkYourEmailForAPasswordResetLink": {
+      "message": "Check your email for a password reset link.",
+      "description": "Check your email for a password reset link."
+    },
+    "passwordMustBeAtLeast6Characters": {
+      "message": "Password must be at least 6 characters",
+      "description": "Password must be at least 6 characters"
+    },
+    "passwordMustBeLessThan128Characters": {
+      "message": "Password must be less than 128 characters",
+      "description": "Password must be less than 128 characters"
+    },
+    "passwordCannotBeEmpty": {
+      "message": "Password cannot be empty",
+      "description": "Password cannot be empty"
+    },
+    "updateAccount": {
+      "message": "Update account",
+      "description": "Update account"
+    },
+    "signUp": {
+      "message": "Sign up",
+      "description": "Sign up"
+    },
+    "linkWithGoogle": {
+      "message": "Link with Google",
+      "description": "Link with Google"
+    },
+    "signUpWithEmailPassword": {
+      "message": "Sign up with Email + Password",
+      "description": "Sign up with Email + Password"
+    },
+    "signUpWithGoogle": {
+      "message": "Sign up with Google",
+      "description": "Sign up with Google"
+    },
+    "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+      "message": "Set up your account with an email and password to enable data syncing and access on other devices.",
+      "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+    },
+    "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+      "message": "Access and sync your data anywhere with an account.",
+      "description": "Access and sync your data anywhere with an account."
+    },
+    "byAddingYourDetails": {
+      "message": "By adding your details",
+      "description": "By adding your details"
+    },
+    "bySigningUp": {
+      "message": "By signing up",
+      "description": "By signing up"
+    },
+    "privacyPolicy": {
+      "message": "privacy policy",
+      "description": "privacy policy"
+    },
+    "youAgreeToOur": {
+      "message": "you agree to our",
+      "description": "you agree to our"
+    },
+    "termsOfUse": {
+      "message": "terms of use",
+      "description": "terms of use"
+    },
+    "continueAsGuest": {
+      "message": "Continue as guest",
+      "description": "Continue as guest"
+    },
+    "somethingWentWrongSigningUp": {
+      "message": "Something went wrong signing up",
+      "description": "Something went wrong signing up"
+    },
+    "newAccount": {
+      "message": "New account",
+      "description": "New account"
+    },
+    "logIn": {
+      "message": "Log in",
+      "description": "Log in"
+    },
+    "signIn": {
+      "message": "Sign in",
+      "description": "Sign in"
+    },
+    "signInWithGoogle": {
+      "message": "Sign in with Google",
+      "description": "Sign in with Google"
+    },
+    "or": {
+      "message": "or",
+      "description": "or"
+    },
+    "alreadyHaveAnAccount": {
+      "message": "Already have an account? Sign in here:",
+      "description": "Already have an account? Sign in here:"
+    },
+    "forgotYourPassword": {
+      "message": "Forgot your password?",
+      "description": "Forgot your password?"
+    },
+    "enterYourEmailToResetYourPassword": {
+      "message": "Enter your email to reset your password",
+      "description": "Enter your email to reset your password"
+    },
+    "sendMeAResetPasswordLink": {
+      "message": "Send me a reset password link",
+      "description": "Send me a reset password link"
+    },
+    "hide": {
+      "message": "Hide",
+      "description": "Hide"
+    },
+    "show": {
+      "message": "Show",
+      "description": "Show"
+    },
+    "password": {
+      "message": "Password",
+      "description": "Password"
+    },
+    "email": {
+      "message": "Email",
+      "description": "Email"
+    },
+    "turnNoteInto": {
+      "message": "Turn this note into a site",
+      "description": "Turn this note into a site"
+    },
+    "noCustomIconsUploaded": {
+      "message": "No custom icons uploaded",
+      "description": "No custom icons uploaded"
+    },
+    "upgradeToProPlanToUploadAndUseCustomIcons": {
+      "message": "Upgrade to the Pro plan to upload and use custom icons",
+      "description": "Upgrade to the Pro plan to upload and use custom icons"
+    },
+    "saveAsNewGroupAndClose": {
+      "message": "Save as new group and close",
+      "description": "Save as new group and close"
+    },
+    "saveImageTo": {
+      "message": "Save image to",
+      "description": "Save image to"
+    },
+    "showContent": {
+      "message": "Show content",
+      "description": "Show content"
+    },
+    "hideContent": {
+      "message": "Hide content",
+      "description": "Hide content"
+    },
+    "looksLikeImage": {
+      "message": "Looks like an image",
+      "description": "Looks like an image"
+    },
+    "turnNoteIntoImage": {
+      "message": "Turn this note into an image",
+      "description": "Turn this note into an image"
+    },
+    "copyDone": {
+      "message": "Copy done",
+      "description": "Copy done"
+    },
+    "putSavedGroupsFirst": {
+      "message": "Put saved groups first",
+      "description": "Put saved groups first"
+    },
+    "putSavedGroupsFirstDetails": {
+      "message": "Place saved groups to the far left",
+      "description": "Place saved groups to the far left"
+    }
+}

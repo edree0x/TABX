@@ -1,0 +1,1922 @@
+{
+  "extensionName": {
+    "message": "TabX - Smart flikhanterare",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Få en översikt över dina flikar med en TabX. Organisera webbsidor, anteckna och synkronisera enkelt till olika enheter.",
+    "description": "A description of the extension"
+  },
+  "buttonLabel": {
+    "message": "Lägg till sida/bild",
+    "description": "Label for adding custom url site"
+  },
+  "limitReached": {
+    "message": "Gräns uppnådd",
+    "description": "Label for limit reached"
+  },
+  "limitReachedSubtitle": {
+    "message": "Du har nått det maximala antalet sparade sidor på gratisplanen.",
+    "description": "Label for limit reached subtitle"
+  },
+  "AddCustomUrl": {
+    "message": "Lägg till en anpassad URL",
+    "description": "Label for adding custom url"
+  },
+  "AddCustomUrlSubtitle": {
+    "message": "Du kan även använda file:/// för att länka till lokala filer",
+    "description": "Label for adding custom url subtitle"
+  },
+  "titleIsRequired": {
+    "message": "Titel krävs",
+    "description": "Label for title is required"
+  },
+  "urlIsRequired": {
+    "message": "URL krävs",
+    "description": "Label for url is required"
+  },
+  "orAddPredefined": {
+    "message": "Eller lägg till en fördefinierad .new genväg till gruppen:",
+    "description": "Label for or add a predefined shortcut"
+  },
+  "saveAsNewGroup": {
+    "message": "Spara som ny grupp",
+    "description": "Label for save as new group"
+  },
+  "closeWindow": {
+    "message": "Stäng fönster",
+    "description": "Label for close window"
+  },
+  "removeDuplicates": {
+    "message": "Ta bort duplicerade",
+    "description": "Label for remove duplicates"
+  },
+  "pinSidebar": {
+    "message": "Fäst sidofältet",
+    "description": "Label for pin sidebar"
+  },
+  "unpinSidebar": {
+    "message": "Lossa sidofältet",
+    "description": "Label for unpin sidebar"
+  },
+  "gridView": {
+    "message": "Rutnätvy",
+    "description": "Label for grid view"
+  },
+  "newWindow": {
+    "message": "Nytt fönster",
+    "description": "Label for new window"
+  },
+  "deleteNote": {
+    "message": "Radera anteckning",
+    "description": "Label for delete note"
+  },
+  "deteleToDo": {
+    "message": "Radera att-göra",
+    "description": "Label for detele to-do"
+  },
+  "editReminder": {
+    "message": "Redigera påminnelse",
+    "description": "Label for edit reminder"
+  },
+  "setReminder": {
+    "message": "Ställ in påminnelse",
+    "description": "Label for set reminder"
+  },
+  "copyContent": {
+    "message": "Kopiera innehåll",
+    "description": "Label for copy content"
+  },
+  "textCopied": {
+    "message": "Text kopierad",
+    "description": "Label for text copied"
+  },
+  "textCopiedSubtitle": {
+    "message": "Anteckningen har kopierats till ditt urklipp",
+    "description": "Label for text copied subtitle"
+  },
+  "couldNotCopy": {
+    "message": "Kunde inte kopiera till ditt urklipp. Försök igen.",
+    "description": "Label for could not copy"
+  },
+  "addEmoji": {
+    "message": "Lägg till emoji",
+    "description": "Label for add emoji"
+  },
+  "setColor": {
+    "message": "Ange färg",
+    "description": "Label for set color"
+  },
+  "setAsNote": {
+    "message": "Ange som anteckning",
+    "description": "Label for set as note"
+  },
+  "setAsToDo": {
+    "message": "Ange som att-göra",
+    "description": "Label for set as to-do"
+  },
+  "saved": {
+    "message": "Sparad",
+    "description": "Label for saved"
+  },
+  "tabSavedSuccess": {
+    "message": "Fliken sparades framgångsrikt",
+    "description": "Label for tab saved successfully"
+  },
+  "errorFetchingWorkspace": {
+    "message": "Fel vid hämtning av arbetsyta",
+    "description": "Label for error fetching workspace"
+  },
+  "errorSavingTab": {
+    "message": "Fel vid sparning av sida",
+    "description": "Label for error saving tab"
+  },
+  "userNotSignedIn": {
+    "message": "Användare inte inloggad",
+    "description": "Label for user not signed in"
+  },
+  "errorFetchingData": {
+    "message": "Fel vid hämtning av data",
+    "description": "Label for error fetching data"
+  },
+  "noteSavedSuccess": {
+    "message": "Anteckningen sparades framgångsrikt",
+    "description": "Label for note saved successfully"
+  },
+  "errorSavingNote": {
+    "message": "Fel vid sparning av anteckning",
+    "description": "Label for error saving note"
+  },
+  "remindersAndWorkspacesUpdatedSuccess": {
+    "message": "Påminnelser och arbetsytor uppdaterades framgångsrikt",
+    "description": "Label for reminders and workspaces updated successfully"
+  },
+  "errorUpdatingRemindersAndWorkspaces": {
+    "message": "Fel vid uppdatering av påminnelser och arbetsytor",
+    "description": "Label for error updating reminders and workspaces"
+  },
+  "editTitle": {
+    "message": "Redigera titel",
+    "description": "Label for edit title"
+  },
+  "editSymbol": {
+    "message": "Redigera symbol",
+    "description": "Label for edit symbol"
+  },
+  "expand": {
+    "message": "Expandera",
+    "description": "Label for expand"
+  },
+  "collapse": {
+    "message": "Kollapsa",
+    "description": "Label for collapse"
+  },
+  "openAsGroup": {
+    "message": "Öppna som grupp",
+    "description": "Label for open as group"
+  },
+  "dropToRemove1ItemFromStack": {
+    "message": "Släpp för att ta bort 1 objekt från stacken",
+    "description": "Label for drop to remove 1 item from stack"
+  },
+  "clickToPerformActionsOnAllTabs": {
+    "message": "Klicka här för att utföra åtgärder på alla sidor",
+    "description": "Label for click to perform actions on all tabs"
+  },
+  "saveAllTabsIntoNewGroup": {
+    "message": "Spara alla till ny grupp",
+    "description": "Label for save all into new group"
+  },
+  "saveAllIntoExistingGroup": {
+    "message": "Spara alla till befintlig grupp",
+    "description": "Label for save all into existing group"
+  },
+  "closeAllTabs": {
+    "message": "Stäng alla sidor",
+    "description": "Label for close all tabs"
+  },
+  "groupsAreSortedIntoEditableCategories": {
+    "message": "Grupper sorteras i redigerbara kategorier som sedan sorteras i arbetsytor.",
+    "description": "Label for groups are sorted into editable categories"
+  },
+  "use": {
+    "message": "Använd",
+    "description": "Use"
+  },
+  "toQuicklyJumpBetweenCategories": {
+    "message": "etc för att snabbt hoppa mellan kategorier och",
+    "description": "etc to quickly jump between categories and"
+  },
+  "seeAllWorkspaces": {
+    "message": "se alla arbetsytor.",
+    "description": "see all workspaces."
+  },
+  "inTheTopRightCorner": {
+    "message": "I det övre högra hörnet hittar du:",
+    "description": "In the top-right corner, you'll find:"
+  },
+  "search": {
+    "message": "Sök",
+    "description": "Search"
+  },
+  "actionMenu": {
+    "message": "Åtgärdsmeny",
+    "description": "Action menu"
+  },
+  "remindersOverview": {
+    "message": "Översikt över påminnelser",
+    "description": "Reminders overview"
+  },
+  "share": {
+    "message": "Dela",
+    "description": "Share"
+  },
+  "userDetails": {
+    "message": "Användardetaljer",
+    "description": "User details"
+  },
+  "done": {
+    "message": "Klar",
+    "description": "Done"
+  },
+  "cancel": {
+    "message": "Avbryt",
+    "description": "Cancel"
+  },
+  "delete": {
+    "message": "Radera",
+    "description": "Delete"
+  },
+  "thatSIt": {
+    "message": "Det var allt!",
+    "description": "That's it!"
+  },
+  "findMoreTipsInOurGuide": {
+    "message": "Hitta fler tips i vår guide, inklusive hur du sparar textutdrag från webbplatser, skapar/delar arbetsytor, fler val, genvägar och mer på:",
+    "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+  },
+  "windowMenu": {
+    "message": "Fönstermeny",
+    "description": "Window menu"
+  },
+  "next": {
+    "message": "Nästa",
+    "description": "Next"
+  },
+  "showMeAround": {
+    "message": "Visa mig runt",
+    "description": "Show me around"
+  },
+  "welcomeToTabX": {
+    "message": "Välkommen till TabX",
+    "description": "Welcome to TabX"
+  },
+  "TabXHelpsYouManageTabs": {
+    "message": "TabX hjälper dig att hantera sidor, lägga till anteckningar och ställa in påminnelser, allt inom lättanvända Kanban-vyer.",
+    "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+  },
+  "beforeWeBeginOurAppTourWeStartWith": {
+    "message": "Innan vi börjar vår rundtur i appen, startar vi med ljus/mörk lägespreferens (kan också ändras senare i inställningarna).",
+    "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+  },
+  "inTheLeftSidebar": {
+    "message": "I den vänstra sidopanelen visas alla dina öppna sidor i det aktuella fönstret. Här kan du enkelt hantera dina sidor och sidogrupper.",
+    "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+  },
+  "inTheTopLeftCorner": {
+    "message": "I det övre vänstra hörnet hittar du arbetsytamenyn, där du kan skapa nya arbetsytor, hantera befintliga och komma åt inställningar.",
+    "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+  },
+  "step": {
+    "message": "Steg",
+    "description": "Step"
+  },
+  "skipTour": {
+    "message": "Hoppa över turen",
+    "description": "Skip tour"
+  },
+  "toCreateYourFirstGroup": {
+    "message": "För att skapa din första grupp kan du dra och släppa en eller flera flikar till den visade släppzonen.",
+    "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+  },
+  "youCanThenDragMoreTabsIntoTheGroup": {
+    "message": "Du kan sedan dra flera sidor till gruppen eller skapa en ny.",
+    "description": "You can then drag more tabs into the group or create another."
+  },
+  "toCreateNewGroups": {
+    "message": "för att skapa nya grupper.",
+    "description": "to create new groups."
+  },
+  "getStarted": {
+    "message": "Kom igång!",
+    "description": "Get started!"
+  },
+  "showWorkspaces": {
+    "message": "Visa arbetsytor",
+    "description": "Show workspaces"
+  },
+  "general": {
+    "message": "Allmänt",
+    "description": "General"
+  },
+  "appearance": {
+    "message": "Utseende",
+    "description": "Appearance"
+  },
+  "data": {
+    "message": "Data",
+    "description": "Data"
+  },
+  "openLinksInNewTab": {
+    "message": "Öppna länkar i ny flik",
+    "description": "Open links in new tab"
+  },
+  "jumpToOpenedTab": {
+    "message": "Hoppa till/fokusera på öppen flik",
+    "description": "Jump/focus opened tab"
+  },
+  "keyboardShortcuts": {
+    "message": "Tangentbordsgenvägar",
+    "description": "Keyboard shortcuts"
+  },
+  "changeDefaultKeyBindings": {
+    "message": "Ändra standardtangentbindningar",
+    "description": "Change default key-bindings"
+  },
+  "guideAndHelp": {
+    "message": "Guide & Hjälp",
+    "description": "Guide & Help"
+  },
+  "guideAndHelpSubtitle": {
+    "message": "Hitta svar på vanliga frågor, lär dig hur du använder tillägget och få support på:",
+    "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+  },
+  "retakeTour": {
+    "message": "Gå om turen",
+    "description": "Retake tour"
+  },
+  "seeTheExtensionWalkthrough": {
+    "message": "Se tilläggets genomgång (6 steg)",
+    "description": "See the extension walkthrough"
+  },
+  "showSiteUrl": {
+    "message": "Visa webbplats-URL",
+    "description": "Show site URL"
+  },
+  "showSiteUrlDetails": {
+    "message": "Växla att visa webbplatsernas URL",
+    "description": "Toggle sites URL being shown"
+  },
+  "showWorkspaceEmoji": {
+    "message": "Visa arbetsytans emoji",
+    "description": "Show workspace emoji"
+  },
+      "showWorkspaceEmojiDetails": {
+      "message": "Visa aktuell arbetsytas emoji bredvid kategorier",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "Dölj gruppsymbol",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "Dölj emoji/symbol på grupper",
+      "description": "Hide the emoji/symbol on groups"
+    },
+  "showTrashDropZone": {
+    "message": "Visa papperskorgens släppzon",
+    "description": "Show trash drop-zone"
+  },
+  "showTrashDropZoneDetails": {
+    "message": "Släpp objekt i det röda området för att radera dem",
+    "description": "Drop items off into the red area to delete them"
+  },
+  "trashDropZonePosition": {
+    "message": "Papperskorgens släppzon-position",
+    "description": "Trash drop-zone position"
+  },
+  "trashDropZonePositionDetails": {
+    "message": "Ändra var zonen ska visas",
+    "description": "Select trash drop-zone location"
+  },
+  "showMinMaxButton": {
+    "message": "Visa min/max-knapp",
+    "description": "Show min/max button"
+  },
+  "showMinMaxButtonDetails": {
+    "message": "Visa min/max-knapp för grupper utanför menyn",
+    "description": "Show min/max button for groups outside menu"
+  },
+  "exportData": {
+    "message": "Exportera data",
+    "description": "Export data"
+  },
+  "exportDataDetails": {
+    "message": "Exportera aktuell arbetsyta",
+    "description": "Export current workspace"
+  },
+  "importData": {
+    "message": "Importera data",
+    "description": "Import data"
+  },
+  "importDataDetails": {
+    "message": "Importera arbetsyta från en fil",
+    "description": "Import workspace from a file"
+  },
+  "openNewTab": {
+    "message": "Öppna ny flik för att initiera...",
+    "description": "Open New Tab to initialize..."
+  },
+  "noSitesInside": {
+    "message": "Inga webbplatser inuti",
+    "description": "No sites inside"
+  },
+  "openAll": {
+    "message": "Öppna alla",
+    "description": "Open all"
+  },
+  "sites": {
+    "message": "sidor",
+    "description": "sites"
+  },
+  "site": {
+    "message": "sida",
+    "description": "site"
+  },
+  "updateGroup": {
+    "message": "Uppdatera grupp",
+    "description": "Update group"
+  },
+  "closeGroup": {
+    "message": "Stäng grupp",
+    "description": "Close group"
+  },
+  "groupCreated": {
+    "message": "Grupp skapad",
+    "description": "Group created"
+  },
+  "wasAddedAsAGroup": {
+    "message": "lades till som en grupp",
+    "description": "was added as a group"
+  },
+  "maxGroupsReached": {
+    "message": "Maximalt antal grupper nått",
+    "description": "Max groups reached"
+  },
+  "createNewCategory": {
+    "message": "Skapa en ny kategori för att skapa fler grupper",
+    "description": "Create a new category to create more groups"
+  },
+    "permissionDenied": {
+      "message": "Tillstånd nekades",
+      "description": "Permission was denied"
+    },
+    "noAccessToTopsites": {
+      "message": "Ingen åtkomst till mest använda webbplatser",
+      "description": "No access to topsites"
+    },
+    "noAccessToBookmarks": {
+      "message": "Ingen åtkomst till bokmärken",
+      "description": "No access to bookmarks"
+    },
+    "addImportedSites": {
+      "message": "Lägg till/importera webbplatser",
+      "description": "Add/import sites"
+    },
+    "yourMostVisitedSites": {
+      "message": "Dina mest besökta webbplatser",
+      "description": "Your most visited sites"
+    },
+    "yourBookmarks": {
+      "message": "Dina bokmärken",
+      "description": "Your bookmarks"
+    },
+    "needsOneTimePermission": {
+      "message": "Behöver engångs tillstånd",
+      "description": "Needs a one-time permission"
+    },
+    "grantAccess": {
+      "message": "Godkänn tillstånd",
+      "description": "Grant access"
+    },
+    "noBookmarksFound": {
+      "message": "Inga bokmärken hittade",
+      "description": "No bookmarks found"
+    },
+    "workspaceFull": {
+      "message": "Arbetsyta full",
+      "description": "Workspace full"
+    },
+    "maximum8CategoriesPerWorkspace": {
+      "message": "Maximalt 8 kategorier per arbetsyta", 
+      "description": "Maximum 8 categories per workspace"
+    }, 
+    "editCategories": {
+      "message": "Redigera kategorier", 
+      "description": "Edit categories"
+    },
+    "maximumOf8CategoriesReached": {
+      "message": "Maxgräns på 8 kategorier nådd",
+      "description": "Maximum of 8 categories reached"
+    },
+    "newCategory": {
+      "message": "Ny kategori", 
+      "description": "New category"
+    },
+    "areYouSureYouWantToDeleteThisCategory": {
+      "message": "Är du säker på att du vill radera denna kategori?",
+      "description": "Are you sure you want to delete this category?"
+    },
+    "allContainingGroupsAndSavedItemsWillBeDeleted": {
+      "message": "Alla grupper och sparade objekt kommer att raderas",
+      "description": "All containing groups and saved items will be deleted"
+    },
+    "noMatch": {
+      "message": "Inget match",
+      "description": "No match"
+    },
+    "noTabsHereNeat": {
+      "message": "Inga flikar här, snyggt!",
+      "description": "No tabs here, neat!"
+    },
+    "clearInput": {
+      "message": "Rensa input",
+      "description": "Clear input"
+    },
+    "toNavigate": {
+      "message": "navigera",
+      "description": "to navigate"
+    },
+    "addAsGroup": {
+      "message": "Lägg till som grupp till aktuell kategori", 
+      "description": "Add as group to current category"
+    },
+    "edit": {
+      "message": "Redigera",
+      "description": "Edit"
+    },
+    "restore": {
+      "message": "Återställ",
+      "description": "Restore"
+    },
+    "deletePermanently": {
+      "message": "Radera permanent",
+      "description": "Delete permanently"
+    },
+    "editName": {
+      "message": "Redigera namn",
+      "description": "Edit name"
+    },
+    "reminderDue": {
+      "message": "Påminnelse",
+      "description": "reminder due"
+    },
+    "remindersDue": {
+      "message": "Påminnelser",
+      "description": "reminders due"
+    },
+    "selectedItems": {
+      "message": "Valda objekt",
+      "description": "Selected items"
+    },
+    "stack": {
+      "message": "Stapla",
+      "description": "Stack"
+    },
+    "unstack": {
+      "message": "Ta bort stapel",
+      "description": "Unstack"
+    },
+    "item": {
+      "message": "objekt",
+      "description": "item"
+    },
+    "items": {
+      "message": "objekt",
+      "description": "items"
+    },
+    "toDo": {
+      "message": "att göra",   
+      "description": "to-do"
+    },
+    "note": {
+      "message": "anteckning",
+      "description": "note"
+    },
+    "deleteItems": {
+      "message": "Radera objekt", 
+      "description": "Delete items"
+    },
+    "openPricingPage": {
+      "message": "Se priser",
+      "description": "Open pricing page"
+    },
+    "proPlanOnly": {
+      "message": "Pro plan endast",
+      "description": "Pro plan only"
+    },
+    "upload": {
+      "message": "Ladda upp",
+      "description": "Upload"
+    },
+    "clickToEdit": {
+      "message": "Klicka för att redigera",
+      "description": "Click to edit"
+    },
+    "resetToDefault": {
+      "message": "Återställ till standard",
+      "description": "Reset to default"
+    },
+    "typeShortcut": {
+      "message": "Skriv kortkommando",
+      "description": "Type shortcut"
+    },
+    "refetch": {
+      "message": "Hämta om",
+      "description": "Refetch"
+    },
+    "newWorkspace": {
+      "message": "Ny arbetsyta",
+      "description": "New workspace"
+    },
+    "upgradeToCollaborate": {
+      "message": "Uppgradera för att samarbeta",
+      "description": "Upgrade to collaborate"
+    },
+    "inviteAcceptedSuccessfully": {
+      "message": "Inbjudan accepterad",
+      "description": "Invite accepted successfully"
+    },
+    "inviteDeclined": {
+      "message": "Inbjudan avböjd",
+      "description": "Invite declined"
+    },
+    "somethingWentWrong": {
+      "message": "Något gick fel",
+      "description": "Something went wrong"
+    },
+    "pleaseTryAgain": {
+      "message": "Försök igen",
+      "description": "Please try again"
+    },
+    "invitedBy": {
+      "message": "Inbjuden av:",
+      "description": "Invited by"
+    },
+    "addUser": {
+      "message": "Lägg till användare",
+      "description": "Add user"
+    },
+    "addAndShareWorkspaceWith": {
+      "message": "Lägg till och dela arbetsyta med:",
+      "description": "Add and share workspace with"
+    },
+    "invite": {
+      "message": "Bjud in", 
+      "description": "Invite"
+    },
+    "yourTeam": {
+      "message": "Ditt team:",
+      "description": "Your team:"
+    },
+    "emptyAddMembers": {
+      "message": "Tomt. Lägg till medlemmar på",
+      "description": "Empty. Add members at"
+    },
+    "please": {
+      "message": "Var god", 
+      "description": "Please"
+    },
+    "upgradeYourPlan": {
+      "message": "uppgradera din plan",
+      "description": "Upgrade your plan"
+    },
+    "toUseTheRealtimeShareFeature": {
+      "message": "för att använda realtidsdelningsfunktionen",
+      "description": "to use the realtime share feature"
+    },
+    "add": {
+      "message": "Lägg till",
+      "description": "Add"
+    }, 
+    "workspaceShared": {
+      "message": "Arbetsyta delad",
+      "description": "Workspace shared"
+    },
+    "workspaceUnshared": {
+      "message": "Delning avbryten",
+      "description": "Workspace unshared"
+    },
+    "nowAccessibleViaPublicLink": {
+      "message": "Nu tillgänglig via offentlig länk",
+      "description": "Now accessible via public link"
+    },
+    "publicLinkRemoved": {
+      "message": "Offentlig länk borttagen",
+      "description": "Public link removed"
+    },
+    "shareAsReadOnlyPublicLink": {
+      "message": "Dela som endast läsbar offentlig länk",
+      "description": "Share as read-only public link"
+    },
+    "saveToNewGroup": {
+      "message": "Spara till ny grupp",
+      "description": "Save to new group"
+    },
+    "saveToGroup": {
+      "message": "Spara till grupp",
+      "description": "Save to group"
+    },
+    "toggleDarkmode": {
+      "message": "Växla mörkt läge",
+      "description": "Toggle darkmode"
+    },
+    "turnIntoNote": {
+      "message": "Omvandla till anteckning",    
+      "description": "Turn into note"
+    },
+    "turnIntoToDo": {
+      "message": "Omvandla till to-do",
+      "description": "Turn into To-do"
+    },
+    "closeColorPicker": {
+      "message": "Stäng färgval", 
+      "description": "Close color-picker"
+    }, 
+    "changeColor": {
+      "message": "Byt färg",
+      "description": "Change color"
+    },
+    "pinTab": {
+      "message": "Fäst flik",
+      "description": "Pin tab"
+    },
+    "unpinTab": {
+      "message": "Avfäst flik", 
+      "description": "Unpin tab"
+    },
+    "save": {
+      "message": "Spara",
+      "description": "Save"
+    },
+    "update": {
+      "message": "Uppdatera",
+      "description": "Update"
+    },
+    "deleteItem": {
+      "message": "Radera objekt",
+      "description": "Delete item"
+    },
+    "deleteItemFromStack": {
+      "message": "Radera objekt från stapel",
+      "description": "Delete item from stack"
+    },
+    "savedIn": {
+      "message": "Sparat i:",
+      "description": "Saved in:"
+    },
+    "changesNotSaved": {
+      "message": "Ändringar inte sparade",
+      "description": "Changes not saved"
+    },
+    "deleteFrom": {
+      "message": "Radera från",
+      "description": "Delete from"
+    },
+    "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+      "message": "Är du säker på att du vill radera detta sparade sida och anteckning?",
+      "description": "Are you sure you want to delete this saved site and note?"
+    },
+    "result": {
+      "message": "Resultat",
+      "description": "Result"
+    },
+    "notAvailableInWebVersion": {
+      "message": "Inte tillgänglig i webbversionen",
+      "description": "Not available in web version"
+    },
+    "pleaseAddBrowserExtension": {
+      "message": "Lägg till webbläsare tillägg för att komma åt",
+      "description": "Please add the browser extension to access"
+    },
+    "goTo": {
+      "message": "Gå till",
+      "description": "Go to"
+    },
+    "openSite": {
+      "message": "Öppna sida",
+      "description": "Open site"
+    },
+    "goToWorkspace": {
+      "message": "Gå till arbetsyta",
+      "description": "Go to Workspace"
+    },
+    "reschedule": {
+      "message": "Omplanera",
+      "description": "Reschedule"
+    },
+    "dataImportedSuccessfully": {
+      "message": "Data importerat",
+      "description": "Data imported successfully"
+    },
+    "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+      "message": "En ny arbetsyta har skapats med importerade data",
+      "description": "A new workspace has been created with the imported data"
+    },
+    "errorImportingData": {
+      "message": "Fel vid import av data",
+      "description": "Error importing data"
+    },
+    "newWorkspaceCreated": {
+      "message": "Ny arbetsyta skapad",
+      "description": "New workspace created"
+    },
+    "workspaceLimitReached": {
+      "message": "Arbetsytegräns uppnådd",
+      "description": "Workspace limit reached"
+    },
+    "upgradeToProPlanForMoreWorkspaces": {
+      "message": "Som gratisanvändare, är du begränsad till 1 arbetsyta. Uppgradera till Pro Plan för fler arbetsytor.",
+      "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+    },
+    "somethingWentWrongWhileCreatingWorkspace": {
+      "message": "Något gick fel vid skapande av arbetsyta, försök igen",
+      "description": "Something went wrong while creating workspace, please try again"
+    },
+    "loginFailed": {
+      "message": "Inloggning misslyckas",
+      "description": "Login failed"
+    },
+    "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+      "message": "Behöver tillstånd för identitet för att logga in med Google",
+      "description": "Please allow the identity permission to sign in with Google"
+    },
+    "accountUpgradedSuccessfully": {
+      "message": "Konto uppgraderat",
+      "description": "Account upgraded successfully"
+    },
+    "youCanNowSyncYourDataAcrossDevices": {
+      "message": "Du kan nu synkronisera dina data över enheter",
+      "description": "You can now sync your data across devices"
+    },
+    "cannotRemoveWorkspace": {
+      "message": "Kan inte ta bort arbetsyta",
+      "description": "Cannot remove workspace"
+    },
+    "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+      "message": "Du måste ha minst en arbetsyta där du är ägare, skapa en ny arbetsyta först för att ta bort den aktuella",
+      "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+    },
+    "workspaceRemoved": {
+      "message": "Arbetsyta borttagen",
+      "description": "Workspace removed"
+    },
+    "removedSuccessfully": {
+      "message": "Borttagen",
+      "description": "removed successfully"
+    },
+    "workspaceRemovalFailed": {
+      "message": "Arbetsyta borttagning misslyckas",
+      "description": "Workspace removal failed"
+    },
+    "groupMovedSuccessfully": {
+      "message": "Grupp flyttad",
+      "description": "Group moved successfully"
+    },
+    "groupMovedInto": {
+      "message": "flyttad till", 
+      "description": "moved into"
+    },
+    "groupMoveFailed": {
+      "message": "Grupp flyttning misslyckas",
+      "description": "Group move failed"
+    },
+    "tabsMovedSuccessfully": {
+      "message": "Sidor flyttade",
+      "description": "Tabs moved successfully"
+    },
+    "tabMovedSuccessfully": {
+      "message": "Sida flyttad",   
+      "description": "Tab moved successfully"
+    },
+    "tabMoveFailedPleaseTryAgain": {
+      "message": "Sida flyttning misslyckas, försök igen",
+      "description": "Tab move failed, please try again"
+    },
+    "couldNotFetchWorkspaceData": {
+      "message": "Kunde inte hämta arbetsyte data",
+      "description": "Could not fetch workspace data"
+    },
+    "errorUpdatingGroupWidth": {
+      "message": "Fel vid uppdatering av grupp bredd",
+      "description": "Error updating group width"
+    },
+    "errorUpdatingMetaImagePin": {
+      "message": "Fel vid uppdatering av meta bild",
+      "description": "Error updating meta image pin"
+    },
+    "saveDone": {
+      "message": "Sparat",
+      "description": "Save done"
+    },
+    "allActiveTabsSavedAndClosedInto": {
+      "message": "Alla aktiva sidor sparade och stängda in i",
+      "description": "All active tabs saved and closed into"
+    },
+    "groupSavedInto": {
+      "message": "Grupp sparad i",
+      "description": "Group saved into"
+    },
+    "tabsSavedInto": {
+      "message": "Sidor sparade i", 
+      "description": "Tabs saved into"
+    },
+    "categoryMovedSuccessfully": {
+      "message": "Kategori flyttad",
+      "description": "Category moved successfully"
+    },
+    "stackUnstacked": {
+      "message": "Stapel uppdelad",
+      "description": "Stack unstacked"
+    },
+    "sitesSplitIntoIndividualItems": {
+      "message": "Sidor uppdelade i enskilda objekt",
+      "description": "Sites split into individual items"
+    },
+    "stackCreated": {
+      "message": "Stapel skapad",
+      "description": "Stack created"
+    },
+    "sitesMergedIntoOneStackedItem": {
+      "message": "Sidor sammanfogade till en stapel",
+      "description": "Sites merged into one stacked item"
+    },
+    "errorUpdatingDatabaseOnStackAction": {
+      "message": "Fel vid uppdatering av databas",  
+      "description": "Error updating database on stack action"
+    },
+    "noteTurnedIntoSite": {
+      "message": "Anteckning omvandlad till sida",
+      "description": "Note turned into site"
+    },
+    "theNoteHasBeenTurnedIntoASite": {
+      "message": "Anteckningen har omvandlats till en sida",
+      "description": "The note has been turned into a site"
+    },
+    "groupUpdated": {
+      "message": "Grupp uppdaterad",
+      "description": "Group updated"
+    },
+    "sitesInGroupSyncedWithOpenTabGroup": {
+      "message": "Sidor i grupp synkroniserade med den öppna tabgruppen",
+      "description": "Sites in group synced with the open tab group"
+    },
+    "errorSyncingSitesInGroup": {
+      "message": "Fel vid synkronisering av sidor i grupp",
+      "description": "Error syncing sites in group"
+    },
+    "itemSorted": {
+      "message": "Objekt sorterat", 
+      "description": "Item sorted"
+    },
+    "theGroupsContentHasBeenSortedAlphabetically": {
+      "message": "Gruppens innehåll har sorterats alfabetiskt",
+      "description": "The groups content has been sorted alphabetically"
+    },
+    "noItemsToSort": {
+      "message": "Inga objekt att sortera",
+      "description": "No items to sort"
+    },
+    "thereSeemsToBeNoItemsInTheGroup": {
+      "message": "Det verkar inte finnas några objekt i gruppen",
+      "description": "There seems to be no items in the group"
+    },
+    "theGroupContentHasBeenSortedByDate": {
+      "message": "Gruppens innehåll har sorterats efter datum",
+      "description": "The group content has been sorted by date"
+    },
+    "allTextInsideGroupCopiedToClipboard": { 
+      "message": "All text in gruppen kopierat till urklipp",   
+      "description": "All text inside group copied to clipboard"
+    },
+    "noItemsToCopy": {
+      "message": "Inga objekt att kopiera",
+      "description": "No items to copy"
+    }, 
+    "groupDuplicated": {
+      "message": "Grupp duplicerad",
+      "description": "Group duplicated"
+    },
+    "duplicatedSuccessfully": {
+        "message": "Duplicerat",
+      "description": "duplicated successfully"
+    },
+    "createNewCategoryToCreateMoreGroups": {
+      "message": "Skapa en ny kategori för att skapa fler grupper",   
+      "description": "Create a new category to create more groups"
+    },
+    "stackedItems": {
+      "message": "Stapla objekt",
+      "description": "stacked items"
+    },
+    "stackedItemsDeleted": {
+      "message": "Staplel borttagen",
+      "description": "Stacked items deleted"
+    },
+    "itemDeleted": {
+      "message": "Objekt borttagen",
+      "description": "item deleted"
+    },
+    "itemsDeleted": {
+      "message": "Objekt borttagna",
+      "description": "items deleted"
+    },
+    "errorDeletingCategory": {
+      "message": "Fel vid borttagning av kategori",
+      "description": "Error deleting category"
+    },
+    "pleaseRefreshPageAndTryAgain": {
+      "message": "Uppdatera sidan och försök igen",
+      "description": "Please refresh page and try again"
+    },
+    "wasDeleted": {
+      "message": "borttagen",
+      "description": "was deleted"
+    },
+    "atLeastOneCategoryPerWorkspaceRequired": {
+      "message": "Minst en kategori per arbetsyta krävs", 
+      "description": "At least one category per workspace required"
+    },
+    "deleteNotPermitted": {
+      "message": "Inte tillåtet",
+      "description": "Delete not permitted"
+    },
+    "groupDeleted": {
+      "message": "Grupp borttagen",
+      "description": "Group deleted"
+    },
+    "theBinContainsYourLast50DeletedItems": {
+      "message": "Din papperskorg innehåller dina senaste 50 borttagna objekt.",
+      "description": "The bin contains your last 50 deleted items."
+    },
+    "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+      "message": "Genom att välja att återställa ett borttaget objekt, kommer det att skapas i den aktuellt valda kategorin.", 
+      "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+    },
+    "bin": {
+      "message": "Papperskorg",
+      "description": "Bin"
+    },
+    "areYouSureYouWantToDeleteThisWorkspace": {
+      "message": "Är du säker på att du vill radera denna arbetsyta?",
+      "description": "Are you sure you want to delete this workspace?"
+    },
+    "areYouSureYouWantToRemoveThisWorkspace": {
+      "message": "Är du säker på att du vill ta bort denna arbetsyta?",
+      "description": "Are you sure you want to remove this workspace?"
+    },
+    "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+      "message": "All containing categories, groups and saved items will be deleted for all users.",
+      "description": "All containing categories, groups and saved items will be deleted for all users."
+    },
+    "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+      "message": "Du kommer inte längre att ha tillgång till arbetsytan. Arbetsytan kommer fortfarande vara tillgänglig för andra användare.",
+      "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+    },
+    "remove": {
+      "message": "Radera",
+      "description": "Remove"
+    },
+    "areYouSureYouWantToClearAllReminders": {
+      "message": "Är du säker på att du vill radera alla påminnelser?",
+      "description": "Are you sure you want to clear all reminders?"
+    },
+    "youCantUndoThisAction": {
+      "message": "Du kan inte ångra denna åtgärd.",
+      "description": "You can't undo this action."
+    },
+    "clearReminders": {
+      "message": "Radera påminnelser", 
+      "description": "Clear reminders"
+    },
+    "clearAll": {
+      "message": "Radera alla",
+      "description": "Clear all"
+    },
+    "reminderCleared": {
+      "message": "Påminnelsen avstängd",
+      "description": "Reminder cleared"
+    },
+    "remindersCleared": {
+      "message": "Påminnelser avstängda",
+      "description": "Reminders cleared"
+    },
+    "reminderRemoved": {
+      "message": "Påminnelsen raderad",
+      "description": "Reminder removed"
+    },
+    "date": {
+      "message": "Datum:", 
+      "description": "Date:"
+    },
+    "unableToToggleToDo": {
+      "message": "Det gick inte att omvanlda till to-do",
+      "description": "Unable to toggle to-do"
+    },
+    "goToWorkspaceToEditItem": {
+      "message": "Gå till arbetsytan för att redigera objektet",
+      "description": "Go to workspace to edit item"
+    },
+    "repeating": {
+      "message": "Upprepar:", 
+      "description": "Repeating:"
+    },
+    "eachWeek": {
+      "message": "varje vecka",
+      "description": "each week"
+    },
+    "ofTheMonth": {
+      "message": "varje månad",
+      "description": "of the month"
+    },
+    "toEnableReminders": {
+      "message": "för att aktivera påminnelser",
+      "description": "to enable reminders"
+    },
+    "noReminders": {
+      "message": "Inga påminnelser",
+      "description": "No reminders"
+    },
+    "today": {
+      "message": "Idag", 
+      "description": "Today"
+    },
+    "minimize": {
+      "message": "Minimera",
+      "description": "Minimize"
+    },
+    "addSite": {
+      "message": "Lägg till sida/bild",
+      "description": "Add site/image"
+    },
+    "duplicateGroup": {
+      "message": "Duplicera grupp",
+      "description": "Duplicate group"
+    },
+    "copyAsText": {
+      "message": "Kopiera som text",
+      "description": "Copy as text"
+    },
+    "moveTo": {
+      "message": "Flytta till",
+      "description": "Move to"
+    },
+    "sortBy": {
+      "message": "Sortera efter",
+      "description": "Sort by"
+    },
+    "alphabetical": {
+      "message": "Alfabetiskt",
+      "description": "Alphabetical"
+    },
+    "dateAdded": {
+      "message": "Datum tillagt",
+      "description": "Date added"
+    },
+    "saveTo": {
+      "message": "Spara till",
+      "description": "Save to"
+    },
+    "closeAndMoveTo": {
+      "message": "Stäng och flytta till",
+      "description": "Close and move to"
+    },
+    "createGroupAndClose": {
+      "message": "Skapa grupp och stäng",
+      "description": "Create group and close"
+    },
+    "discard": {
+      "message": "Sömnläge",
+      "description": "Discard"
+    },
+    "pin": {
+      "message": "Fäst",
+      "description": "Pin"
+    },
+    "unpin": {
+      "message": "Avfäst",
+      "description": "Unpin"
+    },
+    "group": {
+      "message": "Grupp",
+      "description": "Group"
+    },
+    "ungroup": {
+      "message": "Dela upp", 
+      "description": "Ungroup"
+    },
+    "noUrlFound": {
+      "message": "Inget URL hittat",
+      "description": "No URL found"
+    },
+    "previewUnavailable": {
+      "message": "Ej tillgänglig",
+      "description": "Preview unavailable"
+    },
+    "tabGrouped": {
+      "message": "sida grupperad",   
+      "description": "tab grouped"
+    },
+    "tabsGrouped": {
+      "message": "sidor grupperade",
+      "description": "tabs grouped"
+    },
+    "groupCreatedFromSelectedTabs": {
+      "message": "Grupp skapad från valda sidor", 
+      "description": "Group created from selected tabs"
+    },
+    "tabAlreadyDiscarded": {
+      "message": "Sida redan i sömnläge",
+      "description": "Tab already discarded"
+    },
+    "doubleClickToReload": {
+      "message": "Dubbelklicka för att ladda om",
+      "description": "Double click to reload it"
+    },
+    "addTextSelectionToGroup": {
+      "message": "Spara markerad text till grupp",
+      "description": "Add text-selection to group"
+    },
+    "closeSiteAndSaveTo": {
+      "message": "Stäng sida och spara till:",
+      "description": "Close site and save to"
+    },
+    "close": {
+      "message": "stäng",
+      "description": "close"
+    },
+    "newGroup": {
+      "message": "Ny grupp", 
+      "description": "New group"
+    },
+    "savesLeftOnTrialPlan": {
+      "message": "sparningar kvar på trial plan", 
+      "description": "saves left on trial plan"
+    },
+    "manageAccount": {
+      "message": "Hantera konto",
+      "description": "Manage account"
+    },
+    "signOut": {
+      "message": "Logga ut", 
+      "description": "Sign out"
+    },
+    "warningBySigningOut": {
+      "message": "Varning: Om du loggar ut, kommer dina sparade data gå förlorade",
+      "description": "Warning: By signing out, your current saved data will be lost"
+    },
+    "sinceYouAreOnAGuestAccount": {
+      "message": "Eftersom du är på en gästkonto, kommer alla dina data gå förlorade om du loggar ut. För att behålla dina data, länka det med en e-post/lösenord eller Google.",
+      "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+    },
+    "yesSignMeOut": {
+      "message": "Ja, logga ut mig",
+      "description": "Yes, sign me out"
+    },
+    "importBookmarks": {
+      "message": "Importera bokmärken",
+      "description": "Import bookmarks"
+    },
+    "feedback": {
+      "message": "Feedback",
+      "description": "Feedback"
+    },
+    "settings": {
+      "message": "Inställningar", 
+      "description": "Settings"
+    },
+    "theme": {
+      "message": "Tema",
+      "description": "Theme"
+    },
+    "sendFeedback": {
+      "message": "Skicka feedback",
+      "description": "Send feedback"
+    },
+    "pleaseShareYourFeedbackWithUs": {
+      "message": "Skicka feedback till oss. Vi uppskattar och värderar dina åsikter.",
+      "description": "Please share your feedback with us. We appreciated and value your input."
+    },
+    "send": {
+      "message": "Skicka",
+      "description": "Send"
+    },
+    "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+      "message": "Endast arbetsyteägaren kan lägga till/ta bort användare och dela via offentlig URL.",
+      "description": "Only workspace owner can add/remove users and share via public URL."
+    },
+    "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+      "message": "Lägg till användare för att dela arbetsytan och samarbeta i realtid.",
+      "description": "Add users to share the current workspace and collaborate in real time."
+    },
+    "readMoreAboutSharing": {
+      "message": "Läs mer om delning",
+      "description": "Read more about sharing"
+    },
+    "here": {
+      "message": "här",
+      "description": "here"
+    },
+    "removeUser": {
+      "message": "Ta bort användare",
+      "description": "Remove user"
+    },
+    "pleaseEnterAValidEmailAddress": {
+      "message": "Ange en giltig e-postadress",
+      "description": "Please enter a valid email address"
+    },
+    "looksLikeThisUserHasBeenInvitedAlready": {
+      "message": "Det verkar som att denna användare har blivit inbjuden redan",
+      "description": "Looks like this user has already been invited"
+    },
+    "pleaseSeeListOfUsers": {
+      "message": "Se listan över användare",
+      "description": "Please see list of users"
+    },
+    "inviteSentTo": {
+      "message": "Inbjudan skickad till",
+      "description": "Invite sent to"
+    },
+    "categories": {
+      "message": "kategorier",
+      "description": "categories"
+    },
+    "category": {
+      "message": "kategori",
+      "description": "category"
+    },
+    "users": {
+      "message": "Användare", 
+      "description": "Users"
+    },
+    "moveUp": {
+      "message": "Flytta upp",
+      "description": "Move up"
+    },
+    "moveDown": {
+      "message": "Flytta ner",
+      "description": "Move down"
+    },
+    "day": {
+      "message": "dag",
+      "description": "day"
+    },
+    "days": {
+      "message": "dagar",
+      "description": "days"
+    },
+    "hour": {
+      "message": "timme",
+      "description": "hour"
+    },
+    "hours": {
+      "message": "timmar",
+      "description": "hours"
+    },
+    "minute": {
+      "message": "minut",
+      "description": "minute"
+    },
+    "minutes": {
+      "message": "minuter",
+      "description": "minutes"
+    },
+    "now": {
+      "message": "Nu",
+      "description": "Now"
+    },
+    "overdue": {
+      "message": "försenad",
+      "description": "overdue"
+    },
+    "and": {
+      "message": "och",
+      "description": "and"
+    },
+    "stackedSites": {
+      "message": "Stapel av sidor",
+      "description": "Stacked sites"
+    },
+    "due": {
+      "message": "",
+      "description": "due"
+    },
+    "dueCapital": {
+      "message": "NU",
+      "description": "DUE"
+    },
+    "reminder": {
+      "message": "Påminnelse",
+      "description": "Reminder"
+    },
+    "reminders": {
+      "message": "Påminnelser",
+      "description": "Reminders"
+    },
+    "upcoming": {
+      "message": "Kommande",
+      "description": "Upcoming"
+    },
+    "noUpcomingReminders": {
+      "message": "Inga kommande påminnelser",
+      "description": "No upcoming reminders"
+    },
+    "mon": {
+      "message": "Mån",
+      "description": "Mon"
+    },
+    "tue": {
+      "message": "Tis",
+      "description": "Tue"
+    },
+    "wed": {
+      "message": "Ons",
+      "description": "Wed"
+    },
+    "thu": {
+      "message": "Tor",
+      "description": "Thu"
+    },  
+    "fri": {
+      "message": "Fre",
+      "description": "Fri"
+    },
+    "sat": {
+      "message": "Lör",
+      "description": "Sat"
+    },
+    "sun": {  
+      "message": "Sön",
+      "description": "Sun"
+    },
+    "january": {
+      "message": "Januari",
+      "description": "January"
+    },
+    "february": {
+      "message": "Februari",  
+      "description": "February"
+    },
+    "march": {
+      "message": "Mars",
+      "description": "March"
+    },
+    "april": {
+      "message": "April",
+      "description": "April"  
+    },
+    "may": {
+      "message": "Maj",
+      "description": "May"
+    },
+    "june": {
+      "message": "Juni",
+      "description": "June"
+    },
+    "july": {
+      "message": "Juli",
+      "description": "July"
+    },
+    "august": {
+      "message": "Augusti",
+      "description": "August"
+    },
+    "september": {
+      "message": "September",
+      "description": "September"
+    },
+    "october": {
+      "message": "Oktober",
+      "description": "October"
+    },  
+    "november": {
+      "message": "November",      
+      "description": "November"
+    },
+    "december": {
+      "message": "December",
+      "description": "December"
+    },
+    "clear": {
+      "message": "Rensa", 
+      "description": "Clear"
+    },
+    "clearRepeat": {
+      "message": "Rensa + upprepa", 
+      "description": "Clear + repeat"
+    },
+    "removeAll": {
+      "message": "Rensa alla", 
+      "description": "Remove all"
+    },
+    "currentWorkspace": {
+      "message": "Aktuell arbetsyta", 
+      "description": "Current workspace"
+    },
+    "allWorkspaces": {
+      "message": "Alla arbetsytor", 
+      "description": "All workspaces"
+    },
+    "openTabs": {
+      "message": "Öppna sidor",
+      "description": "Open tabs"
+    },
+    "bookmarks": {
+      "message": "Bokmärken",
+      "description": "Bookmarks"
+    },
+    "giveItATitle": {
+      "message": "Give it a title",
+      "description": "Give it a title"
+    },
+    "noteUpdated": {
+      "message": "Anteckning uppdaterad", 
+      "description": "Note updated"
+    },
+    "errorUpdatingNote": {
+      "message": "Fel vid uppdatering av anteckning", 
+      "description": "Error updating note"
+    },
+    "active": {
+      "message": "aktiv",
+      "description": "active"
+    },
+    "paused": {
+      "message": "pausad",
+      "description": "paused"
+    },
+    "free": {
+      "message": "gratis", 
+      "description": "free"
+    },
+    "errorRemovingItem": {
+      "message": "Fel vid borttagning av objekt", 
+      "description": "Error removing item"
+    },
+    "errorRemovingSite": {
+      "message": "Fel vid borttagning av sida", 
+      "description": "Error removing site"
+    },
+    "itemRemoved": {
+      "message": "Objekt borttaget", 
+      "description": "Item removed"
+    },
+    "errorSavingSite": {
+      "message": "Fel vid sparning av sida", 
+      "description": "Error saving site"
+    },
+    "groupCreatedWithItem": {
+      "message": "Grupp skapad med objekt", 
+      "description": "Group created with item"
+    },
+    "loading": {
+      "message": "Laddar",
+      "description": "Loading"
+    },
+    "trialLimitReached": {
+      "message": "Testgräns nådd",
+      "description": "Trial limit reached"
+    },
+    "saveComplete": {
+      "message": "Sparat", 
+      "description": "Save complete"
+    },
+    "itemPermanentlyRemoved": {
+      "message": "Objekt permanent borttaget", 
+      "description": "Item permanently removed"
+    },
+    "itemRestored": {
+      "message": "Objekt återställt", 
+      "description": "Item restored"
+    },
+    "itemRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Objekt återställt till ny grupp i aktuell kategori", 
+      "description": "Item restored into Restored items in current category"
+    },
+    "restoredItems": {
+      "message": "Återställda objekt", 
+      "description": "Restored items"
+    },
+    "groupRestored": {
+      "message": "Grupp återställd", 
+      "description": "Group restored"
+    },
+    "groupRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Grupp återställd till ny grupp i aktuell kategori", 
+      "description": "Group restored into Restored items in current category"
+    },
+    "errorFetchingWorkspaceData": {
+      "message": "Fel vid hämtning av arbetsyte data", 
+      "description": "Error fetching workspace data"
+    },
+    "errorCreatingNewGroup": {
+      "message": "Fel vid skapande av ny grupp", 
+      "description": "Error creating new group"
+    },
+    "dropNotAllowed": {
+      "message": "Släpp inte tillåtet", 
+      "description": "Drop not allowed"
+    },
+    "groupsMerged": {
+      "message": "Grupper sammanslagna", 
+      "description": "Groups merged"
+    },
+    "mergedInto": {
+      "message": "förd till", 
+      "description": "merged into"
+    },
+    "userRemoved": {
+      "message": "Användare borttagen", 
+      "description": "User removed"
+    },
+    "somethingWentWrongRemovingUser": {
+      "message": "Något gick fel vid borttagning av användare", 
+      "description": "Something went wrong removing user"
+    },
+    "pleaseRefreshAndTryAgain": {
+      "message": "Ladda om sidan och försök igen", 
+      "description": "Please refresh and try again"
+    },
+    "maximumCategoriesReached": {
+      "message": "Max 8 kategorier per arbetsyta",  
+      "description": "Maximum 8 categories per workspace"
+    },
+    "addMoreBeforeMoving": {
+      "message": "Lägg till fler före flytt", 
+      "description": "Add more before moving"
+    },
+    "workspaceInviteRemoved": {
+      "message": "Arbetsyteinvitering borttagen", 
+      "description": "Workspace invite removed"
+    },
+    "reminderUpdated": {
+      "message": "Påminnelse uppdaterad", 
+      "description": "Reminder updated"
+    },
+    "reminderSet": {
+      "message": "Påminnelse satt", 
+      "description": "Reminder set"
+    },
+    "firstUp": {
+      "message": "Först upp", 
+      "description": "First up"
+    },
+    "looksLikeUrl": {
+      "message": "Ser ut som en URL",
+      "description": "Looks like a URL"
+    },
+    "turnNoteIntoSite": {
+      "message": "Omvandla denna anteckning till en sida",
+      "description": "Turn this note into a site"
+    },
+    "maximumLengthExceeded": {
+      "message": "Maxlängd nådd",
+      "description": "Maximum length exceeded"
+    },
+    "noteTruncatedTo5000Characters": {
+      "message": "Anteckning avkortad till 5000 tecken",
+      "description": "Note truncated to 5000 characters"
+    },
+    "noteRemoved": {
+      "message": "Anteckning borttagen",
+      "description": "Note removed"
+    },
+    "emptyNoteRemoved": {
+      "message": "Tom anteckning borttagen",
+      "description": "Empty note removed"
+    },
+    "feedbackSubmitted": {
+      "message": "Feedback skickat",
+      "description": "Feedback submitted"
+    },
+    "feedbackSubmissionFailed": {
+      "message": "Feedback skickning misslyckas",
+      "description": "Feedback submission failed"
+    },
+    "weReallyAppreciateYourValuableInput": {
+      "message": "Vi uppskattar din input",
+      "description": "We really appreciate your valuable input"
+    },
+    "pleaseTryAgainOrSendViaSupport": {
+      "message": "Försök igen eller skicka via", 
+      "description": "Please try again or send via"
+    },
+    "describeYourIdeaAndUsecase": {
+      "message": "Beskriv din idé och usecase", 
+      "description": "Describe your idea and usecase"
+    },
+    "describeTheIssueBugInDetail": {
+      "message": "Beskriv problemet i detalj", 
+      "description": "Describe the issue/bug in detail"
+    },
+    "otherThoughtsHere": {
+      "message": "Övrig feedback", 
+      "description": "Other thoughts here"
+    },
+    "passwordResetFailed": {
+      "message": "Lösenords reset misslyckas", 
+      "description": "Password reset failed"
+    },
+    "passwordResetEmailSent": {
+      "message": "Lösenord reset-email skickat", 
+      "description": "Password reset email sent"
+    },
+    "emailCannotBeEmpty": {
+      "message": "Email får inte vara tom",   
+      "description": "Email cannot be empty"
+    },
+    "notAValidEmail": {
+      "message": "Inte en giltig email",
+      "description": "Not a valid email"
+    },
+    "checkYourEmailForAPasswordResetLink": {
+      "message": "Kontrollera din email för en lösenordsåterställningslänk.",
+      "description": "Check your email for a password reset link."
+    },
+    "passwordMustBeAtLeast6Characters": {
+      "message": "Lösenord måste vara minst 6 tecken",
+      "description": "Password must be at least 6 characters"
+    },
+    "passwordMustBeLessThan128Characters": {
+      "message": "Lösenord måste vara mindre än 128 tecken",
+      "description": "Password must be less than 128 characters"
+    },
+    "passwordCannotBeEmpty": {
+      "message": "Lösenord får inte vara tom",
+      "description": "Password cannot be empty"
+    },
+    "updateAccount": {
+      "message": "Uppdatera konto",
+      "description": "Update account"
+    },
+    "signUp": {
+      "message": "Skapa konto", 
+      "description": "Sign up"
+    },
+    "linkWithGoogle": {
+      "message": "Länka med Google",
+      "description": "Link with Google"
+    },
+    "signUpWithEmailPassword": {
+      "message": "Skapa konto med Email + Lösenord", 
+      "description": "Sign up with Email + Password"
+    },
+    "signUpWithGoogle": {
+      "message": "Skapa konto med Google", 
+      "description": "Sign up with Google"
+    },
+    "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+      "message": "Konfigurera ditt konto med en email och lösenord för att aktivera datasyncning och åtkomst på andra enheter.",
+      "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+    },
+    "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+      "message": "Få tillgång till och synkronisera din data var som helst med ett konto.",
+      "description": "Access and sync your data anywhere with an account."
+    },
+    "byAddingYourDetails": {
+      "message": "Genom att lägga till dina detaljer",
+      "description": "By adding your details"
+    },
+    "bySigningUp": {
+      "message": "Genom att registrera dig",
+      "description": "By signing up"
+    },
+    "privacyPolicy": {
+      "message": "Integritetspolicy",
+      "description": "privacy policy"
+    },
+    "youAgreeToOur": {
+      "message": "samtycker du till vår",
+      "description": "you agree to our"
+    },
+    "termsOfUse": {
+      "message": "Användarvillkor",
+      "description": "terms of use"
+    },
+    "continueAsGuest": {
+      "message": "Fortsätt som gäst",
+      "description": "Continue as guest"
+    },
+    "somethingWentWrongSigningUp": {
+      "message": "Något gick fel vid registrering", 
+      "description": "Something went wrong signing up"
+    },
+    "newAccount": {
+      "message": "Nytt konto",
+      "description": "New account"
+    },
+    "logIn": {
+      "message": "Logga in",
+      "description": "Log in"
+    },
+    "signIn": {
+      "message": "Logga in",
+      "description": "Sign in"
+    },
+    "signInWithGoogle": {
+      "message": "Logga in med Google",
+      "description": "Sign in with Google"
+    },
+    "or": {
+      "message": "eller",
+      "description": "or"
+    },
+    "alreadyHaveAnAccount": {
+      "message": "Har du redan ett konto? Logga in här:",
+      "description": "Already have an account? Sign in here:"
+    },
+    "forgotYourPassword": {
+      "message": "Glömt ditt lösenord?",
+      "description": "Forgot your password?"
+    },
+    "enterYourEmailToResetYourPassword": {
+      "message": "Ange din email för att återställa ditt lösenord",
+      "description": "Enter your email to reset your password"
+    },
+    "sendMeAResetPasswordLink": {
+      "message": "Skicka mig en länk för återställning av lösenord",
+      "description": "Send me a reset password link"
+    },
+    "hide": {
+      "message": "Dölj",
+      "description": "Hide"
+    },
+    "show": {
+      "message": "Visa",
+      "description": "Show"
+    },
+    "password": {
+      "message": "Lösenord",
+      "description": "Password"
+    },
+    "email": {
+      "message": "Email",
+      "description": "Email"
+    },
+    "turnNoteInto": {
+      "message": "Omvandla till sida",
+      "description": "Turn this note into a site"
+    },
+    "noCustomIconsUploaded": {
+      "message": "Inga ikoner uppladdade",
+      "description": "No custom icons uploaded"
+    },
+    "upgradeToProPlanToUploadAndUseCustomIcons": {
+      "message": "Uppgradera till Pro-planen för att ladda upp och använda egna ikoner",
+      "description": "Upgrade to the Pro plan to upload and use custom icons"
+    },
+    "saveAsNewGroupAndClose": {
+      "message": "Spara som ny grupp och stäng",
+      "description": "Save as new group and close"
+    },
+    "saveImageTo": {
+      "message": "Spara bild till",
+      "description": "Save image to"
+    },
+    "imageSavedSuccess": {
+      "message": "Bild sparad",
+      "description": "Image saved successfully"
+    },
+    "errorSavingImage": {
+      "message": "Fel vid sparande av bild",
+      "description": "Error saving image"
+    },
+    "showContent": {
+      "message": "Visa innehåll",
+      "description": "Show content"
+    },
+    "hideContent": {
+      "message": "Dölj innehåll",
+      "description": "Hide content"
+    },
+    "looksLikeImage": {
+      "message": "Ser ut som en bild",
+      "description": "Looks like an image"
+    },
+    "turnNoteIntoImage": {
+      "message": "Omvandla denna anteckning till en bild",
+      "description": "Turn this note into an image"
+    },
+    "copyDone": {
+      "message": "Kopia klar",
+      "description": "Copy done"
+    },
+    "putSavedGroupsFirst": {
+      "message": "Sätt sparade grupper först",
+      "description": "Put saved groups first"
+    },
+    "putSavedGroupsFirstDetails": {
+      "message": "Placera sparade grupper längst till vänster",
+      "description": "Place saved groups to the far left"
+    }
+  }

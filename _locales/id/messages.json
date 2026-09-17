@@ -1,0 +1,1922 @@
+{
+    "extensionName": {
+      "message": "TabX - Pengelola Tab yang Mudah",
+      "description": "The name of the extension"
+    },
+    "extensionDescription": {
+      "message": "Ubah tab baru Anda menjadi dasbor yang powerful. Simpan tab & gambar, tambahkan catatan, dan sinkronkan antar perangkat.",
+      "description": "A description of the extension"
+    },
+    "buttonLabel": {
+      "message": "Tambah situs/gambar",
+      "description": "Label for adding custom url site"
+    },
+    "limitReached": {
+      "message": "Batas tercapai",
+      "description": "Label for limit reached"
+    },
+    "limitReachedSubtitle": {
+      "message": "Anda telah mencapai batas maksimum situs tersimpan pada paket gratis.",
+      "description": "Label for limit reached subtitle"
+    },
+    "AddCustomUrl": {
+      "message": "Tambah URL kustom",
+      "description": "Label for adding custom url"
+    },
+    "AddCustomUrlSubtitle": {
+      "message": "Anda juga dapat menggunakan file:/// untuk menautkan ke file lokal",
+      "description": "Label for adding custom url subtitle"
+    },
+    "titleIsRequired": {
+      "message": "Judul wajib diisi",
+      "description": "Label for title is required"
+    },
+    "urlIsRequired": {
+      "message": "URL wajib diisi",
+      "description": "Label for url is required"
+    },
+    "orAddPredefined": {
+      "message": "Atau tambahkan pintasan .new yang telah ditentukan ke grup:",
+      "description": "Label for or add a predefined shortcut"
+    },
+    "saveAsNewGroup": {
+      "message": "Simpan sebagai grup baru",
+      "description": "Label for save as new group"
+    },
+    "closeWindow": {
+      "message": "Tutup jendela",
+      "description": "Label for close window"
+    },
+    "removeDuplicates": {
+      "message": "Hapus duplikat",
+      "description": "Label for remove duplicates"
+    },
+    "pinSidebar": {
+      "message": "Sematkan bilah samping",
+      "description": "Label for pin sidebar"
+    },
+    "unpinSidebar": {
+      "message": "Lepas sematan bilah samping",
+      "description": "Label for unpin sidebar"
+    },
+    "gridView": {
+      "message": "Tampilan grid",
+      "description": "Label for grid view"
+    },
+    "newWindow": {
+      "message": "Jendela baru",
+      "description": "Label for new window"
+    },
+    "deleteNote": {
+      "message": "Hapus catatan",
+      "description": "Label for delete note"
+    },
+    "deteleToDo": {
+      "message": "Hapus tugas",
+      "description": "Label for detele to-do"
+    },
+    "editReminder": {
+      "message": "Edit pengingat",
+      "description": "Label for edit reminder"
+    },
+    "setReminder": {
+      "message": "Atur pengingat",
+      "description": "Label for set reminder"
+    },
+    "copyContent": {
+      "message": "Salin konten",
+      "description": "Label for copy content"
+    },
+    "textCopied": {
+      "message": "Teks disalin",
+      "description": "Label for text copied"
+    },
+    "textCopiedSubtitle": {
+      "message": "Catatan telah disalin ke clipboard Anda",
+      "description": "Label for text copied subtitle"
+    },
+    "couldNotCopy": {
+      "message": "Tidak dapat menyalin ke clipboard Anda. Silakan coba lagi.",
+      "description": "Label for could not copy"
+    },
+    "addEmoji": {
+      "message": "Tambah emoji",
+      "description": "Label for add emoji"
+    },
+    "setColor": {
+      "message": "Atur warna",
+      "description": "Label for set color"
+    },
+    "setAsNote": {
+      "message": "Atur sebagai catatan",
+      "description": "Label for set as note"
+    },
+    "setAsToDo": {
+      "message": "Atur sebagai tugas",
+      "description": "Label for set as to-do"
+    },
+    "saved": {
+      "message": "Tersimpan",
+      "description": "Label for saved"
+    },
+    "tabSavedSuccess": {
+      "message": "Tab berhasil disimpan",
+      "description": "Label for tab saved successfully"
+    },
+    "errorFetchingWorkspace": {
+      "message": "Gagal mengambil ruang kerja",
+      "description": "Label for error fetching workspace"
+    },
+    "errorSavingTab": {
+      "message": "Gagal menyimpan tab",
+      "description": "Label for error saving tab"
+    },
+    "userNotSignedIn": {
+      "message": "Pengguna belum masuk",
+      "description": "Label for user not signed in"
+    },
+    "errorFetchingData": {
+      "message": "Gagal mengambil data",
+      "description": "Label for error fetching data"
+    },
+    "noteSavedSuccess": {
+      "message": "Catatan berhasil disimpan",
+      "description": "Label for note saved successfully"
+    },
+    "imageSavedSuccess": {
+      "message": "Gambar berhasil disimpan",
+      "description": "Label for image saved successfully"
+    },
+    "errorSavingImage": {
+      "message": "Gagal menyimpan gambar",
+      "description": "Label for error saving image"
+    },
+    "errorSavingNote": {
+      "message": "Gagal menyimpan catatan",
+      "description": "Label for error saving note"
+    },
+    "remindersAndWorkspacesUpdatedSuccess": {
+      "message": "Pengingat dan ruang kerja berhasil diperbarui",
+      "description": "Label for reminders and workspaces updated successfully"
+    },
+    "errorUpdatingRemindersAndWorkspaces": {
+      "message": "Gagal memperbarui pengingat dan ruang kerja",
+      "description": "Label for error updating reminders and workspaces"
+    },
+    "editTitle": {
+      "message": "Edit judul",
+      "description": "Label for edit title"
+    },
+    "editSymbol": {
+      "message": "Edit simbol",
+      "description": "Label for edit symbol"
+    },
+    "expand": {
+      "message": "Perluas",
+      "description": "Label for expand"
+    },
+    "collapse": {
+      "message": "Ciutkan",
+      "description": "Label for collapse"
+    },
+    "openAsGroup": {
+      "message": "Buka sebagai grup",
+      "description": "Label for open as group"
+    },
+    "dropToRemove1ItemFromStack": {
+      "message": "Jatuhkan untuk menghapus 1 item dari tumpukan",
+      "description": "Label for drop to remove 1 item from stack"
+    },
+    "clickToPerformActionsOnAllTabs": {
+      "message": "Klik di sini untuk melakukan tindakan pada semua tab",
+      "description": "Label for click to perform actions on all tabs"
+    },
+    "saveAllTabsIntoNewGroup": {
+      "message": "Simpan semua ke grup baru",
+      "description": "Label for save all into new group"
+    },
+    "saveAllIntoExistingGroup": {
+      "message": "Simpan semua ke grup yang ada",
+      "description": "Label for save all into existing group"
+    },
+    "closeAllTabs": {
+      "message": "Tutup semua tab",
+      "description": "Label for close all tabs"
+    },
+    "groupsAreSortedIntoEditableCategories": {
+      "message": "Grup diurutkan ke dalam kategori yang dapat diedit, yang kemudian diurutkan ke dalam ruang kerja.",
+      "description": "Label for groups are sorted into editable categories"
+    },
+    "use": {
+      "message": "Gunakan",
+      "description": "Use"
+    },
+    "toQuicklyJumpBetweenCategories": {
+      "message": "dll untuk berpindah cepat antar kategori dan",
+      "description": "etc to quickly jump between categories and"
+    },
+    "seeAllWorkspaces": {
+      "message": "lihat semua ruang kerja.",
+      "description": "see all workspaces."
+    },
+    "inTheTopRightCorner": {
+      "message": "Di pojok kanan atas, Anda akan menemukan:",
+      "description": "In the top-right corner, you'll find:"
+    },
+    "search": {
+      "message": "Cari",
+      "description": "Search"
+    },
+    "actionMenu": {
+      "message": "Menu tindakan",
+      "description": "Action menu"
+    },
+    "remindersOverview": {
+      "message": "Ikhtisar pengingat",
+      "description": "Reminders overview"
+    },
+    "share": {
+      "message": "Bagikan",
+      "description": "Share"
+    },
+    "userDetails": {
+      "message": "Detail pengguna",
+      "description": "User details"
+    },
+    "done": {
+      "message": "Selesai",
+      "description": "Done"
+    },
+    "cancel": {
+      "message": "Batal",
+      "description": "Cancel"
+    },
+    "delete": {
+      "message": "Hapus",
+      "description": "Delete"
+    },
+    "thatSIt": {
+      "message": "Itu saja!",
+      "description": "That's it!"
+    },
+    "findMoreTipsInOurGuide": {
+      "message": "Temukan tips lebih lanjut dalam panduan kami, termasuk cara menyimpan potongan teks dari situs web, membuat/berbagi ruang kerja, pilihan ganda, pintasan, dan lainnya di:",
+      "description": "Find more tips in our guide, including how to save text-snippets from websites, creating/sharing workspaces, multi-select, shortcuts, and more at:"
+    },
+    "windowMenu": {
+      "message": "Menu jendela",
+      "description": "Window menu"
+    },
+    "next": {
+      "message": "Selanjutnya",
+      "description": "Next"
+    },
+    "showMeAround": {
+      "message": "Tunjukkan saya",
+      "description": "Show me around"
+    },
+    "welcomeToTabX": {
+      "message": "Selamat datang di TabX",
+      "description": "Welcome to TabX"
+    },
+    "TabXHelpsYouManageTabs": {
+      "message": "TabX membantu Anda mengelola tab, menambahkan catatan, dan mengatur pengingat semuanya dalam tampilan Kanban yang mudah digunakan.",
+      "description": "TabX helps you manage tabs, add notes, and set reminders all within easy-to-use Kanban views."
+    },
+    "beforeWeBeginOurAppTourWeStartWith": {
+      "message": "Sebelum kita mulai tur aplikasi, kita mulai dengan preferensi mode terang/gelap (dapat diubah nanti di pengaturan).",
+      "description": "Before we begin our app tour we start with light/dark mode preferences (can also be changed later in settings)."
+    },
+    "inTheLeftSidebar": {
+      "message": "Di bilah samping kiri, semua tab terbuka Anda di jendela saat ini ditampilkan. Di sini Anda dapat mengelola tab dan grup tab dengan mudah.",
+      "description": "In the left sidebar, all your open tabs in the current window are shown. Here you can manage your tabs and tab-groups with ease."
+    },
+    "inTheTopLeftCorner": {
+      "message": "Di pojok kiri atas, Anda akan menemukan menu ruang kerja, yang memungkinkan Anda membuat ruang kerja baru, mengelola yang ada, dan mengakses pengaturan.",
+      "description": "In the top-left corner, you'll find the workspaces menu, which allows you to create new workspaces, manage existing ones, and access settings."
+    },
+    "step": {
+      "message": "Langkah",
+      "description": "Step"
+    },
+    "skipTour": {
+      "message": "Lewati tur",
+      "description": "Skip tour"
+    },
+    "toCreateYourFirstGroup": {
+      "message": "Untuk membuat grup pertama Anda, Anda dapat menyeret dan menjatuhkan satu atau lebih tab ke zona drop yang ditampilkan.",
+      "description": "To create your first group, you can drag and drop one or more tabs into the shown drop-zone."
+    },
+    "youCanThenDragMoreTabsIntoTheGroup": {
+      "message": "Anda kemudian dapat menyeret lebih banyak tab ke dalam grup atau membuat yang lain. Anda juga dapat menggunakan ",
+      "description": "You can then drag more tabs into the group or create another."
+    },
+    "toCreateNewGroups": {
+      "message": "untuk membuat grup baru.",
+      "description": "to create new groups."
+    },
+    "getStarted": {
+      "message": "Mulai!",
+      "description": "Get started!"
+    },
+    "showWorkspaces": {
+      "message": "Tampilkan ruang kerja",
+      "description": "Show workspaces"
+    },
+    "general": {
+      "message": "Umum",
+      "description": "General"
+    },
+    "appearance": {
+      "message": "Tampilan",
+      "description": "Appearance"
+    },
+    "data": {
+      "message": "Data",
+      "description": "Data"
+    },
+    "openLinksInNewTab": {
+      "message": "Buka tautan di tab baru",
+      "description": "Open links in new tab"
+    },
+    "jumpToOpenedTab": {
+      "message": "Lompat/fokus ke tab yang dibuka",
+      "description": "Jump/focus opened tab"
+    },
+    "keyboardShortcuts": {
+      "message": "Pintasan keyboard",
+      "description": "Keyboard shortcuts"
+    },
+    "changeDefaultKeyBindings": {
+      "message": "Ubah pengikatan tombol default",
+      "description": "Change default key-bindings"
+    },
+    "guideAndHelp": {
+      "message": "Panduan & Bantuan",
+      "description": "Guide & Help"
+    },
+    "guideAndHelpSubtitle": {
+      "message": "Temukan jawaban untuk pertanyaan umum, pelajari cara menggunakan ekstensi, dan dapatkan dukungan di:",
+      "description": "Find answers to common questions, learn how to use the extension, and get support at:"
+    },
+    "retakeTour": {
+      "message": "Ulangi tur",
+      "description": "Retake tour"
+    },
+    "seeTheExtensionWalkthrough": {
+      "message": "Lihat panduan ekstensi (6 langkah)",
+      "description": "See the extension walkthrough"
+    },
+    "showSiteUrl": {
+      "message": "Tampilkan URL situs",
+      "description": "Show site URL"
+    },
+    "showSiteUrlDetails": {
+      "message": "Alihkan tampilan URL situs",
+      "description": "Toggle sites URL being shown"
+    },
+    "showWorkspaceEmoji": {
+      "message": "Tampilkan emoji ruang kerja",
+      "description": "Show workspace emoji"
+    },
+    "showWorkspaceEmojiDetails": {
+      "message": "Tampilkan emoji ruang kerja saat ini di samping kategori",
+      "description": "Show current workspace emoji next to categories"
+    },
+    "hideGroupSymbol": {
+      "message": "Sembunyikan simbol grup",
+      "description": "Hide group symbol"
+    },
+    "hideGroupSymbolDetails": {
+      "message": "Sembunyikan emoji/simbol pada grup",
+      "description": "Hide the emoji/symbol on groups"
+    },
+    "showTrashDropZone": {
+      "message": "Tampilkan zona drop sampah",
+      "description": "Show trash drop-zone"
+    },
+    "showTrashDropZoneDetails": {
+      "message": "Jatuhkan item ke area merah untuk menghapusnya",
+      "description": "Drop items off into the red area to delete them"
+    },
+    "trashDropZonePosition": {
+      "message": "Posisi zona drop sampah",
+      "description": "Trash drop-zone position"
+    },
+    "trashDropZonePositionDetails": {
+      "message": "Pilih di mana zona drop sampah harus ditampilkan",
+      "description": "Choose where the trash drop-zone should be shown"
+    },
+    "showMinMaxButton": {
+      "message": "Tampilkan tombol min/maks",
+      "description": "Show min/max button"
+    },
+    "showMinMaxButtonDetails": {
+      "message": "Tampilkan tombol min/maks untuk grup di luar menu",
+      "description": "Show min/max button for groups outside menu"
+    },
+    "exportData": {
+      "message": "Ekspor data",
+      "description": "Export data"
+    },
+    "exportDataDetails": {
+      "message": "Ekspor ruang kerja saat ini",
+      "description": "Export current workspace"
+    },
+    "importData": {
+      "message": "Impor data",
+      "description": "Import data"
+    },
+    "importDataDetails": {
+      "message": "Impor ruang kerja dari file",
+      "description": "Import workspace from a file"
+    },
+    "openNewTab": {
+      "message": "Buka Tab Baru untuk menginisialisasi...",
+      "description": "Open New Tab to initialize..."
+    },
+    "noSitesInside": {
+      "message": "Tidak ada situs di dalam",
+      "description": "No sites inside"
+    },
+    "openAll": {
+      "message": "Buka semua",
+      "description": "Open all"
+    },
+    "sites": {
+      "message": "situs",
+      "description": "sites"
+    },
+    "site": {
+      "message": "situs",
+      "description": "site"
+    },
+    "updateGroup": {
+      "message": "Perbarui grup",
+      "description": "Update group"
+    },
+    "closeGroup": {
+      "message": "Tutup grup",
+      "description": "Close group"
+    },
+    "groupCreated": {
+      "message": "Grup dibuat",
+      "description": "Group created"
+    },
+    "wasAddedAsAGroup": {
+      "message": "telah ditambahkan sebagai grup",
+      "description": "was added as a group"
+    },
+    "maxGroupsReached": {
+      "message": "Batas maksimum grup tercapai",
+      "description": "Max groups reached"
+    },
+    "createNewCategory": {
+      "message": "Buat kategori baru untuk membuat lebih banyak grup",
+      "description": "Create a new category to create more groups"
+    },
+    "permissionDenied": {
+      "message": "Izin ditolak",
+      "description": "Permission was denied"
+    },
+    "noAccessToTopsites": {
+      "message": "Tidak ada akses ke situs teratas",
+      "description": "No access to topsites"
+    },
+    "noAccessToBookmarks": {
+      "message": "Tidak ada akses ke markah",
+      "description": "No access to bookmarks"
+    },
+    "addImportedSites": {
+      "message": "Tambah/impor situs",
+      "description": "Add/import sites"
+    },
+    "yourMostVisitedSites": {
+      "message": "Situs yang paling sering Anda kunjungi",
+      "description": "Your most visited sites"
+    },
+    "yourBookmarks": {
+      "message": "Markah Anda",
+      "description": "Your bookmarks"
+    },
+    "needsOneTimePermission": {
+      "message": "Memerlukan izin satu kali",
+      "description": "Needs a one-time permission"
+    },
+    "grantAccess": {
+      "message": "Berikan akses",
+      "description": "Grant access"
+    },
+    "noBookmarksFound": {
+      "message": "Tidak ada markah ditemukan",
+      "description": "No bookmarks found"
+    },
+    "workspaceFull": {
+      "message": "Ruang kerja penuh",
+      "description": "Workspace full"
+    },
+    "maximum8CategoriesPerWorkspace": {
+      "message": "Maksimum 8 kategori per ruang kerja",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "editCategories": {
+      "message": "Edit kategori",
+      "description": "Edit categories"
+    },
+    "maximumOf8CategoriesReached": {
+      "message": "Maksimum 8 kategori tercapai",
+      "description": "Maximum of 8 categories reached"
+    },
+    "newCategory": {
+      "message": "Kategori baru",
+      "description": "New category"
+    },
+    "areYouSureYouWantToDeleteThisCategory": {
+      "message": "Apakah Anda yakin ingin menghapus kategori ini?",
+      "description": "Are you sure you want to delete this category?"
+    },
+    "allContainingGroupsAndSavedItemsWillBeDeleted": {
+      "message": "Semua grup dan item tersimpan yang ada di dalamnya akan dihapus",
+      "description": "All containing groups and saved items will be deleted"
+    },
+    "noMatch": {
+      "message": "Tidak ada yang cocok",
+      "description": "No match"
+    },
+    "noTabsHereNeat": {
+      "message": "Tidak ada tab di sini, rapi!",
+      "description": "No tabs here, neat!"
+    },
+    "clearInput": {
+      "message": "Hapus masukan",
+      "description": "Clear input"
+    },
+    "toNavigate": {
+      "message": "untuk navigasi",
+      "description": "to navigate"
+    },
+    "addAsGroup": {
+      "message": "Tambahkan sebagai grup ke kategori saat ini",
+      "description": "Add as group to current category"
+    },
+    "edit": {
+      "message": "Edit",
+      "description": "Edit"
+    },
+    "restore": {
+      "message": "Pulihkan",
+      "description": "Restore"
+    },
+    "deletePermanently": {
+      "message": "Hapus permanen",
+      "description": "Delete permanently"
+    },
+    "editName": {
+      "message": "Edit nama",
+      "description": "Edit name"
+    },
+    "reminderDue": {
+      "message": "pengingat jatuh tempo",
+      "description": "reminder due"
+    },
+    "remindersDue": {
+      "message": "pengingat jatuh tempo",
+      "description": "reminders due"
+    },
+    "selectedItems": {
+      "message": "Item terpilih",
+      "description": "Selected items"
+    },
+    "stack": {
+      "message": "Tumpuk",
+      "description": "Stack"
+    },
+    "unstack": {
+      "message": "Pisahkan tumpukan",
+      "description": "Unstack"
+    },
+    "item": {
+      "message": "item",
+      "description": "item"
+    },
+    "items": {
+      "message": "item",
+      "description": "items"
+    },
+    "toDo": {
+      "message": "tugas",
+      "description": "to-do"
+    },
+    "note": {
+      "message": "catatan",
+      "description": "note"
+    },
+    "deleteItems": {
+      "message": "Hapus item",
+      "description": "Delete items"
+    },
+    "openPricingPage": {
+      "message": "Buka halaman harga",
+      "description": "Open pricing page"
+    },
+    "proPlanOnly": {
+      "message": "Hanya paket Pro",
+      "description": "Pro plan only"
+    },
+    "upload": {
+      "message": "Unggah",
+      "description": "Upload"
+    },
+    "clickToEdit": {
+      "message": "Klik untuk mengedit",
+      "description": "Click to edit"
+    },
+    "resetToDefault": {
+      "message": "Kembalikan ke default",
+      "description": "Reset to default"
+    },
+    "typeShortcut": {
+      "message": "Ketik pintasan",
+      "description": "Type shortcut"
+    },
+    "refetch": {
+      "message": "Muat ulang",
+      "description": "Refetch"
+    },
+    "newWorkspace": {
+      "message": "Ruang kerja baru",
+      "description": "New workspace"
+    },
+    "upgradeToCollaborate": {
+      "message": "Tingkatkan untuk berkolaborasi",
+      "description": "Upgrade to collaborate"
+    },
+    "inviteAcceptedSuccessfully": {
+      "message": "Undangan berhasil diterima",
+      "description": "Invite accepted successfully"
+    },
+    "inviteDeclined": {
+      "message": "Undangan ditolak",
+      "description": "Invite declined"
+    },
+    "somethingWentWrong": {
+      "message": "Terjadi kesalahan",
+      "description": "Something went wrong"
+    },
+    "pleaseTryAgain": {
+      "message": "Silakan coba lagi",
+      "description": "Please try again"
+    },
+    "invitedBy": {
+      "message": "Diundang oleh:",
+      "description": "Invited by"
+    },
+    "addUser": {
+      "message": "Tambah pengguna",
+      "description": "Add user"
+    },
+    "addAndShareWorkspaceWith": {
+      "message": "Tambah dan bagikan ruang kerja dengan:",
+      "description": "Add and share workspace with"
+    },
+    "invite": {
+      "message": "Undang",
+      "description": "Invite"
+    },
+    "yourTeam": {
+      "message": "Tim Anda:",
+      "description": "Your team:"
+    },
+    "emptyAddMembers": {
+      "message": "Kosong. Tambahkan anggota di",
+      "description": "Empty. Add members at"
+    },
+    "please": {
+      "message": "Silakan",
+      "description": "Please"
+    },
+    "upgradeYourPlan": {
+      "message": "tingkatkan paket Anda",
+      "description": "Upgrade your plan"
+    },
+    "toUseTheRealtimeShareFeature": {
+      "message": "untuk menggunakan fitur berbagi waktu nyata",
+      "description": "to use the realtime share feature"
+    },
+    "add": {
+      "message": "Tambah",
+      "description": "Add"
+    }, 
+    "workspaceShared": {
+      "message": "Ruang kerja dibagikan",
+      "description": "Workspace shared"
+    },
+    "workspaceUnshared": {
+      "message": "Pembagian ruang kerja dibatalkan",
+      "description": "Workspace unshared"
+    },
+    "nowAccessibleViaPublicLink": {
+      "message": "Sekarang dapat diakses melalui tautan publik",
+      "description": "Now accessible via public link"
+    },
+    "publicLinkRemoved": {
+      "message": "Tautan publik dihapus",
+      "description": "Public link removed"
+    },
+    "shareAsReadOnlyPublicLink": {
+      "message": "Bagikan sebagai tautan publik hanya-baca",
+      "description": "Share as read-only public link"
+    },
+    "saveToNewGroup": {
+      "message": "Simpan ke grup baru",
+      "description": "Save to new group"
+    },
+    "saveToGroup": {
+      "message": "Simpan ke grup",
+      "description": "Save to group"
+    },
+    "toggleDarkmode": {
+      "message": "Beralih mode gelap",
+      "description": "Toggle darkmode"
+    },
+    "turnIntoNote": {
+      "message": "Ubah menjadi catatan",
+      "description": "Turn into note"
+    },
+    "turnIntoToDo": {
+      "message": "Ubah menjadi Tugas",
+      "description": "Turn into To-do"
+    },
+    "closeColorPicker": {
+      "message": "Tutup pemilih warna",
+      "description": "Close color-picker"
+    }, 
+    "changeColor": {
+      "message": "Ubah warna",
+      "description": "Change color"
+    },
+    "pinTab": {
+      "message": "Sematkan tab",
+      "description": "Pin tab"
+    },
+    "unpinTab": {
+      "message": "Lepas sematan tab",
+      "description": "Unpin tab"
+    },
+    "save": {
+      "message": "Simpan",
+      "description": "Save"
+    },
+    "update": {
+      "message": "Perbarui",
+      "description": "Update"
+    },
+    "deleteItem": {
+      "message": "Hapus item",
+      "description": "Delete item"
+    },
+    "deleteItemFromStack": {
+      "message": "Hapus item dari tumpukan",
+      "description": "Delete item from stack"
+    },
+    "savedIn": {
+      "message": "Disimpan di:",
+      "description": "Saved in:"
+    },
+    "changesNotSaved": {
+      "message": "Perubahan tidak disimpan",
+      "description": "Changes not saved"
+    },
+    "deleteFrom": {
+      "message": "Hapus dari",
+      "description": "Delete from"
+    },
+    "areYouSureYouWantToDeleteThisSavedSiteAndNote": {
+      "message": "Apakah Anda yakin ingin menghapus situs dan catatan tersimpan ini?",
+      "description": "Are you sure you want to delete this saved site and note?"
+    },
+    "result": {
+      "message": "Hasil",
+      "description": "Result"
+    },
+    "notAvailableInWebVersion": {
+      "message": "Tidak tersedia di versi web",
+      "description": "Not available in web version"
+    },
+    "pleaseAddBrowserExtension": {
+      "message": "Silakan tambahkan ekstensi browser untuk mengakses",
+      "description": "Please add the browser extension to access"
+    },
+    "goTo": {
+      "message": "Pergi ke",
+      "description": "Go to"
+    },
+    "openSite": {
+      "message": "Buka situs",
+      "description": "Open site"
+    },
+    "goToWorkspace": {
+      "message": "Pergi ke Ruang Kerja",
+      "description": "Go to Workspace"
+    },
+    "reschedule": {
+      "message": "Jadwalkan ulang",
+      "description": "Reschedule"
+    },
+    "dataImportedSuccessfully": {
+      "message": "Data berhasil diimpor",
+      "description": "Data imported successfully"
+    },
+    "aNewWorkspaceHasBeenCreatedWithTheImportedData": {
+      "message": "Ruang kerja baru telah dibuat dengan data yang diimpor",
+      "description": "A new workspace has been created with the imported data"
+    },
+    "errorImportingData": {
+      "message": "Kesalahan mengimpor data",
+      "description": "Error importing data"
+    },
+    "newWorkspaceCreated": {
+      "message": "Ruang kerja baru dibuat",
+      "description": "New workspace created"
+    },
+    "workspaceLimitReached": {
+      "message": "Batas ruang kerja tercapai",
+      "description": "Workspace limit reached"
+    },
+    "upgradeToProPlanForMoreWorkspaces": {
+      "message": "Sebagai pengguna gratis, Anda dibatasi 1 ruang kerja. Tingkatkan ke Paket Pro untuk ruang kerja lebih banyak.",
+      "description": "As a free user, you're limited to 1 workspace. Upgrade to the Pro Plan for more workspaces."
+    },
+    "somethingWentWrongWhileCreatingWorkspace": {
+      "message": "Terjadi kesalahan saat membuat ruang kerja, silakan coba lagi",
+      "description": "Something went wrong while creating workspace, please try again"
+    },
+    "loginFailed": {
+      "message": "Login gagal",
+      "description": "Login failed"
+    },
+    "pleaseAllowTheIdentityPermissionToSignInWithGoogle": {
+      "message": "Mohon izinkan perizinan identitas untuk masuk dengan Google",
+      "description": "Please allow the identity permission to sign in with Google"
+    },
+    "accountUpgradedSuccessfully": {
+      "message": "Akun berhasil ditingkatkan",
+      "description": "Account upgraded successfully"
+    },
+    "youCanNowSyncYourDataAcrossDevices": {
+      "message": "Anda sekarang dapat menyinkronkan data Anda antar perangkat",
+      "description": "You can now sync your data across devices"
+    },
+    "cannotRemoveWorkspace": {
+      "message": "Tidak dapat menghapus ruang kerja",
+      "description": "Cannot remove workspace"
+    },
+    "youNeedToHaveAtLeastOneWorkspaceWhereYouAreOwner": {
+      "message": "Anda perlu memiliki setidaknya satu ruang kerja di mana Anda adalah pemilik, buat ruang kerja baru terlebih dahulu untuk menghapus yang saat ini",
+      "description": "You need to have at least one workspace where you are owner, create a new workspace first to remove the current"
+    },
+    "workspaceRemoved": {
+      "message": "Ruang kerja dihapus",
+      "description": "Workspace removed"
+    },
+    "removedSuccessfully": {
+      "message": "berhasil dihapus",
+      "description": "removed successfully"
+    },
+    "workspaceRemovalFailed": {
+      "message": "Penghapusan ruang kerja gagal",
+      "description": "Workspace removal failed"
+    },
+    "groupMovedSuccessfully": {
+      "message": "Grup berhasil dipindahkan",
+      "description": "Group moved successfully"
+    },
+    "groupMovedInto": {
+      "message": "dipindahkan ke",
+      "description": "moved into"
+    },
+    "groupMoveFailed": {
+      "message": "Pemindahan grup gagal",
+      "description": "Group move failed"
+    },
+    "tabsMovedSuccessfully": {
+      "message": "Tab berhasil dipindahkan",
+      "description": "Tabs moved successfully"
+    },
+    "tabMovedSuccessfully": {
+      "message": "Tab berhasil dipindahkan",
+      "description": "Tab moved successfully"
+    },
+    "tabMoveFailedPleaseTryAgain": {
+      "message": "Pemindahan tab gagal, silakan coba lagi",
+      "description": "Tab move failed, please try again"
+    },
+    "couldNotFetchWorkspaceData": {
+      "message": "Tidak dapat mengambil data ruang kerja",
+      "description": "Could not fetch workspace data"
+    },
+    "errorUpdatingGroupWidth": {
+      "message": "Kesalahan memperbarui lebar grup",
+      "description": "Error updating group width"
+    },
+    "errorUpdatingMetaImagePin": {
+      "message": "Kesalahan memperbarui pin gambar meta",
+      "description": "Error updating meta image pin"
+    },
+    "saveDone": {
+      "message": "Penyimpanan selesai",
+      "description": "Save done"
+    },
+    "allActiveTabsSavedAndClosedInto": {
+      "message": "Semua tab aktif disimpan dan ditutup ke",
+      "description": "All active tabs saved and closed into"
+    },
+    "groupSavedInto": {
+      "message": "Grup disimpan ke",
+      "description": "Group saved into"
+    },
+    "tabsSavedInto": {
+      "message": "Tab disimpan ke",
+      "description": "Tabs saved into"
+    },
+    "categoryMovedSuccessfully": {
+      "message": "Kategori berhasil dipindahkan",
+      "description": "Category moved successfully"
+    },
+    "stackUnstacked": {
+      "message": "Tumpukan dipisahkan",
+      "description": "Stack unstacked"
+    },
+    "sitesSplitIntoIndividualItems": {
+      "message": "Situs dipisah menjadi item individual",
+      "description": "Sites split into individual items"
+    },
+    "stackCreated": {
+      "message": "Tumpukan dibuat",
+      "description": "Stack created"
+    },
+    "sitesMergedIntoOneStackedItem": {
+      "message": "Situs digabung menjadi satu item bertumpuk",
+      "description": "Sites merged into one stacked item"
+    },
+    "errorUpdatingDatabaseOnStackAction": {
+      "message": "Kesalahan memperbarui database pada tindakan tumpukan",
+      "description": "Error updating database on stack action"
+    },
+    "noteTurnedIntoSite": {
+      "message": "Catatan diubah menjadi situs",
+      "description": "Note turned into site"
+    },
+    "theNoteHasBeenTurnedIntoASite": {
+      "message": "Catatan telah diubah menjadi situs",
+      "description": "The note has been turned into a site"
+    },
+    "groupUpdated": {
+      "message": "Grup diperbarui",
+      "description": "Group updated"
+    },
+    "sitesInGroupSyncedWithOpenTabGroup": {
+      "message": "Situs dalam grup disinkronkan dengan grup tab terbuka",
+      "description": "Sites in group synced with the open tab group"
+    },
+    "errorSyncingSitesInGroup": {
+      "message": "Kesalahan menyinkronkan situs dalam grup",
+      "description": "Error syncing sites in group"
+    },
+    "itemSorted": {
+      "message": "Item diurutkan",
+      "description": "Item sorted"
+    },
+    "theGroupsContentHasBeenSortedAlphabetically": {
+      "message": "Konten grup telah diurutkan secara alfabetis",
+      "description": "The groups content has been sorted alphabetically"
+    },
+    "noItemsToSort": {
+      "message": "Tidak ada item untuk diurutkan",
+      "description": "No items to sort"
+    },
+    "thereSeemsToBeNoItemsInTheGroup": {
+      "message": "Sepertinya tidak ada item dalam grup",
+      "description": "There seems to be no items in the group"
+    },
+    "theGroupContentHasBeenSortedByDate": {
+      "message": "Konten grup telah diurutkan berdasarkan tanggal",
+      "description": "The group content has been sorted by date"
+    },
+    "allTextInsideGroupCopiedToClipboard": {
+      "message": "Semua teks dalam grup disalin ke clipboard",
+      "description": "All text inside group copied to clipboard"
+    },
+    "noItemsToCopy": {
+      "message": "Tidak ada item untuk disalin",
+      "description": "No items to copy"
+    }, 
+    "groupDuplicated": {
+      "message": "Grup diduplikasi",
+      "description": "Group duplicated"
+    },
+    "duplicatedSuccessfully": {
+      "message": "berhasil diduplikasi",
+      "description": "duplicated successfully"
+    },
+    "createNewCategoryToCreateMoreGroups": {
+      "message": "Buat kategori baru untuk membuat lebih banyak grup",
+      "description": "Create a new category to create more groups"
+    },
+    "stackedItems": {
+      "message": "item bertumpuk",
+      "description": "stacked items"
+    },
+    "stackedItemsDeleted": {
+      "message": "item bertumpuk dihapus",
+      "description": "Stacked items deleted"
+    },
+    "itemDeleted": {
+      "message": "item dihapus",
+      "description": "item deleted"
+    },
+    "itemsDeleted": {
+      "message": "item dihapus",
+      "description": "items deleted"
+    },
+    "errorDeletingCategory": {
+      "message": "Kesalahan menghapus kategori",
+      "description": "Error deleting category"
+    },
+    "pleaseRefreshPageAndTryAgain": {
+      "message": "Silakan segarkan halaman dan coba lagi",
+      "description": "Please refresh page and try again"
+    },
+    "wasDeleted": {
+      "message": "telah dihapus",
+      "description": "was deleted"
+    },
+    "atLeastOneCategoryPerWorkspaceRequired": {
+      "message": "Setidaknya satu kategori per ruang kerja diperlukan",
+      "description": "At least one category per workspace required"
+    },
+    "deleteNotPermitted": {
+      "message": "Penghapusan tidak diizinkan",
+      "description": "Delete not permitted"
+    },
+    "groupDeleted": {
+      "message": "Grup dihapus",
+      "description": "Group deleted"
+    },
+    "theBinContainsYourLast50DeletedItems": {
+      "message": "Tempat sampah berisi 50 item terakhir yang dihapus.",
+      "description": "The bin contains your last 50 deleted items."
+    },
+    "byChoosingToRestoreADeletedItemItWillBeRecreated": {
+      "message": "Dengan memilih untuk memulihkan item yang dihapus, item tersebut akan dibuat ulang di kategori yang dipilih saat ini.",
+      "description": "By choosing to restore a deleted item, it will be recreated in the currently chosen category."
+    },
+    "bin": {
+      "message": "Tempat Sampah",
+      "description": "Bin"
+    },
+    "areYouSureYouWantToDeleteThisWorkspace": {
+      "message": "Apakah Anda yakin ingin menghapus ruang kerja ini?",
+      "description": "Are you sure you want to delete this workspace?"
+    },
+    "areYouSureYouWantToRemoveThisWorkspace": {
+      "message": "Apakah Anda yakin ingin menghapus ruang kerja ini?",
+      "description": "Are you sure you want to remove this workspace?"
+    },
+    "allContainingCategoriesGroupsAndSavedItemsWillBeDeletedForAllUsers": {
+      "message": "Semua kategori, grup, dan item tersimpan yang ada akan dihapus untuk semua pengguna.",
+      "description": "All containing categories, groups and saved items will be deleted for all users."
+    },
+    "youWontHaveAccessToTheWorkspaceAgainTheWorkspaceWillStillBeAvailableForOtherUsers": {
+      "message": "Anda tidak akan memiliki akses ke ruang kerja lagi. Ruang kerja akan tetap tersedia untuk pengguna lain.",
+      "description": "You won't have access to the workspace again. The workspace will still be available for other users."
+    },
+    "remove": {
+      "message": "Hapus",
+      "description": "Remove"
+    },
+    "areYouSureYouWantToClearAllReminders": {
+      "message": "Apakah Anda yakin ingin menghapus semua pengingat?",
+      "description": "Are you sure you want to clear all reminders?"
+    },
+    "youCantUndoThisAction": {
+      "message": "Anda tidak dapat membatalkan tindakan ini.",
+      "description": "You can't undo this action."
+    },
+    "clearReminders": {
+      "message": "Hapus pengingat",
+      "description": "Clear reminders"
+    },
+    "clearAll": {
+      "message": "Hapus semua",
+      "description": "Clear all"
+    },
+    "reminderCleared": {
+      "message": "Pengingat dihapus",
+      "description": "Reminder cleared"
+    },
+    "remindersCleared": {
+      "message": "Pengingat dihapus",
+      "description": "Reminders cleared"
+    },
+    "reminderRemoved": {
+      "message": "Pengingat dihapus",
+      "description": "Reminder removed"
+    },
+    "date": {
+      "message": "Tanggal:",
+      "description": "Date:"
+    },
+    "unableToToggleToDo": {
+      "message": "Tidak dapat mengalihkan tugas",
+      "description": "Unable to toggle to-do"
+    },
+    "goToWorkspaceToEditItem": {
+      "message": "Pergi ke ruang kerja untuk mengedit item",
+      "description": "Go to workspace to edit item"
+    },
+    "repeating": {
+      "message": "Berulang:",
+      "description": "Repeating:"
+    },
+    "eachWeek": {
+      "message": "setiap minggu",
+      "description": "each week"
+    },
+    "ofTheMonth": {
+      "message": "dari bulan",
+      "description": "of the month"
+    },
+    "toEnableReminders": {
+      "message": "untuk mengaktifkan pengingat",
+      "description": "to enable reminders"
+    },
+    "noReminders": {
+      "message": "Tidak ada pengingat",
+      "description": "No reminders"
+    },
+    "today": {
+      "message": "Hari ini",
+      "description": "Today"
+    },
+    "minimize": {
+      "message": "Minimalkan",
+      "description": "Minimize"
+    },
+    "addSite": {
+      "message": "Tambah situs/gambar",
+      "description": "Add site/image"
+    },
+    "duplicateGroup": {
+      "message": "Duplikat grup",
+      "description": "Duplicate group"
+    },
+    "copyAsText": {
+      "message": "Salin sebagai teks",
+      "description": "Copy as text"
+    },
+    "moveTo": {
+      "message": "Pindah ke",
+      "description": "Move to"
+    },
+    "sortBy": {
+      "message": "Urutkan berdasarkan",
+      "description": "Sort by"
+    },
+    "alphabetical": {
+      "message": "Alfabetis",
+      "description": "Alphabetical"
+    },
+    "dateAdded": {
+      "message": "Tanggal ditambahkan",
+      "description": "Date added"
+    },
+    "saveTo": {
+      "message": "Simpan ke",
+      "description": "Save to"
+    },
+    "closeAndMoveTo": {
+      "message": "Tutup dan pindah ke",
+      "description": "Close and move to"
+    },
+    "createGroupAndClose": {
+      "message": "Buat grup dan tutup",
+      "description": "Create group and close"
+    },
+    "discard": {
+      "message": "Buang",
+      "description": "Discard"
+    },
+    "pin": {
+      "message": "Sematkan",
+      "description": "Pin"
+    },
+    "unpin": {
+      "message": "Lepas sematan",
+      "description": "Unpin"
+    },
+    "group": {
+      "message": "Grup",
+      "description": "Group"
+    },
+    "ungroup": {
+      "message": "Pisahkan grup",
+      "description": "Ungroup"
+    },
+    "noUrlFound": {
+      "message": "Tidak ada URL ditemukan",
+      "description": "No URL found"
+    },
+    "previewUnavailable": {
+      "message": "Pratinjau tidak tersedia",
+      "description": "Preview unavailable"
+    },
+    "tabGrouped": {
+      "message": "tab dikelompokkan",
+      "description": "tab grouped"
+    },
+    "tabsGrouped": {
+      "message": "tab dikelompokkan",
+      "description": "tabs grouped"
+    },
+    "groupCreatedFromSelectedTabs": {
+      "message": "Grup dibuat dari tab yang dipilih",
+      "description": "Group created from selected tabs"
+    },
+    "tabAlreadyDiscarded": {
+      "message": "Tab sudah dibuang",
+      "description": "Tab already discarded"
+    },
+    "doubleClickToReload": {
+      "message": "Klik dua kali untuk memuat ulang",
+      "description": "Double click to reload it"
+    },
+    "addTextSelectionToGroup": {
+      "message": "Tambahkan teks yang dipilih ke grup",
+      "description": "Add text-selection to group"
+    },
+    "closeSiteAndSaveTo": {
+      "message": "Tutup situs dan simpan ke:",
+      "description": "Close site and save to"
+    },
+    "close": {
+      "message": "tutup",
+      "description": "close"
+    },
+    "newGroup": {
+      "message": "Grup baru",
+      "description": "New group"
+    },
+    "savesLeftOnTrialPlan": {
+      "message": "penyimpanan tersisa pada paket percobaan",
+      "description": "saves left on trial plan"
+    },
+    "manageAccount": {
+      "message": "Kelola akun",
+      "description": "Manage account"
+    },
+    "signOut": {
+      "message": "Keluar",
+      "description": "Sign out"
+    },
+    "warningBySigningOut": {
+      "message": "Peringatan: Dengan keluar, data tersimpan Anda saat ini akan hilang",
+      "description": "Warning: By signing out, your current saved data will be lost"
+    },
+    "sinceYouAreOnAGuestAccount": {
+      "message": "Karena Anda menggunakan akun tamu, semua data akan hilang jika Anda keluar. Untuk menyimpan data Anda, tetap masuk atau hubungkan dengan email/kata sandi atau Google.",
+      "description": "Since you are on a guest account, all data will be lost if you sign out. To keep your data, stay signed in or link it with an email/password or Google."
+    },
+    "yesSignMeOut": {
+      "message": "Ya, keluarkan saya",
+      "description": "Yes, sign me out"
+    },
+    "importBookmarks": {
+      "message": "Impor markah",
+      "description": "Import bookmarks"
+    },
+    "feedback": {
+      "message": "Umpan balik",
+      "description": "Feedback"
+    },
+    "settings": {
+      "message": "Pengaturan",
+      "description": "Settings"
+    },
+    "theme": {
+      "message": "Tema",
+      "description": "Theme"
+    },
+    "sendFeedback": {
+      "message": "Kirim umpan balik",
+      "description": "Send feedback"
+    },
+    "pleaseShareYourFeedbackWithUs": {
+      "message": "Silakan bagikan umpan balik Anda dengan kami. Kami menghargai dan menilai masukan Anda.",
+      "description": "Please share your feedback with us. We appreciated and value your input."
+    },
+    "send": {
+      "message": "Kirim",
+      "description": "Send"
+    },
+    "onlyWorkspaceOwnerCanAddRemoveUsersAndShareViaPublicURL": {
+      "message": "Hanya pemilik ruang kerja yang dapat menambah/menghapus pengguna dan berbagi melalui URL publik.",
+      "description": "Only workspace owner can add/remove users and share via public URL."
+    },
+    "addUsersToShareTheCurrentWorkspaceAndCollaborateInRealTime": {
+      "message": "Tambahkan pengguna untuk berbagi ruang kerja saat ini dan berkolaborasi secara real-time.",
+      "description": "Add users to share the current workspace and collaborate in real time."
+    },
+    "readMoreAboutSharing": {
+      "message": "Baca lebih lanjut tentang berbagi",
+      "description": "Read more about sharing"
+    },
+    "here": {
+      "message": "di sini",
+      "description": "here"
+    },
+    "removeUser": {
+      "message": "Hapus pengguna",
+      "description": "Remove user"
+    },
+    "pleaseEnterAValidEmailAddress": {
+      "message": "Silakan masukkan alamat email yang valid",
+      "description": "Please enter a valid email address"
+    },
+    "looksLikeThisUserHasBeenInvitedAlready": {
+      "message": "Sepertinya pengguna ini sudah diundang",
+      "description": "Looks like this user has already been invited"
+    },
+    "pleaseSeeListOfUsers": {
+      "message": "Silakan lihat daftar pengguna",
+      "description": "Please see list of users"
+    },
+    "inviteSentTo": {
+      "message": "Undangan dikirim ke",
+      "description": "Invite sent to"
+    },
+    "categories": {
+      "message": "kategori",
+      "description": "categories"
+    },
+    "category": {
+      "message": "kategori",
+      "description": "category"
+    },
+    "users": {
+      "message": "Pengguna",
+      "description": "Users"
+    },
+    "moveUp": {
+      "message": "Pindah ke atas",
+      "description": "Move up"
+    },
+    "moveDown": {
+      "message": "Pindah ke bawah",
+      "description": "Move down"
+    },
+    "day": {
+      "message": "hari",
+      "description": "day"
+    },
+    "days": {
+      "message": "hari",
+      "description": "days"
+    },
+    "hour": {
+      "message": "jam",
+      "description": "hour"
+    },
+    "hours": {
+      "message": "jam",
+      "description": "hours"
+    },
+    "minute": {
+      "message": "menit",
+      "description": "minute"
+    },
+    "minutes": {
+      "message": "menit",
+      "description": "minutes"
+    },
+    "now": {
+      "message": "Sekarang",
+      "description": "Now"
+    },
+    "overdue": {
+      "message": "terlambat",
+      "description": "overdue"
+    },
+    "and": {
+      "message": "dan",
+      "description": "and"
+    },
+    "stackedSites": {
+      "message": "Situs bertumpuk",
+      "description": "Stacked sites"
+    },
+    "due": {
+      "message": "jatuh tempo",
+      "description": "due"
+    },
+    "dueCapital": {
+      "message": "JATUH TEMPO",
+      "description": "DUE"
+    },
+    "reminder": {
+      "message": "Pengingat",
+      "description": "Reminder"
+    },
+    "reminders": {
+      "message": "Pengingat",
+      "description": "Reminders"
+    },
+    "upcoming": {
+      "message": "Mendatang",
+      "description": "Upcoming"
+    },
+    "noUpcomingReminders": {
+      "message": "Tidak ada pengingat mendatang",
+      "description": "No upcoming reminders"
+    },
+    "mon": {
+      "message": "Sen",
+      "description": "Mon"
+    },
+    "tue": {
+      "message": "Sel",
+      "description": "Tue"
+    },
+    "wed": {
+      "message": "Rab",
+      "description": "Wed"
+    },
+    "thu": {
+      "message": "Kam",
+      "description": "Thu"
+    },
+    "fri": {
+      "message": "Jum",
+      "description": "Fri"
+    },
+    "sat": {
+      "message": "Sab",
+      "description": "Sat"
+    },
+    "sun": {
+      "message": "Min",
+      "description": "Sun"
+    },
+    "january": {
+      "message": "Januari",
+      "description": "January"
+    },
+    "february": {
+      "message": "Februari",
+      "description": "February"
+    },
+    "march": {
+      "message": "Maret",
+      "description": "March"
+    },
+    "april": {
+      "message": "April",
+      "description": "April"
+    },
+    "may": {
+      "message": "Mei",
+      "description": "May"
+    },
+    "june": {
+      "message": "Juni",
+      "description": "June"
+    },
+    "july": {
+      "message": "Juli",
+      "description": "July"
+    },
+    "august": {
+      "message": "Agustus",
+      "description": "August"
+    },
+    "september": {
+      "message": "September",
+      "description": "September"
+    },
+    "october": {
+      "message": "Oktober",
+      "description": "October"
+    },
+    "november": {
+      "message": "November",      
+      "description": "November"
+    },
+    "december": {
+      "message": "Desember",
+      "description": "December"
+    },
+    "clear": {
+      "message": "Hapus",
+      "description": "Clear"
+    },
+    "clearRepeat": {
+      "message": "Hapus + ulangi",
+      "description": "Clear + repeat"
+    },
+    "removeAll": {
+      "message": "Hapus semua",
+      "description": "Remove all"
+    },
+    "currentWorkspace": {
+      "message": "Ruang kerja saat ini",
+      "description": "Current workspace"
+    },
+    "allWorkspaces": {
+      "message": "Semua ruang kerja",
+      "description": "All workspaces"
+    },
+    "openTabs": {
+      "message": "Buka tab",
+      "description": "Open tabs"
+    },
+    "bookmarks": {
+      "message": "Markah",
+      "description": "Bookmarks"
+    }, 
+    "giveItATitle": {
+      "message": "Beri judul",
+      "description": "Give it a title"
+    },
+    "noteUpdated": {
+      "message": "Catatan diperbarui",
+      "description": "Note updated"
+    },
+    "errorUpdatingNote": {
+      "message": "Kesalahan memperbarui catatan",
+      "description": "Error updating note"
+    },
+    "active": {
+      "message": "aktif",
+      "description": "active"
+    },
+    "paused": {
+      "message": "dijeda",
+      "description": "paused"
+    },
+    "free": {
+      "message": "gratis",
+      "description": "free"
+    },
+    "errorRemovingItem": {
+      "message": "Kesalahan menghapus item",
+      "description": "Error removing item"
+    },
+    "errorRemovingSite": {
+      "message": "Kesalahan menghapus situs",
+      "description": "Error removing site"
+    },
+    "itemRemoved": {
+      "message": "Item dihapus",
+      "description": "Item removed"
+    },
+    "errorSavingSite": {
+      "message": "Kesalahan menyimpan situs",
+      "description": "Error saving site"
+    },
+    "groupCreatedWithItem": {
+      "message": "Grup dibuat dengan item",
+      "description": "Group created with item"
+    },
+    "loading": {
+      "message": "Memuat",
+      "description": "Loading"
+    },
+    "trialLimitReached": {
+      "message": "Batas percobaan tercapai",
+      "description": "Trial limit reached"
+    },
+    "saveComplete": {
+      "message": "Penyimpanan selesai",
+      "description": "Save complete"
+    },
+    "itemPermanentlyRemoved": {
+      "message": "Item dihapus secara permanen",
+      "description": "Item permanently removed"
+    },
+    "itemRestored": {
+      "message": "Item dipulihkan",
+      "description": "Item restored"
+    },
+    "itemRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Item dipulihkan ke dalam Item yang Dipulihkan di kategori saat ini",
+      "description": "Item restored into Restored items in current category"
+    },
+    "restoredItems": {
+      "message": "Item yang dipulihkan",
+      "description": "Restored items"
+    },
+    "groupRestored": {
+      "message": "Grup dipulihkan",
+      "description": "Group restored"
+    },
+    "groupRestoredIntoRestoredItemsInCurrentCategory": {
+      "message": "Grup dipulihkan ke dalam Item yang Dipulihkan di kategori saat ini",
+      "description": "Group restored into Restored items in current category"
+    },
+    "errorFetchingWorkspaceData": {
+      "message": "Kesalahan mengambil data ruang kerja",
+      "description": "Error fetching workspace data"
+    },
+    "errorCreatingNewGroup": {
+      "message": "Kesalahan membuat grup baru",
+      "description": "Error creating new group"
+    },
+    "dropNotAllowed": {
+      "message": "Menjatuhkan tidak diizinkan",
+      "description": "Drop not allowed"
+    },
+    "groupsMerged": {
+      "message": "Grup digabungkan",
+      "description": "Groups merged"
+    },
+    "mergedInto": {
+      "message": "digabungkan ke",
+      "description": "merged into"
+    },
+    "userRemoved": {
+      "message": "Pengguna dihapus",
+      "description": "User removed"
+    },
+    "somethingWentWrongRemovingUser": {
+      "message": "Terjadi kesalahan saat menghapus pengguna",
+      "description": "Something went wrong removing user"
+    },
+    "pleaseRefreshAndTryAgain": {
+      "message": "Silakan segarkan dan coba lagi",
+      "description": "Please refresh and try again"
+    },
+    "maximumCategoriesReached": {
+      "message": "Maksimum 8 kategori per ruang kerja",
+      "description": "Maximum 8 categories per workspace"
+    },
+    "addMoreBeforeMoving": {
+      "message": "Tambahkan lebih banyak sebelum memindahkan",
+      "description": "Add more before moving"
+    },
+    "workspaceInviteRemoved": {
+      "message": "Undangan ruang kerja dihapus",
+      "description": "Workspace invite removed"
+    },
+    "reminderUpdated": {
+      "message": "Pengingat diperbarui",
+      "description": "Reminder updated"
+    },
+    "reminderSet": {
+      "message": "Pengingat diatur",
+      "description": "Reminder set"
+    },
+    "firstUp": {
+      "message": "Pertama",
+      "description": "First up"
+    },
+    "looksLikeUrl": {
+      "message": "Tampak seperti URL",
+      "description": "Looks like a URL"
+    },
+    "turnNoteIntoSite": {
+      "message": "Ubah catatan ini menjadi situs",
+      "description": "Turn this note into a site"
+    },
+    "maximumLengthExceeded": {
+      "message": "Panjang maksimum terlampaui",
+      "description": "Maximum length exceeded"
+    },
+    "noteTruncatedTo5000Characters": {
+      "message": "Catatan dipotong menjadi 5000 karakter",
+      "description": "Note truncated to 5000 characters"
+    },
+    "noteRemoved": {
+      "message": "Catatan dihapus",
+      "description": "Note removed"
+    },
+    "emptyNoteRemoved": {
+      "message": "Catatan kosong dihapus",
+      "description": "Empty note removed"
+    },
+    "feedbackSubmitted": {
+      "message": "Umpan balik terkirim",
+      "description": "Feedback submitted"
+    },
+    "feedbackSubmissionFailed": {
+      "message": "Pengiriman umpan balik gagal",
+      "description": "Feedback submission failed"
+    },
+    "weReallyAppreciateYourValuableInput": {
+      "message": "Kami sangat menghargai masukan berharga Anda",
+      "description": "We really appreciate your valuable input"
+    },
+    "pleaseTryAgainOrSendVia": {
+      "message": "Silakan coba lagi atau kirim melalui",
+      "description": "Please try again or send via"
+    },
+    "describeYourIdeaAndUsecase": {
+      "message": "Jelaskan ide dan kasus penggunaan Anda",
+      "description": "Describe your idea and usecase"
+    },
+    "describeTheIssueBugInDetail": {
+      "message": "Jelaskan masalah/bug secara detail",
+      "description": "Describe the issue/bug in detail"
+    },
+    "otherThoughtsHere": {
+      "message": "Pemikiran lain di sini",
+      "description": "Other thoughts here"
+    },
+    "passwordResetFailed": {
+      "message": "Pengaturan ulang kata sandi gagal",
+      "description": "Password reset failed"
+    },
+    "passwordResetEmailSent": {
+      "message": "Email pengaturan ulang kata sandi terkirim",
+      "description": "Password reset email sent"
+    },
+    "emailCannotBeEmpty": {
+      "message": "Email tidak boleh kosong",
+      "description": "Email cannot be empty"
+    },
+    "notAValidEmail": {
+      "message": "Bukan email yang valid",
+      "description": "Not a valid email"
+    },
+    "checkYourEmailForAPasswordResetLink": {
+      "message": "Periksa email Anda untuk tautan pengaturan ulang kata sandi.",
+      "description": "Check your email for a password reset link."
+    },
+    "passwordMustBeAtLeast6Characters": {
+      "message": "Kata sandi harus minimal 6 karakter",
+      "description": "Password must be at least 6 characters"
+    },
+    "passwordMustBeLessThan128Characters": {
+      "message": "Kata sandi harus kurang dari 128 karakter",
+      "description": "Password must be less than 128 characters"
+    },
+    "passwordCannotBeEmpty": {
+      "message": "Kata sandi tidak boleh kosong",
+      "description": "Password cannot be empty"
+    },
+    "updateAccount": {
+      "message": "Perbarui akun",
+      "description": "Update account"
+    },
+    "signUp": {
+      "message": "Daftar",
+      "description": "Sign up"
+    },
+    "linkWithGoogle": {
+      "message": "Hubungkan dengan Google",
+      "description": "Link with Google"
+    },
+    "signUpWithEmailPassword": {
+      "message": "Daftar dengan Email + Kata Sandi",
+      "description": "Sign up with Email + Password"
+    },
+    "signUpWithGoogle": {
+      "message": "Daftar dengan Google",
+      "description": "Sign up with Google"
+    },
+    "setUpYourAccountWithAnEmailAndPasswordToEnableDataSyncingAndAccessOnOtherDevices": {
+      "message": "Siapkan akun Anda dengan email dan kata sandi untuk mengaktifkan sinkronisasi data dan akses di perangkat lain.",
+      "description": "Set up your account with an email and password to enable data syncing and access on other devices."
+    },
+    "accessAndSyncYourDataAnywhereWithAnAccountSwitchYourGuestAccountToACostFreeAccountBySigningUpBelow": {
+      "message": "Akses dan sinkronkan data Anda di mana saja dengan akun.",
+      "description": "Access and sync your data anywhere with an account."
+    },
+    "byAddingYourDetails": {
+      "message": "Dengan menambahkan detail Anda",
+      "description": "By adding your details"
+    },
+    "bySigningUp": {
+      "message": "Dengan mendaftar",
+      "description": "By signing up"
+    },
+    "privacyPolicy": {
+      "message": "kebijakan privasi",
+      "description": "privacy policy"
+    },
+    "youAgreeToOur": {
+      "message": "Anda menyetujui",
+      "description": "you agree to our"
+    },
+    "termsOfUse": {
+      "message": "ketentuan penggunaan",
+      "description": "terms of use"
+    },
+    "continueAsGuest": {
+      "message": "Lanjutkan sebagai tamu",
+      "description": "Continue as guest"
+    },
+    "somethingWentWrongSigningUp": {
+      "message": "Terjadi kesalahan saat mendaftar",
+      "description": "Something went wrong signing up"
+    },
+    "newAccount": {
+      "message": "Akun baru",
+      "description": "New account"
+    },
+    "logIn": {
+      "message": "Masuk",
+      "description": "Log in"
+    },
+    "signIn": {
+      "message": "Masuk",
+      "description": "Sign in"
+    },
+    "signInWithGoogle": {
+      "message": "Masuk dengan Google",
+      "description": "Sign in with Google"
+    },
+    "or": {
+      "message": "atau",
+      "description": "or"
+    },
+    "alreadyHaveAnAccount": {
+      "message": "Sudah punya akun? Masuk di sini:",
+      "description": "Already have an account? Sign in here:"
+    },
+    "forgotYourPassword": {
+      "message": "Lupa kata sandi Anda?",
+      "description": "Forgot your password?"
+    },
+    "enterYourEmailToResetYourPassword": {
+      "message": "Masukkan email Anda untuk mengatur ulang kata sandi",
+      "description": "Enter your email to reset your password"
+    },
+    "sendMeAResetPasswordLink": {
+      "message": "Kirimkan saya tautan pengaturan ulang kata sandi",
+      "description": "Send me a reset password link"
+    },
+    "hide": {
+      "message": "Sembunyikan",
+      "description": "Hide"
+    },
+    "show": {
+      "message": "Tampilkan",
+      "description": "Show"
+    },
+    "password": {
+      "message": "Kata sandi",
+      "description": "Password"
+    },
+    "email": {
+      "message": "Email",
+      "description": "Email"
+    },
+    "turnNoteInto": {
+      "message": "Ubah catatan ini menjadi situs",
+      "description": "Turn this note into a site"
+    },
+    "noCustomIconsUploaded": {
+      "message": "Tidak ada ikon kustom yang diunggah",
+      "description": "No custom icons uploaded"
+    },
+    "upgradeToProPlanToUploadAndUseCustomIcons": {
+      "message": "Tingkatkan ke paket Pro untuk mengunggah dan menggunakan ikon kustom",
+      "description": "Upgrade to the Pro plan to upload and use custom icons"
+    },
+    "saveAsNewGroupAndClose": {
+      "message": "Simpan sebagai grup baru dan tutup",
+      "description": "Save as new group and close"
+    },
+    "saveImageTo": {
+      "message": "Simpan gambar ke",
+      "description": "Save image to"
+    },
+    "showContent": {
+      "message": "Tampilkan konten",
+      "description": "Show content"
+    },
+    "hideContent": {
+      "message": "Sembunyikan konten",
+      "description": "Hide content"
+    },
+    "looksLikeImage": {
+      "message": "Tampak seperti gambar",
+      "description": "Looks like an image"
+    },
+    "turnNoteIntoImage": {
+      "message": "Ubah catatan ini menjadi gambar",
+      "description": "Turn this note into an image"
+    },
+    "copyDone": {
+      "message": "Penyalinan selesai",
+      "description": "Copy done"
+    },
+    "putSavedGroupsFirst": {
+      "message": "Letakkan grup tersimpan pertama",
+      "description": "Put saved groups first"
+    },
+    "putSavedGroupsFirstDetails": {
+      "message": "Tempatkan grup tersimpan di paling kiri",
+      "description": "Place saved groups to the far left"
+    }
+}
