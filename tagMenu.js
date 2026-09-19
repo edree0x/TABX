@@ -2138,6 +2138,36 @@
   if (document.readyState === "complete" || document.readyState === "interactive") boot();
   else document.addEventListener("DOMContentLoaded", boot);
 
+  /* ═══ SMART HORIZONTAL WHEEL ═══
+     Hover any horizontally-scrollable row (categories bar, groups row) and use
+     the vertical wheel to scroll it sideways — no Shift needed.  Vertical
+     scrollers (tab/note lists) are left untouched.                        */
+  document.addEventListener(
+    "wheel",
+    function smartWheel(e) {
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      if (e.defaultPrevented || e.shiftKey) return;
+      var t = e.target && e.target.nodeType === 1 ? e.target : null;
+      if (!t || isOwnNode(t)) return;
+      var el = t;
+      while (el && el !== document.body && el !== document.documentElement) {
+        var cs = getComputedStyle(el);
+        var ovy = cs.overflowY, ovx = cs.overflowX;
+        var isY = (ovy === "auto" || ovy === "scroll") && el.scrollHeight > el.clientHeight + 1;
+        var isX = (ovx === "auto" || ovx === "scroll" || ovx === "overlay") && el.scrollWidth > el.clientWidth + 1;
+        if (isY) return;                                           /* vertical scroller → let it scroll natively */
+        if (isX) {
+          var before = el.scrollLeft;
+          el.scrollLeft += e.deltaY || e.deltaX;
+          if (el.scrollLeft !== before) e.preventDefault();
+          return;
+        }
+        el = el.parentElement;
+      }
+    },
+    { passive: false, capture: true }
+  );
+
   /* expose for debugging */
   window.__TabXTag = { refresh: refreshTags, openManager: openTagManager, filterByTag: openTagFilter };
 })();

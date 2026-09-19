@@ -49,6 +49,30 @@
         "mac": "MacCtrl+Shift+S"
       },
       "description": "Open TabX"
+    },
+    "tabx-search": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "Command+Shift+F"
+      },
+      "description": "Search all workspaces"
+    },
+    "tabx-open-bin": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Z",
+        "mac": "Command+Shift+Z"
+      },
+      "description": "Open bin"
+    },
+    "tabx-create-group": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+E",
+        "mac": "Command+Shift+E"
+      },
+      "description": "Create a new group"
+    },
+    "tabx-toggle-grid": {
+      "description": "Toggle workspace grid"
     }
   },
   "web_accessible_resources": [

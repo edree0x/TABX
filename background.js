@@ -5,6 +5,9 @@
    ═══════════════════════════════════════════════════════════ */
 "use strict";
 
+/* Toby format conversion (pure module; also used by node tests) */
+importScripts("toby.js");
+
 const UKEY = "TabX_userData";
 const DKEY = "TabX_deletedData";
 const RKEY = "TabX_reminders";
@@ -555,6 +558,14 @@ chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
 
     case "importData":
       handleImportData(msg, respond);
+      return true;
+
+    case "importTobyData":
+      handleImportToby(msg, respond);
+      return true;
+
+    case "exportTobyData":
+      handleExportToby(msg, respond);
       return true;
 
     case "newUserData":
@@ -1143,17 +1154,81 @@ async function handleClearAllReminders(msg, respond) {
 
 async function handleImportData(msg, respond) {
   const payload = msg.payload || msg.data;
+
+  /* format-detection layer: route real Toby exports to the Toby importer
+     without touching the native `{ userData, tabData }` path */
+  if (TobyFormat.isToby(payload)) {
+    return handleImportToby(msg, respond);
+  }
+
   if (payload?.userData) {
     await setStorage(UKEY, payload.userData);
     if (payload.tabData) {
       const wsId = payload.userData.workspaces?.[0]?.id;
       if (wsId) await setStorage("TabX_ws_" + wsId, payload.tabData);
     }
-    respond({ msg: "success" });
+    respond({ success: true, msg: "success" });
     broadcast({ msg: "newUserData", data: buildUserCargo(payload.userData) });
   } else {
-    respond({ msg: "error" });
+    respond({ success: false, msg: "error", error: "Not a recognised TabX or Toby JSON file." });
   }
+}
+
+/* ── Toby import: Group→category, List→group(stack), Card→tab ── */
+async function handleImportToby(msg, respond) {
+  const payload = msg.payload || msg.data;
+  const check = TobyFormat.validate(payload);
+  if (!check.ok) {
+    return respond({
+      success: false,
+      msg: "error",
+      error: check.errors.slice(0, 3).join(" "),
+    });
+  }
+
+  const userData = await getStorage(UKEY);
+  if (!userData) return respond({ success: false, msg: "error", error: "No active user data." });
+
+  const conv = TobyFormat.toNative(payload, {
+    name: msg.name || "Imported from Toby",
+    ownerId: userData.userId,
+  });
+
+  userData.workspaces = userData.workspaces || [];
+  userData.workspaces.push(conv.workspace);
+  userData.updateId = uid();
+  await setStorage(UKEY, userData);
+  await setStorage("TabX_ws_" + conv.wsId, conv.tabData);
+
+  /* merge Toby label registry (per-user sidecar: preserves label colors) */
+  const registry = (await getStorage("TabX_tobyLabels")) || {};
+  Object.assign(registry, conv.labelRegistry);
+  await setStorage("TabX_tobyLabels", registry);
+
+  broadcast({ msg: "newUserData", data: buildUserCargo(userData) });
+  await broadcastWsData(userData, conv.workspace, conv.tabData);
+  respond({ success: true, msg: "success", stats: conv.stats, wsId: conv.wsId });
+}
+
+/* ── Toby export: current workspace → Toby groups/lists/cards ── */
+async function handleExportToby(msg, respond) {
+  const userData = await getStorage(UKEY);
+  if (!userData) return respond({ success: false, msg: "error", error: "No active user data." });
+
+  const reqWs = msg && (msg.wsId || (msg.data && msg.data.wsId));
+  const wsId = reqWs || (await getActiveWs()) || userData.workspaces?.[0]?.id;
+  const ws = (userData.workspaces || []).find((w) => w.id === wsId) || userData.workspaces?.[0];
+  if (!ws) return respond({ success: false, msg: "error", error: "No workspace found." });
+
+  const tabData = (await getStorage("TabX_ws_" + ws.id)) || [];
+  const registry = (await getStorage("TabX_tobyLabels")) || {};
+  const data = TobyFormat.fromNative({
+    categories: ws.catData || [],
+    tabData,
+    labels: registry,
+    wsPublic: !!ws.public,
+  });
+  respond({ success: true, msg: "success", data, wsName: ws.name });
 }
 
 async function handleNewUserData(msg, respond) {
@@ -1340,6 +1415,40 @@ function handleOpenDashboard(respond) {
   chrome.tabs.create({ url: chrome.runtime.getURL("assets/html/tabx.html") });
   respond({ msg: "success" });
 }
+
+/* ── keyboard commands (chrome://extensions/shortcuts) ── */
+const TABX_PAGE_URL = chrome.runtime.getURL("assets/html/tabx.html");
+const TABX_COMMANDS = ["tabx-search", "tabx-open-bin", "tabx-create-group", "tabx-toggle-grid"];
+
+function findTabXTab(cb) {
+  chrome.tabs.query({}, (tabs) => {
+    const found = tabs.find((t) => t.url && !t.incognito && t.url.indexOf(TABX_PAGE_URL) === 0);
+    cb(found && found.id != null ? found : null);
+  });
+}
+
+function sendCommandToTabX(action, tabId, retries) {
+  if (tabId == null) return;
+  chrome.tabs.sendMessage(tabId, { msg: "tabxShortcut", action }, () => {
+    if (chrome.runtime.lastError) {
+      if ((retries || 0) < 20) setTimeout(() => sendCommandToTabX(action, tabId, (retries || 0) + 1), 150);
+    }
+  });
+}
+
+chrome.commands.onCommand.addListener((command) => {
+  if (TABX_COMMANDS.indexOf(command) === -1) return;
+  findTabXTab((found) => {
+    const ensure = (tabId) => sendCommandToTabX(command, tabId, 0);
+    if (found) {
+      chrome.tabs.update(found.id, { active: true }, () => {
+        chrome.windows.update(found.windowId, { focused: true }, () => ensure(found.id));
+      });
+    } else {
+      chrome.tabs.create({ url: TABX_PAGE_URL, active: true }, (tab) => ensure(tab && tab.id));
+    }
+  });
+});
 
 /* ── context menu ── */
 const CM_ROOT = "tabx-tag-root";
